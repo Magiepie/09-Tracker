@@ -14,7 +14,9 @@ const PERIODS={day:1,week:7,month:30};
 let excludedPlayers=new Set();
 const readJson=async file=>JSON.parse(await fs.readFile(file,'utf8'));
 const writeJson=async(file,data)=>fs.writeFile(file,JSON.stringify(data,null,2)+'\n');
-const slug=value=>value.trim().toLowerCase().replace(/\s+/g,'-').replace(/[^a-z0-9_-]/g,'');
+const playerKey=value=>value.trim().toLowerCase().replace(/[ _-]+/g,'_').replace(/[^a-z0-9_]/g,'');
+const slug=playerKey;
+const legacySlug=value=>value.trim().toLowerCase().replace(/\s+/g,'-').replace(/[^a-z0-9_-]/g,'');
 const totalXp=s=>s.skills.reduce((n,v)=>n+v.xp,0);
 const baseline=(shots,at,days)=>{const cutoff=new Date(at).getTime()-days*86400000;return shots.filter(s=>new Date(s.capturedAt).getTime()<=cutoff).at(-1)||shots[0]};
 const gain=(shots,latest,days,skill=0)=>{const base=baseline(shots,latest.capturedAt,days);if(skill===0)return Math.max(0,totalXp(latest)-totalXp(base));return Math.max(0,latest.skills[skill-1].xp-base.skills[skill-1].xp)};
@@ -86,10 +88,16 @@ function calculateRecords(shots){
 
 async function updatePlayer(player,{register=false,force=false,cooldownMinutes=0}={}){
   if(!/^[a-zA-Z0-9 _-]{1,12}$/.test(player))throw new Error('Player name must be 1–12 letters, numbers, spaces, underscores, or hyphens.');
-  if(excludedPlayers.has(player.toLowerCase()))throw new Error(`${player}: excluded from tracking`);
+  if(excludedPlayers.has(playerKey(player)))throw new Error(`${player}: excluded from tracking`);
   await fs.mkdir(playersDir,{recursive:true});
-  const file=path.join(playersDir,`${slug(player)}.json`); let existing=null;
-  try{existing=await readJson(file)}catch(error){if(error.code!=='ENOENT')throw error}
+  const file=path.join(playersDir,`${slug(player)}.json`); let existing=null; const legacyFiles=[];
+  const candidates=[...new Set([file,path.join(playersDir,`${legacySlug(player)}.json`)])];
+  const docs=[];
+  for(const candidate of candidates){try{docs.push(await readJson(candidate));if(candidate!==file)legacyFiles.push(candidate)}catch(error){if(error.code!=='ENOENT')throw error}}
+  if(docs.length){
+    const snapshots=docs.flatMap(doc=>doc.snapshots||[]).sort((a,b)=>new Date(a.capturedAt)-new Date(b.capturedAt));
+    existing={...docs[0],...docs.at(-1),snapshots:[...new Map(snapshots.map(shot=>[shot.capturedAt,shot])).values()]};
+  }
   if(existing&&cooldownMinutes&&Date.now()-new Date(existing.lastCheckedAt||0).getTime()<cooldownMinutes*60000){console.log(`${player}: skipped by ${cooldownMinutes}-minute cooldown`);return false}
   const current=await fetchPlayer(player); const now=new Date().toISOString();
   const shot={capturedAt:now,skills:current.skills};
@@ -99,7 +107,16 @@ async function updatePlayer(player,{register=false,force=false,cooldownMinutes=0
     doc.player=existing?.player||player; doc.info=current.info; doc.lastCheckedAt=now; doc.snapshots.push(shot); doc.records=calculateRecords(doc.snapshots);
     await writeJson(file,doc); console.log(`${player}: saved snapshot`);
   }else{existing.lastCheckedAt=now;await writeJson(file,existing);console.log(`${player}: no XP change`)}
-  if(register||!existing){const index=await readJson(path.join(dataDir,'tracked-players.json'));if(!index.players.some(p=>p.toLowerCase()===player.toLowerCase())){index.players.push(player);index.players.sort((a,b)=>a.localeCompare(b));await writeJson(path.join(dataDir,'tracked-players.json'),index)}}
+  if(register&&existing&&!changed){existing.trackingRenewedAt=now;await writeJson(file,existing)}
+  for(const legacyFile of legacyFiles)await fs.unlink(legacyFile).catch(error=>{if(error.code!=='ENOENT')throw error});
+  if(register||!existing){const index=await readJson(path.join(dataDir,'tracked-players.json'));if(!index.players.some(p=>playerKey(p)===playerKey(player))){index.players.push(player);index.players.sort((a,b)=>a.localeCompare(b));await writeJson(path.join(dataDir,'tracked-players.json'),index)}}
+  if(register){
+    const inactiveFile=path.join(dataDir,'inactive-players.json');
+    let inactive={players:[]};
+    try{inactive=await readJson(inactiveFile)}catch(error){if(error.code!=='ENOENT')throw error}
+    const remaining=inactive.players.filter(name=>playerKey(name)!==playerKey(player));
+    if(remaining.length!==inactive.players.length)await writeJson(inactiveFile,{...inactive,players:remaining});
+  }
   return changed;
 }
 
@@ -112,21 +129,43 @@ async function rebuildLeaderboard(){
 }
 
 async function main(){
-  excludedPlayers=new Set((await readJson(path.join(dataDir,'excluded-players.json'))).map(name=>name.toLowerCase()));
+  excludedPlayers=new Set((await readJson(path.join(dataDir,'excluded-players.json'))).map(playerKey));
   const indexFile=path.join(dataDir,'tracked-players.json');
   const index=await readJson(indexFile);
-  const allowed=index.players.filter(player=>!excludedPlayers.has(player.toLowerCase()));
-  if(allowed.length!==index.players.length)await writeJson(indexFile,{...index,players:allowed});
   const args=process.argv.slice(2); const all=args.includes('--all'); const importOnly=args.includes('--import-only'); const fromIssue=args.includes('--issue'); const named=args.indexOf('--player');
+  const inactiveFile=path.join(dataDir,'inactive-players.json');
+  let inactive={players:[]};
+  try{inactive=await readJson(inactiveFile)}catch(error){if(error.code!=='ENOENT')throw error}
+  const inactiveNames=new Set(inactive.players.map(playerKey));
+  const seenPlayers=new Set();
+  let allowed=index.players.filter(player=>{const key=playerKey(player);if(excludedPlayers.has(key)||seenPlayers.has(key))return false;seenPlayers.add(key);return true});
+  if(all){
+    const cutoff=Date.now()-30*86400000;
+    const active=[]; const retired=[];
+    for(const player of allowed){
+      try{
+        const doc=await readJson(path.join(playersDir,`${slug(player)}.json`));
+        const lastChange=new Date(doc.snapshots.at(-1)?.capturedAt||0).getTime();
+        const renewedAt=new Date(doc.trackingRenewedAt||0).getTime();
+        const activityAt=Math.max(lastChange,renewedAt);
+        if(activityAt&&activityAt<cutoff)retired.push(player);else active.push(player);
+      }catch{active.push(player)}
+    }
+    allowed=active;
+    for(const player of retired)inactiveNames.add(playerKey(player));
+    inactive.players=[...new Map([...inactive.players,...retired].map(player=>[playerKey(player),player])).values()].sort((a,b)=>a.localeCompare(b));
+    if(retired.length){console.log(`Inactive players: retired ${retired.length} after 30 days without XP changes`);await writeJson(inactiveFile,inactive)}
+  }
+  if(allowed.length!==index.players.length)await writeJson(indexFile,{...index,players:allowed});
   if(all||importOnly){
     const discovered=await fetchPlayerList();
-    const known=new Set(allowed.map(player=>player.toLowerCase()));
+    const known=new Set([...allowed.map(playerKey),...inactiveNames]);
     const batchSize=Math.max(0,Number(process.env.DISCOVERY_BATCH_SIZE||100));
-    const additions=discovered.filter(player=>/^[a-zA-Z0-9 _-]{1,12}$/.test(player)&&!excludedPlayers.has(player.toLowerCase())&&!known.has(player.toLowerCase())).slice(0,batchSize);
-    const playersToUpdate=importOnly?additions:[...allowed,...additions];
+    const additions=discovered.filter(player=>/^[a-zA-Z0-9 _-]{1,12}$/.test(player)&&!excludedPlayers.has(playerKey(player))&&!known.has(playerKey(player))).slice(0,batchSize);
     console.log(`Player list: ${discovered.length} found, ${additions.length} new players selected (${importOnly?'import only':'daily update'})`);
     if(all)await updateActivities();
-    for(const player of playersToUpdate){try{await updatePlayer(player,{register:true})}catch(error){console.error(error.message)}}
+    if(all)for(const player of allowed){try{await updatePlayer(player)}catch(error){console.error(error.message)}}
+    for(const player of additions){try{await updatePlayer(player,{register:true})}catch(error){console.error(error.message)}}
   }
   else{const player=fromIssue?issuePlayer(process.env.ISSUE_BODY):args[named+1];if(!player)throw new Error('No valid player name supplied.');await updatePlayer(player,{register:true,cooldownMinutes:fromIssue?15:0})}
   await rebuildLeaderboard();
