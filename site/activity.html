@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Track gathered resources across the 2009scape world.">
+  <meta property="og:title" content="2009Tracker - Activities"><meta property="og:description" content="World gathering totals and gains."><meta property="og:image" content="./og.png"><meta name="twitter:card" content="summary_large_image">
+  <title>2009Tracker - Activities</title><link rel="stylesheet" href="./styles.css"><script src="./app.js" defer></script>
+</head>
+<body data-page="activity">
+  <header class="masthead"><a class="brand" href="./gains.html"><span class="brand-rune">09</span><span><strong>2009Tracker</strong><small>Hiscores archive</small></span></a><form id="lookup" class="lookup"><input id="lookup-name" maxlength="12" placeholder="Lookup player" aria-label="Player name"><button>Search</button></form></header>
+  <nav class="nav"><a href="./player.html">Player</a><a href="./gains.html">Top Gains</a><a class="active" href="./activity.html">Activities</a><a href="https://2009scape.org" target="_blank" rel="noreferrer">2009scape</a></nav>
+  <main class="shell activity-shell">
+    <div class="leader-heading"><div><p class="kicker">World activity</p><h1>Gathered</h1><p class="muted">Resources gathered by the entire 2009scape world.</p></div><div class="period-bar compact"><button data-period="day" class="active">Day</button><button data-period="week">Week</button><button data-period="month">Month</button></div></div>
+    <section id="activity-loading" class="notice"><span class="spinner"></span><h1>Counting resources...</h1></section>
+    <section id="activity-view" hidden>
+      <div id="activity-cards" class="activity-grid"></div>
+      <section class="panel activity-history"><div class="panel-title leaderboard-title"><div><p class="kicker">Saved checkpoint</p><h2>World totals</h2></div><p id="activity-updated" class="muted"></p></div><div class="activity-head"><span>Activity</span><span>Current total</span><span id="activity-period-label">24h gain</span></div><div id="activity-list"></div></section>
+    </section>
+  </main>
+  <footer><span>World totals provided by 2009scape.</span><span>One checkpoint is saved per UTC day.</span></footer>
+</body>
+</html>
