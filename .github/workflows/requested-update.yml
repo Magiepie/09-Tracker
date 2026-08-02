@@ -1,0 +1,47 @@
+name: Requested player update
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+  pages: write
+  id-token: write
+concurrency:
+  group: tracker-data
+  cancel-in-progress: false
+jobs:
+  update:
+    if: contains(github.event.issue.labels.*.name, 'player-update')
+    runs-on: ubuntu-latest
+    env:
+      ISSUE_BODY: ${{ github.event.issue.body }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - id: tracker
+        run: node scripts/tracker.mjs --issue
+      - name: Save result
+        run: |
+          if git diff --quiet -- data; then exit 0; fi
+          git config user.name "2009Tracker Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git commit -m "data: requested player update (#${{ github.event.issue.number }})"
+          git push
+      - name: Close request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --body "Player check complete. The tracker saves a new snapshot only when XP changed."
+          gh issue close ${{ github.event.issue.number }}
+  deploy:
+    if: contains(github.event.issue.labels.*.name, 'player-update')
+    needs: update
+    uses: ./.github/workflows/pages.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
