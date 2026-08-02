@@ -1,41 +1,46 @@
 {
-  "generatedAt": "2026-08-02T20:04:29.217Z",
+  "generatedAt": "2026-08-02T20:08:21.593Z",
   "day": {
     "0": [
       {
         "player": "scroll rolls",
-        "gain": 248633,
-        "currentXp": 18167514
+        "gain": 261585,
+        "currentXp": 18180466
       },
       {
         "player": "yikkity",
-        "gain": 91125,
-        "currentXp": 26223913
+        "gain": 114750,
+        "currentXp": 26247538
       },
       {
         "player": "quarky",
-        "gain": 64167,
-        "currentXp": 116744161
-      },
-      {
-        "player": "aschien",
-        "gain": 60300,
-        "currentXp": 29360519
+        "gain": 84625,
+        "currentXp": 116764619
       },
       {
         "player": "nikoichu",
-        "gain": 54500,
-        "currentXp": 4059186
+        "gain": 80500,
+        "currentXp": 4085186
+      },
+      {
+        "player": "aschien",
+        "gain": 68000,
+        "currentXp": 29368219
       },
       {
         "player": "scroll_rolls",
-        "gain": 42907,
-        "currentXp": 18167514
+        "gain": 55859,
+        "currentXp": 18180466
       },
       {
         "player": "x_i_i_i",
-        "gain": 36285,
-        "currentXp": 312130615
+        "gain": 46915,
+        "currentXp": 312141245
+      },
+      {
+        "player": "yy",
+        "gain": 44159,
+        "currentXp": 14766405
       },
       {
         "player": "nazward",
@@ -43,24 +48,19 @@
         "currentXp": 18527571
       },
       {
-        "player": "yy",
-        "gain": 30967,
-        "currentXp": 14753213
-      },
-      {
         "player": "dodgypenguin",
-        "gain": 26100,
-        "currentXp": 7155320
+        "gain": 30000,
+        "currentXp": 7159220
       },
       {
         "player": "downq",
-        "gain": 19818,
-        "currentXp": 22662535
+        "gain": 26946,
+        "currentXp": 22669663
       },
       {
         "player": "robot",
-        "gain": 18160,
-        "currentXp": 270706245
+        "gain": 18572,
+        "currentXp": 270706657
       },
       {
         "player": "alan_mac",
@@ -68,9 +68,19 @@
         "currentXp": 515911199
       },
       {
+        "player": "dizzy",
+        "gain": 11193,
+        "currentXp": 268524069
+      },
+      {
         "player": "f83",
-        "gain": 9480,
-        "currentXp": 124085265
+        "gain": 11163,
+        "currentXp": 124086948
+      },
+      {
+        "player": "daarth",
+        "gain": 8880,
+        "currentXp": 18833002
       },
       {
         "player": "1haha1",
@@ -78,9 +88,14 @@
         "currentXp": 16543638
       },
       {
-        "player": "daarth",
-        "gain": 8520,
-        "currentXp": 18832642
+        "player": "kickbuta",
+        "gain": 8130,
+        "currentXp": 50642609
+      },
+      {
+        "player": "oftheshire",
+        "gain": 8001,
+        "currentXp": 201840251
       },
       {
         "player": "torax3",
@@ -93,9 +108,9 @@
         "currentXp": 5067086
       },
       {
-        "player": "kickbuta",
-        "gain": 4140,
-        "currentXp": 50638619
+        "player": "trevisan7",
+        "gain": 4060,
+        "currentXp": 2159307
       },
       {
         "player": "kwaai_ding",
@@ -113,11 +128,6 @@
         "currentXp": 19079002
       },
       {
-        "player": "trevisan7",
-        "gain": 1989,
-        "currentXp": 2157236
-      },
-      {
         "player": "macvabey",
         "gain": 1750,
         "currentXp": 42568712
@@ -131,18 +141,28 @@
         "player": "iron_bug",
         "gain": 24,
         "currentXp": 26896597
+      },
+      {
+        "player": "cohhii",
+        "gain": 12,
+        "currentXp": 921274
       }
     ],
     "1": [
       {
         "player": "x_i_i_i",
-        "gain": 24780,
-        "currentXp": 24156168
+        "gain": 31760,
+        "currentXp": 24163148
       },
       {
         "player": "f83",
-        "gain": 7092,
-        "currentXp": 18566671
+        "gain": 8352,
+        "currentXp": 18567931
+      },
+      {
+        "player": "oftheshire",
+        "gain": 5160,
+        "currentXp": 18043093
       }
     ],
     "2": [
@@ -160,33 +180,33 @@
     "3": [
       {
         "player": "scroll rolls",
-        "gain": 186460,
-        "currentXp": 5297012
+        "gain": 196180,
+        "currentXp": 5306732
       },
       {
         "player": "quarky",
-        "gain": 40500,
-        "currentXp": 6223738
+        "gain": 53940,
+        "currentXp": 6237178
       },
       {
         "player": "scroll_rolls",
-        "gain": 32200,
-        "currentXp": 5297012
+        "gain": 41920,
+        "currentXp": 5306732
       },
       {
         "player": "yy",
-        "gain": 23240,
-        "currentXp": 8987922
+        "gain": 33140,
+        "currentXp": 8997822
+      },
+      {
+        "player": "trevisan7",
+        "gain": 2940,
+        "currentXp": 77566
       },
       {
         "player": "drizzlius",
         "gain": 2020,
         "currentXp": 1961989
-      },
-      {
-        "player": "trevisan7",
-        "gain": 1420,
-        "currentXp": 76046
       },
       {
         "player": "tooze",
@@ -197,28 +217,28 @@
     "4": [
       {
         "player": "scroll rolls",
-        "gain": 61998,
-        "currentXp": 2914082
+        "gain": 65230,
+        "currentXp": 2917314
       },
       {
         "player": "quarky",
-        "gain": 13467,
-        "currentXp": 13249493
+        "gain": 17935,
+        "currentXp": 13253961
       },
       {
         "player": "scroll_rolls",
-        "gain": 10707,
-        "currentXp": 2914082
-      },
-      {
-        "player": "x_i_i_i",
-        "gain": 8240,
-        "currentXp": 32108802
+        "gain": 13939,
+        "currentXp": 2917314
       },
       {
         "player": "yy",
-        "gain": 7727,
-        "currentXp": 3426567
+        "gain": 11019,
+        "currentXp": 3429859
+      },
+      {
+        "player": "x_i_i_i",
+        "gain": 10560,
+        "currentXp": 32111122
       },
       {
         "player": "nazward",
@@ -226,19 +246,29 @@
         "currentXp": 2615467
       },
       {
+        "player": "dizzy",
+        "gain": 2793,
+        "currentXp": 18825636
+      },
+      {
         "player": "f83",
-        "gain": 2358,
-        "currentXp": 20717013
+        "gain": 2777,
+        "currentXp": 20717432
+      },
+      {
+        "player": "oftheshire",
+        "gain": 1716,
+        "currentXp": 19967932
+      },
+      {
+        "player": "trevisan7",
+        "gain": 978,
+        "currentXp": 72065
       },
       {
         "player": "drizzlius",
         "gain": 671,
         "currentXp": 1012588
-      },
-      {
-        "player": "trevisan7",
-        "gain": 472,
-        "currentXp": 71559
       },
       {
         "player": "tooze",
@@ -253,6 +283,11 @@
     ],
     "5": [
       {
+        "player": "dizzy",
+        "gain": 8400,
+        "currentXp": 13840590
+      },
+      {
         "player": "spiriah96",
         "gain": 745,
         "currentXp": 987066
@@ -261,13 +296,13 @@
     "6": [
       {
         "player": "x_i_i_i",
-        "gain": 525,
-        "currentXp": 13040152
+        "gain": 675,
+        "currentXp": 13040302
       },
       {
         "player": "trevisan7",
-        "gain": 97,
-        "currentXp": 18470
+        "gain": 142,
+        "currentXp": 18515
       }
     ],
     "7": [
@@ -277,14 +312,14 @@
         "currentXp": 51332682
       },
       {
+        "player": "x_i_i_i",
+        "gain": 3920,
+        "currentXp": 29900017
+      },
+      {
         "player": "tooze",
         "gain": 3150,
         "currentXp": 174240
-      },
-      {
-        "player": "x_i_i_i",
-        "gain": 2740,
-        "currentXp": 29898837
       },
       {
         "player": "robot",
@@ -320,8 +355,8 @@
     "8": [
       {
         "player": "nikoichu",
-        "gain": 54500,
-        "currentXp": 325215
+        "gain": 80500,
+        "currentXp": 351215
       },
       {
         "player": "dodgypenguin",
@@ -344,8 +379,8 @@
     "10": [
       {
         "player": "yikkity",
-        "gain": 91125,
-        "currentXp": 2159202
+        "gain": 114750,
+        "currentXp": 2182827
       },
       {
         "player": "spiriah96",
@@ -356,13 +391,13 @@
     "11": [
       {
         "player": "dodgypenguin",
-        "gain": 9300,
-        "currentXp": 701717
+        "gain": 13200,
+        "currentXp": 705617
       },
       {
         "player": "daarth",
-        "gain": 8520,
-        "currentXp": 1552329
+        "gain": 8880,
+        "currentXp": 1552689
       }
     ],
     "12": [],
@@ -378,7 +413,13 @@
         "currentXp": 6309660
       }
     ],
-    "14": [],
+    "14": [
+      {
+        "player": "robot",
+        "gain": 62,
+        "currentXp": 2309846
+      }
+    ],
     "15": [
       {
         "player": "kwaai_ding",
@@ -389,6 +430,11 @@
         "player": "tooze",
         "gain": 1025,
         "currentXp": 335415
+      },
+      {
+        "player": "robot",
+        "gain": 350,
+        "currentXp": 6695045
       }
     ],
     "16": [
@@ -411,15 +457,15 @@
     "17": [
       {
         "player": "downq",
-        "gain": 19818,
-        "currentXp": 368489
+        "gain": 26946,
+        "currentXp": 375617
       }
     ],
     "18": [
       {
         "player": "aschien",
-        "gain": 43050,
-        "currentXp": 10227277
+        "gain": 50750,
+        "currentXp": 10234977
       },
       {
         "player": "robot",
@@ -440,13 +486,18 @@
     "19": [
       {
         "player": "quarky",
-        "gain": 10200,
-        "currentXp": 5569000
+        "gain": 12750,
+        "currentXp": 5571550
       },
       {
         "player": "nazward",
         "gain": 4975,
         "currentXp": 297950
+      },
+      {
+        "player": "oftheshire",
+        "gain": 1125,
+        "currentXp": 6326190
       }
     ],
     "20": [
@@ -459,18 +510,23 @@
         "player": "torax3",
         "gain": 4267,
         "currentXp": 8374609
+      },
+      {
+        "player": "cohhii",
+        "gain": 12,
+        "currentXp": 34000
       }
     ],
     "21": [
       {
+        "player": "kickbuta",
+        "gain": 7980,
+        "currentXp": 697089
+      },
+      {
         "player": "alan_mac",
         "gain": 4250,
         "currentXp": 3504821
-      },
-      {
-        "player": "kickbuta",
-        "gain": 3990,
-        "currentXp": 693099
       }
     ],
     "22": [],
@@ -480,6 +536,11 @@
         "player": "iron_bug",
         "gain": 24,
         "currentXp": 161676
+      },
+      {
+        "player": "f83",
+        "gain": 4,
+        "currentXp": 13045693
       }
     ]
   },
@@ -487,38 +548,43 @@
     "0": [
       {
         "player": "scroll rolls",
-        "gain": 248633,
-        "currentXp": 18167514
+        "gain": 261585,
+        "currentXp": 18180466
       },
       {
         "player": "yikkity",
-        "gain": 91125,
-        "currentXp": 26223913
+        "gain": 114750,
+        "currentXp": 26247538
       },
       {
         "player": "quarky",
-        "gain": 64167,
-        "currentXp": 116744161
-      },
-      {
-        "player": "aschien",
-        "gain": 60300,
-        "currentXp": 29360519
+        "gain": 84625,
+        "currentXp": 116764619
       },
       {
         "player": "nikoichu",
-        "gain": 54500,
-        "currentXp": 4059186
+        "gain": 80500,
+        "currentXp": 4085186
+      },
+      {
+        "player": "aschien",
+        "gain": 68000,
+        "currentXp": 29368219
       },
       {
         "player": "scroll_rolls",
-        "gain": 42907,
-        "currentXp": 18167514
+        "gain": 55859,
+        "currentXp": 18180466
       },
       {
         "player": "x_i_i_i",
-        "gain": 36285,
-        "currentXp": 312130615
+        "gain": 46915,
+        "currentXp": 312141245
+      },
+      {
+        "player": "yy",
+        "gain": 44159,
+        "currentXp": 14766405
       },
       {
         "player": "nazward",
@@ -526,24 +592,19 @@
         "currentXp": 18527571
       },
       {
-        "player": "yy",
-        "gain": 30967,
-        "currentXp": 14753213
-      },
-      {
         "player": "dodgypenguin",
-        "gain": 26100,
-        "currentXp": 7155320
+        "gain": 30000,
+        "currentXp": 7159220
       },
       {
         "player": "downq",
-        "gain": 19818,
-        "currentXp": 22662535
+        "gain": 26946,
+        "currentXp": 22669663
       },
       {
         "player": "robot",
-        "gain": 18160,
-        "currentXp": 270706245
+        "gain": 18572,
+        "currentXp": 270706657
       },
       {
         "player": "alan_mac",
@@ -551,9 +612,19 @@
         "currentXp": 515911199
       },
       {
+        "player": "dizzy",
+        "gain": 11193,
+        "currentXp": 268524069
+      },
+      {
         "player": "f83",
-        "gain": 9480,
-        "currentXp": 124085265
+        "gain": 11163,
+        "currentXp": 124086948
+      },
+      {
+        "player": "daarth",
+        "gain": 8880,
+        "currentXp": 18833002
       },
       {
         "player": "1haha1",
@@ -561,9 +632,14 @@
         "currentXp": 16543638
       },
       {
-        "player": "daarth",
-        "gain": 8520,
-        "currentXp": 18832642
+        "player": "kickbuta",
+        "gain": 8130,
+        "currentXp": 50642609
+      },
+      {
+        "player": "oftheshire",
+        "gain": 8001,
+        "currentXp": 201840251
       },
       {
         "player": "torax3",
@@ -576,9 +652,9 @@
         "currentXp": 5067086
       },
       {
-        "player": "kickbuta",
-        "gain": 4140,
-        "currentXp": 50638619
+        "player": "trevisan7",
+        "gain": 4060,
+        "currentXp": 2159307
       },
       {
         "player": "kwaai_ding",
@@ -596,11 +672,6 @@
         "currentXp": 19079002
       },
       {
-        "player": "trevisan7",
-        "gain": 1989,
-        "currentXp": 2157236
-      },
-      {
         "player": "macvabey",
         "gain": 1750,
         "currentXp": 42568712
@@ -614,18 +685,28 @@
         "player": "iron_bug",
         "gain": 24,
         "currentXp": 26896597
+      },
+      {
+        "player": "cohhii",
+        "gain": 12,
+        "currentXp": 921274
       }
     ],
     "1": [
       {
         "player": "x_i_i_i",
-        "gain": 24780,
-        "currentXp": 24156168
+        "gain": 31760,
+        "currentXp": 24163148
       },
       {
         "player": "f83",
-        "gain": 7092,
-        "currentXp": 18566671
+        "gain": 8352,
+        "currentXp": 18567931
+      },
+      {
+        "player": "oftheshire",
+        "gain": 5160,
+        "currentXp": 18043093
       }
     ],
     "2": [
@@ -643,33 +724,33 @@
     "3": [
       {
         "player": "scroll rolls",
-        "gain": 186460,
-        "currentXp": 5297012
+        "gain": 196180,
+        "currentXp": 5306732
       },
       {
         "player": "quarky",
-        "gain": 40500,
-        "currentXp": 6223738
+        "gain": 53940,
+        "currentXp": 6237178
       },
       {
         "player": "scroll_rolls",
-        "gain": 32200,
-        "currentXp": 5297012
+        "gain": 41920,
+        "currentXp": 5306732
       },
       {
         "player": "yy",
-        "gain": 23240,
-        "currentXp": 8987922
+        "gain": 33140,
+        "currentXp": 8997822
+      },
+      {
+        "player": "trevisan7",
+        "gain": 2940,
+        "currentXp": 77566
       },
       {
         "player": "drizzlius",
         "gain": 2020,
         "currentXp": 1961989
-      },
-      {
-        "player": "trevisan7",
-        "gain": 1420,
-        "currentXp": 76046
       },
       {
         "player": "tooze",
@@ -680,28 +761,28 @@
     "4": [
       {
         "player": "scroll rolls",
-        "gain": 61998,
-        "currentXp": 2914082
+        "gain": 65230,
+        "currentXp": 2917314
       },
       {
         "player": "quarky",
-        "gain": 13467,
-        "currentXp": 13249493
+        "gain": 17935,
+        "currentXp": 13253961
       },
       {
         "player": "scroll_rolls",
-        "gain": 10707,
-        "currentXp": 2914082
-      },
-      {
-        "player": "x_i_i_i",
-        "gain": 8240,
-        "currentXp": 32108802
+        "gain": 13939,
+        "currentXp": 2917314
       },
       {
         "player": "yy",
-        "gain": 7727,
-        "currentXp": 3426567
+        "gain": 11019,
+        "currentXp": 3429859
+      },
+      {
+        "player": "x_i_i_i",
+        "gain": 10560,
+        "currentXp": 32111122
       },
       {
         "player": "nazward",
@@ -709,19 +790,29 @@
         "currentXp": 2615467
       },
       {
+        "player": "dizzy",
+        "gain": 2793,
+        "currentXp": 18825636
+      },
+      {
         "player": "f83",
-        "gain": 2358,
-        "currentXp": 20717013
+        "gain": 2777,
+        "currentXp": 20717432
+      },
+      {
+        "player": "oftheshire",
+        "gain": 1716,
+        "currentXp": 19967932
+      },
+      {
+        "player": "trevisan7",
+        "gain": 978,
+        "currentXp": 72065
       },
       {
         "player": "drizzlius",
         "gain": 671,
         "currentXp": 1012588
-      },
-      {
-        "player": "trevisan7",
-        "gain": 472,
-        "currentXp": 71559
       },
       {
         "player": "tooze",
@@ -736,6 +827,11 @@
     ],
     "5": [
       {
+        "player": "dizzy",
+        "gain": 8400,
+        "currentXp": 13840590
+      },
+      {
         "player": "spiriah96",
         "gain": 745,
         "currentXp": 987066
@@ -744,13 +840,13 @@
     "6": [
       {
         "player": "x_i_i_i",
-        "gain": 525,
-        "currentXp": 13040152
+        "gain": 675,
+        "currentXp": 13040302
       },
       {
         "player": "trevisan7",
-        "gain": 97,
-        "currentXp": 18470
+        "gain": 142,
+        "currentXp": 18515
       }
     ],
     "7": [
@@ -760,14 +856,14 @@
         "currentXp": 51332682
       },
       {
+        "player": "x_i_i_i",
+        "gain": 3920,
+        "currentXp": 29900017
+      },
+      {
         "player": "tooze",
         "gain": 3150,
         "currentXp": 174240
-      },
-      {
-        "player": "x_i_i_i",
-        "gain": 2740,
-        "currentXp": 29898837
       },
       {
         "player": "robot",
@@ -803,8 +899,8 @@
     "8": [
       {
         "player": "nikoichu",
-        "gain": 54500,
-        "currentXp": 325215
+        "gain": 80500,
+        "currentXp": 351215
       },
       {
         "player": "dodgypenguin",
@@ -827,8 +923,8 @@
     "10": [
       {
         "player": "yikkity",
-        "gain": 91125,
-        "currentXp": 2159202
+        "gain": 114750,
+        "currentXp": 2182827
       },
       {
         "player": "spiriah96",
@@ -839,13 +935,13 @@
     "11": [
       {
         "player": "dodgypenguin",
-        "gain": 9300,
-        "currentXp": 701717
+        "gain": 13200,
+        "currentXp": 705617
       },
       {
         "player": "daarth",
-        "gain": 8520,
-        "currentXp": 1552329
+        "gain": 8880,
+        "currentXp": 1552689
       }
     ],
     "12": [],
@@ -861,7 +957,13 @@
         "currentXp": 6309660
       }
     ],
-    "14": [],
+    "14": [
+      {
+        "player": "robot",
+        "gain": 62,
+        "currentXp": 2309846
+      }
+    ],
     "15": [
       {
         "player": "kwaai_ding",
@@ -872,6 +974,11 @@
         "player": "tooze",
         "gain": 1025,
         "currentXp": 335415
+      },
+      {
+        "player": "robot",
+        "gain": 350,
+        "currentXp": 6695045
       }
     ],
     "16": [
@@ -894,15 +1001,15 @@
     "17": [
       {
         "player": "downq",
-        "gain": 19818,
-        "currentXp": 368489
+        "gain": 26946,
+        "currentXp": 375617
       }
     ],
     "18": [
       {
         "player": "aschien",
-        "gain": 43050,
-        "currentXp": 10227277
+        "gain": 50750,
+        "currentXp": 10234977
       },
       {
         "player": "robot",
@@ -923,13 +1030,18 @@
     "19": [
       {
         "player": "quarky",
-        "gain": 10200,
-        "currentXp": 5569000
+        "gain": 12750,
+        "currentXp": 5571550
       },
       {
         "player": "nazward",
         "gain": 4975,
         "currentXp": 297950
+      },
+      {
+        "player": "oftheshire",
+        "gain": 1125,
+        "currentXp": 6326190
       }
     ],
     "20": [
@@ -942,18 +1054,23 @@
         "player": "torax3",
         "gain": 4267,
         "currentXp": 8374609
+      },
+      {
+        "player": "cohhii",
+        "gain": 12,
+        "currentXp": 34000
       }
     ],
     "21": [
       {
+        "player": "kickbuta",
+        "gain": 7980,
+        "currentXp": 697089
+      },
+      {
         "player": "alan_mac",
         "gain": 4250,
         "currentXp": 3504821
-      },
-      {
-        "player": "kickbuta",
-        "gain": 3990,
-        "currentXp": 693099
       }
     ],
     "22": [],
@@ -963,6 +1080,11 @@
         "player": "iron_bug",
         "gain": 24,
         "currentXp": 161676
+      },
+      {
+        "player": "f83",
+        "gain": 4,
+        "currentXp": 13045693
       }
     ]
   },
@@ -970,38 +1092,43 @@
     "0": [
       {
         "player": "scroll rolls",
-        "gain": 248633,
-        "currentXp": 18167514
+        "gain": 261585,
+        "currentXp": 18180466
       },
       {
         "player": "yikkity",
-        "gain": 91125,
-        "currentXp": 26223913
+        "gain": 114750,
+        "currentXp": 26247538
       },
       {
         "player": "quarky",
-        "gain": 64167,
-        "currentXp": 116744161
-      },
-      {
-        "player": "aschien",
-        "gain": 60300,
-        "currentXp": 29360519
+        "gain": 84625,
+        "currentXp": 116764619
       },
       {
         "player": "nikoichu",
-        "gain": 54500,
-        "currentXp": 4059186
+        "gain": 80500,
+        "currentXp": 4085186
+      },
+      {
+        "player": "aschien",
+        "gain": 68000,
+        "currentXp": 29368219
       },
       {
         "player": "scroll_rolls",
-        "gain": 42907,
-        "currentXp": 18167514
+        "gain": 55859,
+        "currentXp": 18180466
       },
       {
         "player": "x_i_i_i",
-        "gain": 36285,
-        "currentXp": 312130615
+        "gain": 46915,
+        "currentXp": 312141245
+      },
+      {
+        "player": "yy",
+        "gain": 44159,
+        "currentXp": 14766405
       },
       {
         "player": "nazward",
@@ -1009,24 +1136,19 @@
         "currentXp": 18527571
       },
       {
-        "player": "yy",
-        "gain": 30967,
-        "currentXp": 14753213
-      },
-      {
         "player": "dodgypenguin",
-        "gain": 26100,
-        "currentXp": 7155320
+        "gain": 30000,
+        "currentXp": 7159220
       },
       {
         "player": "downq",
-        "gain": 19818,
-        "currentXp": 22662535
+        "gain": 26946,
+        "currentXp": 22669663
       },
       {
         "player": "robot",
-        "gain": 18160,
-        "currentXp": 270706245
+        "gain": 18572,
+        "currentXp": 270706657
       },
       {
         "player": "alan_mac",
@@ -1034,9 +1156,19 @@
         "currentXp": 515911199
       },
       {
+        "player": "dizzy",
+        "gain": 11193,
+        "currentXp": 268524069
+      },
+      {
         "player": "f83",
-        "gain": 9480,
-        "currentXp": 124085265
+        "gain": 11163,
+        "currentXp": 124086948
+      },
+      {
+        "player": "daarth",
+        "gain": 8880,
+        "currentXp": 18833002
       },
       {
         "player": "1haha1",
@@ -1044,9 +1176,14 @@
         "currentXp": 16543638
       },
       {
-        "player": "daarth",
-        "gain": 8520,
-        "currentXp": 18832642
+        "player": "kickbuta",
+        "gain": 8130,
+        "currentXp": 50642609
+      },
+      {
+        "player": "oftheshire",
+        "gain": 8001,
+        "currentXp": 201840251
       },
       {
         "player": "torax3",
@@ -1059,9 +1196,9 @@
         "currentXp": 5067086
       },
       {
-        "player": "kickbuta",
-        "gain": 4140,
-        "currentXp": 50638619
+        "player": "trevisan7",
+        "gain": 4060,
+        "currentXp": 2159307
       },
       {
         "player": "kwaai_ding",
@@ -1079,11 +1216,6 @@
         "currentXp": 19079002
       },
       {
-        "player": "trevisan7",
-        "gain": 1989,
-        "currentXp": 2157236
-      },
-      {
         "player": "macvabey",
         "gain": 1750,
         "currentXp": 42568712
@@ -1097,18 +1229,28 @@
         "player": "iron_bug",
         "gain": 24,
         "currentXp": 26896597
+      },
+      {
+        "player": "cohhii",
+        "gain": 12,
+        "currentXp": 921274
       }
     ],
     "1": [
       {
         "player": "x_i_i_i",
-        "gain": 24780,
-        "currentXp": 24156168
+        "gain": 31760,
+        "currentXp": 24163148
       },
       {
         "player": "f83",
-        "gain": 7092,
-        "currentXp": 18566671
+        "gain": 8352,
+        "currentXp": 18567931
+      },
+      {
+        "player": "oftheshire",
+        "gain": 5160,
+        "currentXp": 18043093
       }
     ],
     "2": [
@@ -1126,33 +1268,33 @@
     "3": [
       {
         "player": "scroll rolls",
-        "gain": 186460,
-        "currentXp": 5297012
+        "gain": 196180,
+        "currentXp": 5306732
       },
       {
         "player": "quarky",
-        "gain": 40500,
-        "currentXp": 6223738
+        "gain": 53940,
+        "currentXp": 6237178
       },
       {
         "player": "scroll_rolls",
-        "gain": 32200,
-        "currentXp": 5297012
+        "gain": 41920,
+        "currentXp": 5306732
       },
       {
         "player": "yy",
-        "gain": 23240,
-        "currentXp": 8987922
+        "gain": 33140,
+        "currentXp": 8997822
+      },
+      {
+        "player": "trevisan7",
+        "gain": 2940,
+        "currentXp": 77566
       },
       {
         "player": "drizzlius",
         "gain": 2020,
         "currentXp": 1961989
-      },
-      {
-        "player": "trevisan7",
-        "gain": 1420,
-        "currentXp": 76046
       },
       {
         "player": "tooze",
@@ -1163,28 +1305,28 @@
     "4": [
       {
         "player": "scroll rolls",
-        "gain": 61998,
-        "currentXp": 2914082
+        "gain": 65230,
+        "currentXp": 2917314
       },
       {
         "player": "quarky",
-        "gain": 13467,
-        "currentXp": 13249493
+        "gain": 17935,
+        "currentXp": 13253961
       },
       {
         "player": "scroll_rolls",
-        "gain": 10707,
-        "currentXp": 2914082
-      },
-      {
-        "player": "x_i_i_i",
-        "gain": 8240,
-        "currentXp": 32108802
+        "gain": 13939,
+        "currentXp": 2917314
       },
       {
         "player": "yy",
-        "gain": 7727,
-        "currentXp": 3426567
+        "gain": 11019,
+        "currentXp": 3429859
+      },
+      {
+        "player": "x_i_i_i",
+        "gain": 10560,
+        "currentXp": 32111122
       },
       {
         "player": "nazward",
@@ -1192,19 +1334,29 @@
         "currentXp": 2615467
       },
       {
+        "player": "dizzy",
+        "gain": 2793,
+        "currentXp": 18825636
+      },
+      {
         "player": "f83",
-        "gain": 2358,
-        "currentXp": 20717013
+        "gain": 2777,
+        "currentXp": 20717432
+      },
+      {
+        "player": "oftheshire",
+        "gain": 1716,
+        "currentXp": 19967932
+      },
+      {
+        "player": "trevisan7",
+        "gain": 978,
+        "currentXp": 72065
       },
       {
         "player": "drizzlius",
         "gain": 671,
         "currentXp": 1012588
-      },
-      {
-        "player": "trevisan7",
-        "gain": 472,
-        "currentXp": 71559
       },
       {
         "player": "tooze",
@@ -1219,6 +1371,11 @@
     ],
     "5": [
       {
+        "player": "dizzy",
+        "gain": 8400,
+        "currentXp": 13840590
+      },
+      {
         "player": "spiriah96",
         "gain": 745,
         "currentXp": 987066
@@ -1227,13 +1384,13 @@
     "6": [
       {
         "player": "x_i_i_i",
-        "gain": 525,
-        "currentXp": 13040152
+        "gain": 675,
+        "currentXp": 13040302
       },
       {
         "player": "trevisan7",
-        "gain": 97,
-        "currentXp": 18470
+        "gain": 142,
+        "currentXp": 18515
       }
     ],
     "7": [
@@ -1243,14 +1400,14 @@
         "currentXp": 51332682
       },
       {
+        "player": "x_i_i_i",
+        "gain": 3920,
+        "currentXp": 29900017
+      },
+      {
         "player": "tooze",
         "gain": 3150,
         "currentXp": 174240
-      },
-      {
-        "player": "x_i_i_i",
-        "gain": 2740,
-        "currentXp": 29898837
       },
       {
         "player": "robot",
@@ -1286,8 +1443,8 @@
     "8": [
       {
         "player": "nikoichu",
-        "gain": 54500,
-        "currentXp": 325215
+        "gain": 80500,
+        "currentXp": 351215
       },
       {
         "player": "dodgypenguin",
@@ -1310,8 +1467,8 @@
     "10": [
       {
         "player": "yikkity",
-        "gain": 91125,
-        "currentXp": 2159202
+        "gain": 114750,
+        "currentXp": 2182827
       },
       {
         "player": "spiriah96",
@@ -1322,13 +1479,13 @@
     "11": [
       {
         "player": "dodgypenguin",
-        "gain": 9300,
-        "currentXp": 701717
+        "gain": 13200,
+        "currentXp": 705617
       },
       {
         "player": "daarth",
-        "gain": 8520,
-        "currentXp": 1552329
+        "gain": 8880,
+        "currentXp": 1552689
       }
     ],
     "12": [],
@@ -1344,7 +1501,13 @@
         "currentXp": 6309660
       }
     ],
-    "14": [],
+    "14": [
+      {
+        "player": "robot",
+        "gain": 62,
+        "currentXp": 2309846
+      }
+    ],
     "15": [
       {
         "player": "kwaai_ding",
@@ -1355,6 +1518,11 @@
         "player": "tooze",
         "gain": 1025,
         "currentXp": 335415
+      },
+      {
+        "player": "robot",
+        "gain": 350,
+        "currentXp": 6695045
       }
     ],
     "16": [
@@ -1377,15 +1545,15 @@
     "17": [
       {
         "player": "downq",
-        "gain": 19818,
-        "currentXp": 368489
+        "gain": 26946,
+        "currentXp": 375617
       }
     ],
     "18": [
       {
         "player": "aschien",
-        "gain": 43050,
-        "currentXp": 10227277
+        "gain": 50750,
+        "currentXp": 10234977
       },
       {
         "player": "robot",
@@ -1406,13 +1574,18 @@
     "19": [
       {
         "player": "quarky",
-        "gain": 10200,
-        "currentXp": 5569000
+        "gain": 12750,
+        "currentXp": 5571550
       },
       {
         "player": "nazward",
         "gain": 4975,
         "currentXp": 297950
+      },
+      {
+        "player": "oftheshire",
+        "gain": 1125,
+        "currentXp": 6326190
       }
     ],
     "20": [
@@ -1425,18 +1598,23 @@
         "player": "torax3",
         "gain": 4267,
         "currentXp": 8374609
+      },
+      {
+        "player": "cohhii",
+        "gain": 12,
+        "currentXp": 34000
       }
     ],
     "21": [
       {
+        "player": "kickbuta",
+        "gain": 7980,
+        "currentXp": 697089
+      },
+      {
         "player": "alan_mac",
         "gain": 4250,
         "currentXp": 3504821
-      },
-      {
-        "player": "kickbuta",
-        "gain": 3990,
-        "currentXp": 693099
       }
     ],
     "22": [],
@@ -1446,6 +1624,11 @@
         "player": "iron_bug",
         "gain": 24,
         "currentXp": 161676
+      },
+      {
+        "player": "f83",
+        "gain": 4,
+        "currentXp": 13045693
       }
     ]
   }
