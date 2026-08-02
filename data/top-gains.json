@@ -1,7 +1,12 @@
 {
-  "generatedAt": "2026-08-02T18:49:16.038Z",
+  "generatedAt": "2026-08-02T19:14:34.033Z",
   "day": {
     "0": [
+      {
+        "player": "scroll rolls",
+        "gain": 72823,
+        "currentXp": 17991704
+      },
       {
         "player": "tooze",
         "gain": 4482,
@@ -12,12 +17,22 @@
     "2": [],
     "3": [
       {
+        "player": "scroll rolls",
+        "gain": 54520,
+        "currentXp": 5165072
+      },
+      {
         "player": "tooze",
         "gain": 200,
         "currentXp": 1054613
       }
     ],
     "4": [
+      {
+        "player": "scroll rolls",
+        "gain": 18128,
+        "currentXp": 2870212
+      },
       {
         "player": "tooze",
         "gain": 67,
@@ -50,6 +65,11 @@
     "16": [],
     "17": [],
     "18": [
+      {
+        "player": "scroll rolls",
+        "gain": 175,
+        "currentXp": 1014787
+      },
       {
         "player": "tooze",
         "gain": 40,
@@ -66,6 +86,11 @@
   "week": {
     "0": [
       {
+        "player": "scroll rolls",
+        "gain": 72823,
+        "currentXp": 17991704
+      },
+      {
         "player": "tooze",
         "gain": 4482,
         "currentXp": 5067086
@@ -75,12 +100,22 @@
     "2": [],
     "3": [
       {
+        "player": "scroll rolls",
+        "gain": 54520,
+        "currentXp": 5165072
+      },
+      {
         "player": "tooze",
         "gain": 200,
         "currentXp": 1054613
       }
     ],
     "4": [
+      {
+        "player": "scroll rolls",
+        "gain": 18128,
+        "currentXp": 2870212
+      },
       {
         "player": "tooze",
         "gain": 67,
@@ -113,6 +148,11 @@
     "16": [],
     "17": [],
     "18": [
+      {
+        "player": "scroll rolls",
+        "gain": 175,
+        "currentXp": 1014787
+      },
       {
         "player": "tooze",
         "gain": 40,
@@ -129,6 +169,11 @@
   "month": {
     "0": [
       {
+        "player": "scroll rolls",
+        "gain": 72823,
+        "currentXp": 17991704
+      },
+      {
         "player": "tooze",
         "gain": 4482,
         "currentXp": 5067086
@@ -138,12 +183,22 @@
     "2": [],
     "3": [
       {
+        "player": "scroll rolls",
+        "gain": 54520,
+        "currentXp": 5165072
+      },
+      {
         "player": "tooze",
         "gain": 200,
         "currentXp": 1054613
       }
     ],
     "4": [
+      {
+        "player": "scroll rolls",
+        "gain": 18128,
+        "currentXp": 2870212
+      },
       {
         "player": "tooze",
         "gain": 67,
@@ -176,6 +231,11 @@
     "16": [],
     "17": [],
     "18": [
+      {
+        "player": "scroll rolls",
+        "gain": 175,
+        "currentXp": 1014787
+      },
       {
         "player": "tooze",
         "gain": 40,
