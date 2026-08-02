@@ -19,7 +19,10 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version: 22
-      - run: node scripts/tracker.mjs --all
+      - name: Update tracked players and discover new players
+        env:
+          DISCOVERY_BATCH_SIZE: 100
+        run: node scripts/tracker.mjs --all
       - name: Save changed snapshots
         run: |
           if git diff --quiet -- data; then exit 0; fi
