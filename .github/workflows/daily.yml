@@ -1,0 +1,37 @@
+name: Daily player snapshots
+on:
+  schedule:
+    - cron: '5 0 * * *'
+      timezone: Etc/UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: tracker-data
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: node scripts/tracker.mjs --all
+      - name: Save changed snapshots
+        run: |
+          if git diff --quiet -- data; then exit 0; fi
+          git config user.name "2009Tracker Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git commit -m "data: daily player snapshots"
+          git push
+  deploy:
+    needs: update
+    uses: ./.github/workflows/pages.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
