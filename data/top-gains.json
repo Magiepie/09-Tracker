@@ -1,21 +1,26 @@
 {
-  "generatedAt": "2026-08-02T22:01:22.174Z",
+  "generatedAt": "2026-08-02T22:24:16.576Z",
   "day": {
     "0": [
       {
         "player": "scroll rolls",
-        "gain": 658095,
-        "currentXp": 18576976
+        "gain": 739778,
+        "currentXp": 18658659
       },
       {
         "player": "lelant",
-        "gain": 588495,
-        "currentXp": 118593905
+        "gain": 705195,
+        "currentXp": 118710605
       },
       {
         "player": "aschien",
-        "gain": 586510,
-        "currentXp": 29886729
+        "gain": 702960,
+        "currentXp": 30003179
+      },
+      {
+        "player": "yy",
+        "gain": 550429,
+        "currentXp": 15272675
       },
       {
         "player": "goblinslayer",
@@ -23,24 +28,24 @@
         "currentXp": 158233337
       },
       {
+        "player": "scroll_rolls",
+        "gain": 534052,
+        "currentXp": 18658659
+      },
+      {
         "player": "basedtray",
         "gain": 466503,
         "currentXp": 109599580
       },
       {
-        "player": "yy",
-        "gain": 464429,
-        "currentXp": 15186675
-      },
-      {
-        "player": "scroll_rolls",
-        "gain": 452369,
-        "currentXp": 18576976
-      },
-      {
         "player": "nikoichu",
         "gain": 401734,
         "currentXp": 4406420
+      },
+      {
+        "player": "cybr_knight",
+        "gain": 342249,
+        "currentXp": 28144833
       },
       {
         "player": "1haha1",
@@ -49,23 +54,28 @@
       },
       {
         "player": "x_i_i_i",
-        "gain": 285141,
-        "currentXp": 312379471
-      },
-      {
-        "player": "cybr_knight",
-        "gain": 266297,
-        "currentXp": 28068881
+        "gain": 285921,
+        "currentXp": 312380251
       },
       {
         "player": "thaw",
-        "gain": 254444,
-        "currentXp": 16246161
+        "gain": 271522,
+        "currentXp": 16263239
+      },
+      {
+        "player": "nazward",
+        "gain": 258670,
+        "currentXp": 18754717
       },
       {
         "player": "quarky",
         "gain": 231628,
         "currentXp": 116911622
+      },
+      {
+        "player": "dodgypenguin",
+        "gain": 220758,
+        "currentXp": 7349978
       },
       {
         "player": "yikkity",
@@ -78,14 +88,14 @@
         "currentXp": 2362877
       },
       {
-        "player": "nazward",
-        "gain": 205791,
-        "currentXp": 18701838
+        "player": "cybr knight",
+        "gain": 194198,
+        "currentXp": 28144833
       },
       {
-        "player": "dodgypenguin",
-        "gain": 183958,
-        "currentXp": 7313178
+        "player": "don_the_lad",
+        "gain": 182916,
+        "currentXp": 34288787
       },
       {
         "player": "smithaxe1",
@@ -93,14 +103,14 @@
         "currentXp": 42399613
       },
       {
-        "player": "don_the_lad",
-        "gain": 141502,
-        "currentXp": 34247373
+        "player": "corbx",
+        "gain": 134681,
+        "currentXp": 128028425
       },
       {
-        "player": "cybr knight",
-        "gain": 118246,
-        "currentXp": 28068881
+        "player": "don the lad",
+        "gain": 125888,
+        "currentXp": 34288787
       },
       {
         "player": "downq",
@@ -113,19 +123,29 @@
         "currentXp": 1783126
       },
       {
-        "player": "f83",
-        "gain": 104749,
-        "currentXp": 124180534
+        "player": "bigbonesjon",
+        "gain": 107020,
+        "currentXp": 348168
       },
       {
-        "player": "bigbonesjon",
-        "gain": 102020,
-        "currentXp": 343168
+        "player": "f83",
+        "gain": 105197,
+        "currentXp": 124180982
+      },
+      {
+        "player": "draugr",
+        "gain": 102191,
+        "currentXp": 36564795
       },
       {
         "player": "oftheshire",
-        "gain": 89504,
-        "currentXp": 201921754
+        "gain": 96540,
+        "currentXp": 201928790
+      },
+      {
+        "player": "sneeds",
+        "gain": 96212,
+        "currentXp": 33963367
       },
       {
         "player": "kickbuta",
@@ -138,19 +158,9 @@
         "currentXp": 33359868
       },
       {
-        "player": "don the lad",
-        "gain": 84474,
-        "currentXp": 34247373
-      },
-      {
-        "player": "draugr",
-        "gain": 80341,
-        "currentXp": 36542945
-      },
-      {
-        "player": "corbx",
-        "gain": 74302,
-        "currentXp": 127968046
+        "player": "goblin_layer",
+        "gain": 81436,
+        "currentXp": 34397040
       },
       {
         "player": "torax3",
@@ -158,24 +168,39 @@
         "currentXp": 74366091
       },
       {
+        "player": "vinicius0404",
+        "gain": 65813,
+        "currentXp": 8218795
+      },
+      {
+        "player": "daarth",
+        "gain": 64283,
+        "currentXp": 18888405
+      },
+      {
         "player": "j23t",
         "gain": 57663,
         "currentXp": 98583893
       },
       {
-        "player": "daarth",
-        "gain": 49993,
-        "currentXp": 18874115
-      },
-      {
-        "player": "sneeds",
-        "gain": 49690,
-        "currentXp": 33916845
-      },
-      {
         "player": "zeraiden",
-        "gain": 47500,
-        "currentXp": 10709544
+        "gain": 56250,
+        "currentXp": 10718294
+      },
+      {
+        "player": "iron_bug",
+        "gain": 50041,
+        "currentXp": 26946614
+      },
+      {
+        "player": "watt",
+        "gain": 47684,
+        "currentXp": 153869880
+      },
+      {
+        "player": "berton",
+        "gain": 45689,
+        "currentXp": 66441
       },
       {
         "player": "robot",
@@ -183,41 +208,16 @@
         "currentXp": 270732215
       },
       {
-        "player": "berton",
-        "gain": 39528,
-        "currentXp": 60280
-      },
-      {
         "player": "bunnyxoxoxo",
-        "gain": 38325,
-        "currentXp": 6286722
-      },
-      {
-        "player": "ir",
-        "gain": 33660,
-        "currentXp": 18169231
-      },
-      {
-        "player": "dizzy",
-        "gain": 25930,
-        "currentXp": 268538806
-      },
-      {
-        "player": "applecore",
-        "gain": 21926,
-        "currentXp": 1297396
-      },
-      {
-        "player": "3rd",
-        "gain": 18648,
-        "currentXp": 435388053
+        "gain": 41850,
+        "currentXp": 6290247
       }
     ],
     "1": [
       {
         "player": "lelant",
-        "gain": 444670,
-        "currentXp": 12797270
+        "gain": 532250,
+        "currentXp": 12884850
       },
       {
         "player": "1haha1",
@@ -236,8 +236,8 @@
       },
       {
         "player": "cybr_knight",
-        "gain": 66466,
-        "currentXp": 1591827
+        "gain": 85113,
+        "currentXp": 1610474
       },
       {
         "player": "f83",
@@ -245,19 +245,19 @@
         "currentXp": 18617625
       },
       {
+        "player": "cybr knight",
+        "gain": 48147,
+        "currentXp": 1610474
+      },
+      {
         "player": "oftheshire",
         "gain": 44160,
         "currentXp": 18082093
       },
       {
-        "player": "cybr knight",
-        "gain": 29500,
-        "currentXp": 1591827
-      },
-      {
         "player": "draugr",
-        "gain": 16624,
-        "currentXp": 2908409
+        "gain": 20336,
+        "currentXp": 2912121
       },
       {
         "player": "sneeds",
@@ -265,14 +265,14 @@
         "currentXp": 1507562
       },
       {
+        "player": "xkillatonx",
+        "gain": 4567,
+        "currentXp": 34781
+      },
+      {
         "player": "trevisan7",
         "gain": 3020,
         "currentXp": 65103
-      },
-      {
-        "player": "xkillatonx",
-        "gain": 2367,
-        "currentXp": 32581
       },
       {
         "player": "torax3",
@@ -285,9 +285,19 @@
         "currentXp": 25256836
       },
       {
+        "player": "berton",
+        "gain": 460,
+        "currentXp": 2600
+      },
+      {
         "player": "mucitel",
         "gain": 460,
         "currentXp": 4474
+      },
+      {
+        "player": "warlock_roc",
+        "gain": 200,
+        "currentXp": 287411
       }
     ],
     "2": [
@@ -298,8 +308,8 @@
       },
       {
         "player": "nazward",
-        "gain": 137120,
-        "currentXp": 3008290
+        "gain": 169900,
+        "currentXp": 3041070
       },
       {
         "player": "trevisan7",
@@ -308,18 +318,18 @@
       },
       {
         "player": "cybr_knight",
-        "gain": 66467,
-        "currentXp": 1389210
+        "gain": 85114,
+        "currentXp": 1407857
       },
       {
         "player": "cybr knight",
-        "gain": 29500,
-        "currentXp": 1389210
+        "gain": 48147,
+        "currentXp": 1407857
       },
       {
         "player": "draugr",
-        "gain": 16624,
-        "currentXp": 1410745
+        "gain": 20336,
+        "currentXp": 1414457
       },
       {
         "player": "ir",
@@ -327,14 +337,14 @@
         "currentXp": 100430
       },
       {
+        "player": "xkillatonx",
+        "gain": 4427,
+        "currentXp": 34691
+      },
+      {
         "player": "killjoy28",
         "gain": 2810,
         "currentXp": 84167
-      },
-      {
-        "player": "xkillatonx",
-        "gain": 2347,
-        "currentXp": 32611
       },
       {
         "player": "torax3",
@@ -345,6 +355,11 @@
         "player": "j23t",
         "gain": 1880,
         "currentXp": 3769077
+      },
+      {
+        "player": "goblin_layer",
+        "gain": 920,
+        "currentXp": 495294
       },
       {
         "player": "robot",
@@ -380,18 +395,18 @@
     "3": [
       {
         "player": "scroll rolls",
-        "gain": 493280,
-        "currentXp": 5603832
+        "gain": 554580,
+        "currentXp": 5665132
       },
       {
         "player": "yy",
-        "gain": 348540,
-        "currentXp": 9313222
+        "gain": 413080,
+        "currentXp": 9377762
       },
       {
         "player": "scroll_rolls",
-        "gain": 339020,
-        "currentXp": 5603832
+        "gain": 400320,
+        "currentXp": 5665132
       },
       {
         "player": "quarky",
@@ -405,28 +420,28 @@
       },
       {
         "player": "cybr_knight",
-        "gain": 66467,
-        "currentXp": 1250701
+        "gain": 85114,
+        "currentXp": 1269348
       },
       {
         "player": "don_the_lad",
-        "gain": 51031,
-        "currentXp": 4438283
+        "gain": 82111,
+        "currentXp": 4469363
       },
       {
         "player": "don the lad",
-        "gain": 39351,
-        "currentXp": 4438283
+        "gain": 70431,
+        "currentXp": 4469363
       },
       {
         "player": "cybr knight",
-        "gain": 29500,
-        "currentXp": 1250701
+        "gain": 48147,
+        "currentXp": 1269348
       },
       {
         "player": "draugr",
-        "gain": 16624,
-        "currentXp": 2735482
+        "gain": 20336,
+        "currentXp": 2739194
       },
       {
         "player": "iron_bug",
@@ -435,8 +450,13 @@
       },
       {
         "player": "xkillatonx",
-        "gain": 2406,
-        "currentXp": 32479
+        "gain": 4666,
+        "currentXp": 34739
+      },
+      {
+        "player": "zidus",
+        "gain": 3160,
+        "currentXp": 9507
       },
       {
         "player": "torax3",
@@ -454,14 +474,19 @@
         "currentXp": 1578793
       },
       {
+        "player": "mucitel",
+        "gain": 1528,
+        "currentXp": 4428
+      },
+      {
+        "player": "vinicius0404",
+        "gain": 820,
+        "currentXp": 397417
+      },
+      {
         "player": "robot",
         "gain": 573,
         "currentXp": 26029863
-      },
-      {
-        "player": "mucitel",
-        "gain": 524,
-        "currentXp": 3424
       },
       {
         "player": "dodgypenguin",
@@ -482,23 +507,23 @@
     "4": [
       {
         "player": "scroll rolls",
-        "gain": 164015,
-        "currentXp": 3016099
+        "gain": 184398,
+        "currentXp": 3036482
       },
       {
         "player": "lelant",
-        "gain": 143780,
-        "currentXp": 6141557
+        "gain": 172900,
+        "currentXp": 6170677
       },
       {
         "player": "yy",
-        "gain": 115889,
-        "currentXp": 3534729
+        "gain": 137349,
+        "currentXp": 3556189
       },
       {
         "player": "scroll_rolls",
-        "gain": 112724,
-        "currentXp": 3016099
+        "gain": 133107,
+        "currentXp": 3036482
       },
       {
         "player": "basedtray",
@@ -507,8 +532,13 @@
       },
       {
         "player": "cybr_knight",
-        "gain": 66301,
-        "currentXp": 1869822
+        "gain": 84901,
+        "currentXp": 1888422
+      },
+      {
+        "player": "thaw",
+        "gain": 63182,
+        "currentXp": 1494614
       },
       {
         "player": "1haha1",
@@ -516,9 +546,9 @@
         "currentXp": 1757782
       },
       {
-        "player": "thaw",
-        "gain": 59039,
-        "currentXp": 1490471
+        "player": "nazward",
+        "gain": 56492,
+        "currentXp": 2665415
       },
       {
         "player": "quarky",
@@ -526,14 +556,14 @@
         "currentXp": 13284704
       },
       {
+        "player": "cybr knight",
+        "gain": 48026,
+        "currentXp": 1888422
+      },
+      {
         "player": "x_i_i_i",
         "gain": 47747,
         "currentXp": 32148309
-      },
-      {
-        "player": "nazward",
-        "gain": 45593,
-        "currentXp": 2654516
       },
       {
         "player": "smithaxe1",
@@ -541,34 +571,29 @@
         "currentXp": 3290172
       },
       {
-        "player": "cybr knight",
-        "gain": 29426,
-        "currentXp": 1869822
+        "player": "don_the_lad",
+        "gain": 27302,
+        "currentXp": 3854441
+      },
+      {
+        "player": "don the lad",
+        "gain": 23419,
+        "currentXp": 3854441
       },
       {
         "player": "oftheshire",
-        "gain": 19385,
-        "currentXp": 19985601
+        "gain": 20881,
+        "currentXp": 19987097
+      },
+      {
+        "player": "draugr",
+        "gain": 20285,
+        "currentXp": 3830354
       },
       {
         "player": "f83",
         "gain": 19300,
         "currentXp": 20733955
-      },
-      {
-        "player": "don_the_lad",
-        "gain": 16968,
-        "currentXp": 3844107
-      },
-      {
-        "player": "draugr",
-        "gain": 16583,
-        "currentXp": 3826652
-      },
-      {
-        "player": "don the lad",
-        "gain": 13085,
-        "currentXp": 3844107
       },
       {
         "player": "dizzy",
@@ -579,6 +604,11 @@
         "player": "nikoichu",
         "gain": 5806,
         "currentXp": 284904
+      },
+      {
+        "player": "xkillatonx",
+        "gain": 4542,
+        "currentXp": 39781
       },
       {
         "player": "monkhood",
@@ -594,11 +624,6 @@
         "player": "sneeds",
         "gain": 2540,
         "currentXp": 2087447
-      },
-      {
-        "player": "xkillatonx",
-        "gain": 2367,
-        "currentXp": 37606
       },
       {
         "player": "trevisan7",
@@ -621,9 +646,24 @@
         "currentXp": 71274
       },
       {
+        "player": "zidus",
+        "gain": 1051,
+        "currentXp": 19437
+      },
+      {
+        "player": "actualnoob",
+        "gain": 958,
+        "currentXp": 188886
+      },
+      {
         "player": "drizzlius",
         "gain": 671,
         "currentXp": 1012588
+      },
+      {
+        "player": "mucitel",
+        "gain": 661,
+        "currentXp": 3880
       },
       {
         "player": "robot",
@@ -636,14 +676,19 @@
         "currentXp": 759438
       },
       {
-        "player": "mucitel",
-        "gain": 327,
-        "currentXp": 3546
+        "player": "berton",
+        "gain": 366,
+        "currentXp": 2929
       },
       {
-        "player": "berton",
-        "gain": 213,
-        "currentXp": 2776
+        "player": "goblin_layer",
+        "gain": 306,
+        "currentXp": 1807470
+      },
+      {
+        "player": "vinicius0404",
+        "gain": 273,
+        "currentXp": 171125
       },
       {
         "player": "bigbonesjon",
@@ -659,13 +704,23 @@
         "player": "tooze",
         "gain": 67,
         "currentXp": 865015
+      },
+      {
+        "player": "warlock_roc",
+        "gain": 66,
+        "currentXp": 277612
+      },
+      {
+        "player": "valky",
+        "gain": 54,
+        "currentXp": 187999
       }
     ],
     "5": [
       {
         "player": "thaw",
-        "gain": 177560,
-        "currentXp": 1559515
+        "gain": 190020,
+        "currentXp": 1571975
       },
       {
         "player": "dizzy",
@@ -673,14 +728,14 @@
         "currentXp": 13851650
       },
       {
+        "player": "oftheshire",
+        "gain": 18640,
+        "currentXp": 13471109
+      },
+      {
         "player": "nikoichu",
         "gain": 17390,
         "currentXp": 37623
-      },
-      {
-        "player": "oftheshire",
-        "gain": 14140,
-        "currentXp": 13466609
       },
       {
         "player": "spiriah96",
@@ -688,9 +743,19 @@
         "currentXp": 989568
       },
       {
+        "player": "actualnoob",
+        "gain": 2880,
+        "currentXp": 20820
+      },
+      {
         "player": "killjoy28",
         "gain": 2810,
         "currentXp": 16220
+      },
+      {
+        "player": "valky",
+        "gain": 160,
+        "currentXp": 38353
       }
     ],
     "6": [
@@ -720,14 +785,24 @@
         "currentXp": 250110
       },
       {
-        "player": "monkhood",
-        "gain": 720,
-        "currentXp": 9979
+        "player": "cybr knight",
+        "gain": 1125,
+        "currentXp": 197402
+      },
+      {
+        "player": "cybr_knight",
+        "gain": 1125,
+        "currentXp": 197402
       },
       {
         "player": "draugr",
-        "gain": 615,
-        "currentXp": 753563
+        "gain": 1005,
+        "currentXp": 753953
+      },
+      {
+        "player": "monkhood",
+        "gain": 720,
+        "currentXp": 9979
       },
       {
         "player": "trevisan7",
@@ -755,6 +830,11 @@
         "currentXp": 774866
       },
       {
+        "player": "berton",
+        "gain": 23,
+        "currentXp": 810
+      },
+      {
         "player": "mucitel",
         "gain": 4,
         "currentXp": 328
@@ -763,8 +843,13 @@
     "7": [
       {
         "player": "x_i_i_i",
-        "gain": 35645,
-        "currentXp": 29931742
+        "gain": 36425,
+        "currentXp": 29932522
+      },
+      {
+        "player": "sneeds",
+        "gain": 27987,
+        "currentXp": 1912412
       },
       {
         "player": "monkhood",
@@ -793,8 +878,8 @@
       },
       {
         "player": "thaw",
-        "gain": 5705,
-        "currentXp": 516812
+        "gain": 6180,
+        "currentXp": 517287
       },
       {
         "player": "dodgypenguin",
@@ -807,19 +892,24 @@
         "currentXp": 174240
       },
       {
+        "player": "iron_bug",
+        "gain": 3017,
+        "currentXp": 491767
+      },
+      {
         "player": "robot",
         "gain": 2560,
         "currentXp": 13218788
       },
       {
+        "player": "nazward",
+        "gain": 1903,
+        "currentXp": 557750
+      },
+      {
         "player": "3rd",
         "gain": 1365,
         "currentXp": 25388747
-      },
-      {
-        "player": "nazward",
-        "gain": 1253,
-        "currentXp": 557100
       },
       {
         "player": "spiriah96",
@@ -847,14 +937,9 @@
         "currentXp": 2363285
       },
       {
-        "player": "sneeds",
-        "gain": 627,
-        "currentXp": 1885052
-      },
-      {
-        "player": "iron_bug",
-        "gain": 525,
-        "currentXp": 489275
+        "player": "goblin_layer",
+        "gain": 610,
+        "currentXp": 1765535
       },
       {
         "player": "warlock_roc",
@@ -868,8 +953,28 @@
       },
       {
         "player": "draugr",
-        "gain": 390,
-        "currentXp": 2719211
+        "gain": 455,
+        "currentXp": 2719276
+      },
+      {
+        "player": "cybr_knight",
+        "gain": 385,
+        "currentXp": 728562
+      },
+      {
+        "player": "f83",
+        "gain": 335,
+        "currentXp": 6909553
+      },
+      {
+        "player": "actualnoob",
+        "gain": 278,
+        "currentXp": 102995
+      },
+      {
+        "player": "cybr knight",
+        "gain": 235,
+        "currentXp": 728562
       },
       {
         "player": "slimeysub",
@@ -892,14 +997,9 @@
         "currentXp": 2846887
       },
       {
-        "player": "cybr_knight",
-        "gain": 150,
-        "currentXp": 728327
-      },
-      {
-        "player": "f83",
-        "gain": 150,
-        "currentXp": 6909368
+        "player": "vinicius0404",
+        "gain": 175,
+        "currentXp": 407584
       },
       {
         "player": "applecore",
@@ -915,13 +1015,23 @@
       },
       {
         "player": "dodgypenguin",
-        "gain": 48900,
-        "currentXp": 1270590
+        "gain": 65000,
+        "currentXp": 1286690
+      },
+      {
+        "player": "sigkalara",
+        "gain": 6885,
+        "currentXp": 2574505
       },
       {
         "player": "trevisan7",
         "gain": 4200,
         "currentXp": 156515
+      },
+      {
+        "player": "mucitel",
+        "gain": 3250,
+        "currentXp": 23330
       },
       {
         "player": "spiriah96",
@@ -937,18 +1047,23 @@
         "player": "cohhii",
         "gain": 510,
         "currentXp": 36495
+      },
+      {
+        "player": "zidus",
+        "gain": 300,
+        "currentXp": 5860
       }
     ],
     "9": [
       {
         "player": "zeraiden",
-        "gain": 47500,
-        "currentXp": 6614317
+        "gain": 56250,
+        "currentXp": 6623067
       },
       {
         "player": "corbx",
-        "gain": 31250,
-        "currentXp": 20555292
+        "gain": 35375,
+        "currentXp": 20559417
       },
       {
         "player": "berton",
@@ -961,14 +1076,29 @@
         "currentXp": 265437
       },
       {
+        "player": "iron_bug",
+        "gain": 3938,
+        "currentXp": 1488912
+      },
+      {
         "player": "1haha1",
         "gain": 3750,
         "currentXp": 2243248
       },
       {
+        "player": "draugr",
+        "gain": 3600,
+        "currentXp": 3797177
+      },
+      {
         "player": "trevisan7",
         "gain": 2200,
         "currentXp": 520630
+      },
+      {
+        "player": "zidus",
+        "gain": 2034,
+        "currentXp": 99670
       },
       {
         "player": "feedmadcat",
@@ -999,6 +1129,11 @@
         "player": "ir",
         "gain": 450,
         "currentXp": 7952916
+      },
+      {
+        "player": "mucitel",
+        "gain": 100,
+        "currentXp": 3225
       },
       {
         "player": "spiriah96",
@@ -1046,13 +1181,18 @@
       },
       {
         "player": "daarth",
-        "gain": 34370,
-        "currentXp": 1578179
+        "gain": 48170,
+        "currentXp": 1591979
+      },
+      {
+        "player": "watt",
+        "gain": 47684,
+        "currentXp": 4098904
       },
       {
         "player": "dodgypenguin",
-        "gain": 26600,
-        "currentXp": 719017
+        "gain": 47300,
+        "currentXp": 739717
       },
       {
         "player": "trevisan7",
@@ -1060,43 +1200,58 @@
         "currentXp": 64475
       },
       {
+        "player": "mucitel",
+        "gain": 2980,
+        "currentXp": 15316
+      },
+      {
         "player": "j23t",
         "gain": 1800,
         "currentXp": 8775886
       },
       {
-        "player": "mucitel",
-        "gain": 750,
-        "currentXp": 13086
-      },
-      {
         "player": "cohhii",
         "gain": 370,
         "currentXp": 21908
+      },
+      {
+        "player": "zidus",
+        "gain": 200,
+        "currentXp": 600
       }
     ],
     "12": [
+      {
+        "player": "corbx",
+        "gain": 13952,
+        "currentXp": 12547464
+      },
       {
         "player": "applecore",
         "gain": 13770,
         "currentXp": 102285
       },
       {
-        "player": "corbx",
-        "gain": 12152,
-        "currentXp": 12545664
+        "player": "zidus",
+        "gain": 450,
+        "currentXp": 15250
       },
       {
         "player": "trevisan7",
         "gain": 200,
         "currentXp": 53425
+      },
+      {
+        "player": "mucitel",
+        "gain": 160,
+        "currentXp": 160
       }
     ],
     "13": [
       {
         "player": "aschien",
-        "gain": 157410,
-        "currentXp": 4038687
+        "gain": 191260,
+        "currentXp": 4072537
       },
       {
         "player": "yikkity",
@@ -1105,8 +1260,8 @@
       },
       {
         "player": "sneeds",
-        "gain": 31285,
-        "currentXp": 851619
+        "gain": 50447,
+        "currentXp": 870781
       },
       {
         "player": "robot",
@@ -1139,6 +1294,11 @@
         "currentXp": 224222
       },
       {
+        "player": "draugr",
+        "gain": 358,
+        "currentXp": 536511
+      },
+      {
         "player": "don the lad",
         "gain": 335,
         "currentXp": 687949
@@ -1159,9 +1319,9 @@
         "currentXp": 5334960
       },
       {
-        "player": "draugr",
-        "gain": 208,
-        "currentXp": 536361
+        "player": "warlock_roc",
+        "gain": 90,
+        "currentXp": 189727
       }
     ],
     "14": [
@@ -1171,14 +1331,14 @@
         "currentXp": 66992
       },
       {
+        "player": "berton",
+        "gain": 3125,
+        "currentXp": 3962
+      },
+      {
         "player": "ayesupqt",
         "gain": 1750,
         "currentXp": 14015
-      },
-      {
-        "player": "berton",
-        "gain": 1625,
-        "currentXp": 2462
       },
       {
         "player": "nikoichu",
@@ -1219,13 +1379,13 @@
       },
       {
         "player": "bigbonesjon",
-        "gain": 37050,
-        "currentXp": 54775
+        "gain": 42050,
+        "currentXp": 59775
       },
       {
         "player": "bunnyxoxoxo",
-        "gain": 36750,
-        "currentXp": 898937
+        "gain": 40250,
+        "currentXp": 902437
       },
       {
         "player": "kickbuta",
@@ -1233,24 +1393,29 @@
         "currentXp": 4511740
       },
       {
+        "player": "ayesupqt",
+        "gain": 32900,
+        "currentXp": 58387
+      },
+      {
         "player": "daarth",
         "gain": 15623,
         "currentXp": 1155564
       },
       {
-        "player": "ayesupqt",
-        "gain": 13300,
-        "currentXp": 38787
+        "player": "matoxewuz",
+        "gain": 15050,
+        "currentXp": 3020140
+      },
+      {
+        "player": "berton",
+        "gain": 13125,
+        "currentXp": 17850
       },
       {
         "player": "rhaenys",
         "gain": 9870,
         "currentXp": 22306677
-      },
-      {
-        "player": "berton",
-        "gain": 9100,
-        "currentXp": 13825
       },
       {
         "player": "cohhii",
@@ -1269,8 +1434,8 @@
       },
       {
         "player": "cybrknight",
-        "gain": 4375,
-        "currentXp": 14599135
+        "gain": 5625,
+        "currentXp": 14600385
       },
       {
         "player": "kwaai_ding",
@@ -1291,6 +1456,11 @@
         "player": "robot",
         "gain": 350,
         "currentXp": 6695045
+      },
+      {
+        "player": "warlock_roc",
+        "gain": 275,
+        "currentXp": 681135
       }
     ],
     "16": [
@@ -1301,8 +1471,8 @@
       },
       {
         "player": "f83",
-        "gain": 27244,
-        "currentXp": 1142511
+        "gain": 27506,
+        "currentXp": 1142773
       },
       {
         "player": "j23t",
@@ -1340,24 +1510,29 @@
         "currentXp": 229052
       },
       {
+        "player": "corbx",
+        "gain": 904,
+        "currentXp": 1370466
+      },
+      {
         "player": "thaw",
         "gain": 500,
         "currentXp": 74230
       },
       {
         "player": "cybr_knight",
-        "gain": 446,
-        "currentXp": 156231
+        "gain": 497,
+        "currentXp": 156282
+      },
+      {
+        "player": "cybr knight",
+        "gain": 371,
+        "currentXp": 156282
       },
       {
         "player": "torax3",
         "gain": 351,
         "currentXp": 382774
-      },
-      {
-        "player": "cybr knight",
-        "gain": 320,
-        "currentXp": 156231
       },
       {
         "player": "dodgypenguin",
@@ -1375,14 +1550,14 @@
         "currentXp": 3029674
       },
       {
+        "player": "draugr",
+        "gain": 62,
+        "currentXp": 238501
+      },
+      {
         "player": "iron_bug",
         "gain": 62,
         "currentXp": 728945
-      },
-      {
-        "player": "draugr",
-        "gain": 30,
-        "currentXp": 238469
       },
       {
         "player": "ir",
@@ -1403,15 +1578,20 @@
       },
       {
         "player": "bunnyxoxoxo",
-        "gain": 1575,
-        "currentXp": 16700
+        "gain": 1600,
+        "currentXp": 16725
+      },
+      {
+        "player": "f83",
+        "gain": 1,
+        "currentXp": 753618
       }
     ],
     "18": [
       {
         "player": "aschien",
-        "gain": 429100,
-        "currentXp": 10613327
+        "gain": 511700,
+        "currentXp": 10695927
       },
       {
         "player": "dodgypenguin",
@@ -1439,9 +1619,24 @@
         "currentXp": 46065
       },
       {
+        "player": "corbx",
+        "gain": 2150,
+        "currentXp": 2692389
+      },
+      {
+        "player": "goblin_layer",
+        "gain": 1600,
+        "currentXp": 2878062
+      },
+      {
         "player": "torax3",
         "gain": 1395,
         "currentXp": 31354022
+      },
+      {
+        "player": "applecore",
+        "gain": 1136,
+        "currentXp": 22866
       },
       {
         "player": "scroll rolls",
@@ -1481,24 +1676,24 @@
         "currentXp": 5595350
       },
       {
+        "player": "nazward",
+        "gain": 29625,
+        "currentXp": 322600
+      },
+      {
         "player": "smithaxe1",
         "gain": 22050,
         "currentXp": 909690
       },
       {
-        "player": "nazward",
-        "gain": 21075,
-        "currentXp": 314050
-      },
-      {
         "player": "draugr",
-        "gain": 12642,
-        "currentXp": 2306685
+        "gain": 15417,
+        "currentXp": 2309460
       },
       {
         "player": "oftheshire",
-        "gain": 11475,
-        "currentXp": 6336540
+        "gain": 12515,
+        "currentXp": 6337580
       },
       {
         "player": "sneeds",
@@ -1514,9 +1709,24 @@
         "player": "ir",
         "gain": 2119,
         "currentXp": 35512
+      },
+      {
+        "player": "actualnoob",
+        "gain": 675,
+        "currentXp": 19350
+      },
+      {
+        "player": "mucitel",
+        "gain": 225,
+        "currentXp": 225
       }
     ],
     "20": [
+      {
+        "player": "corbx",
+        "gain": 70405,
+        "currentXp": 11117190
+      },
       {
         "player": "don the lad",
         "gain": 21153,
@@ -1526,11 +1736,6 @@
         "player": "don_the_lad",
         "gain": 21153,
         "currentXp": 373882
-      },
-      {
-        "player": "corbx",
-        "gain": 19005,
-        "currentXp": 11065790
       },
       {
         "player": "3rd",
@@ -1588,13 +1793,18 @@
         "player": "monkhood",
         "gain": 2227,
         "currentXp": 2227
+      },
+      {
+        "player": "daarth",
+        "gain": 490,
+        "currentXp": 95702
       }
     ],
     "22": [
       {
         "player": "vinicius0404",
-        "gain": 17680,
-        "currentXp": 353462
+        "gain": 64545,
+        "currentXp": 400327
       },
       {
         "player": "robot",
@@ -1603,6 +1813,11 @@
       }
     ],
     "23": [
+      {
+        "player": "iron_bug",
+        "gain": 38100,
+        "currentXp": 223885
+      },
       {
         "player": "cohhii",
         "gain": 1035,
@@ -1616,9 +1831,14 @@
     ],
     "24": [
       {
+        "player": "goblin_layer",
+        "gain": 78000,
+        "currentXp": 1818927
+      },
+      {
         "player": "iron_bug",
-        "gain": 84,
-        "currentXp": 161736
+        "gain": 124,
+        "currentXp": 161776
       },
       {
         "player": "cohhii",
@@ -1646,18 +1866,23 @@
     "0": [
       {
         "player": "scroll rolls",
-        "gain": 658095,
-        "currentXp": 18576976
+        "gain": 739778,
+        "currentXp": 18658659
       },
       {
         "player": "lelant",
-        "gain": 588495,
-        "currentXp": 118593905
+        "gain": 705195,
+        "currentXp": 118710605
       },
       {
         "player": "aschien",
-        "gain": 586510,
-        "currentXp": 29886729
+        "gain": 702960,
+        "currentXp": 30003179
+      },
+      {
+        "player": "yy",
+        "gain": 550429,
+        "currentXp": 15272675
       },
       {
         "player": "goblinslayer",
@@ -1665,24 +1890,24 @@
         "currentXp": 158233337
       },
       {
+        "player": "scroll_rolls",
+        "gain": 534052,
+        "currentXp": 18658659
+      },
+      {
         "player": "basedtray",
         "gain": 466503,
         "currentXp": 109599580
       },
       {
-        "player": "yy",
-        "gain": 464429,
-        "currentXp": 15186675
-      },
-      {
-        "player": "scroll_rolls",
-        "gain": 452369,
-        "currentXp": 18576976
-      },
-      {
         "player": "nikoichu",
         "gain": 401734,
         "currentXp": 4406420
+      },
+      {
+        "player": "cybr_knight",
+        "gain": 342249,
+        "currentXp": 28144833
       },
       {
         "player": "1haha1",
@@ -1691,23 +1916,28 @@
       },
       {
         "player": "x_i_i_i",
-        "gain": 285141,
-        "currentXp": 312379471
-      },
-      {
-        "player": "cybr_knight",
-        "gain": 266297,
-        "currentXp": 28068881
+        "gain": 285921,
+        "currentXp": 312380251
       },
       {
         "player": "thaw",
-        "gain": 254444,
-        "currentXp": 16246161
+        "gain": 271522,
+        "currentXp": 16263239
+      },
+      {
+        "player": "nazward",
+        "gain": 258670,
+        "currentXp": 18754717
       },
       {
         "player": "quarky",
         "gain": 231628,
         "currentXp": 116911622
+      },
+      {
+        "player": "dodgypenguin",
+        "gain": 220758,
+        "currentXp": 7349978
       },
       {
         "player": "yikkity",
@@ -1720,14 +1950,14 @@
         "currentXp": 2362877
       },
       {
-        "player": "nazward",
-        "gain": 205791,
-        "currentXp": 18701838
+        "player": "cybr knight",
+        "gain": 194198,
+        "currentXp": 28144833
       },
       {
-        "player": "dodgypenguin",
-        "gain": 183958,
-        "currentXp": 7313178
+        "player": "don_the_lad",
+        "gain": 182916,
+        "currentXp": 34288787
       },
       {
         "player": "smithaxe1",
@@ -1735,14 +1965,14 @@
         "currentXp": 42399613
       },
       {
-        "player": "don_the_lad",
-        "gain": 141502,
-        "currentXp": 34247373
+        "player": "corbx",
+        "gain": 134681,
+        "currentXp": 128028425
       },
       {
-        "player": "cybr knight",
-        "gain": 118246,
-        "currentXp": 28068881
+        "player": "don the lad",
+        "gain": 125888,
+        "currentXp": 34288787
       },
       {
         "player": "downq",
@@ -1755,19 +1985,29 @@
         "currentXp": 1783126
       },
       {
-        "player": "f83",
-        "gain": 104749,
-        "currentXp": 124180534
+        "player": "bigbonesjon",
+        "gain": 107020,
+        "currentXp": 348168
       },
       {
-        "player": "bigbonesjon",
-        "gain": 102020,
-        "currentXp": 343168
+        "player": "f83",
+        "gain": 105197,
+        "currentXp": 124180982
+      },
+      {
+        "player": "draugr",
+        "gain": 102191,
+        "currentXp": 36564795
       },
       {
         "player": "oftheshire",
-        "gain": 89504,
-        "currentXp": 201921754
+        "gain": 96540,
+        "currentXp": 201928790
+      },
+      {
+        "player": "sneeds",
+        "gain": 96212,
+        "currentXp": 33963367
       },
       {
         "player": "kickbuta",
@@ -1780,19 +2020,9 @@
         "currentXp": 33359868
       },
       {
-        "player": "don the lad",
-        "gain": 84474,
-        "currentXp": 34247373
-      },
-      {
-        "player": "draugr",
-        "gain": 80341,
-        "currentXp": 36542945
-      },
-      {
-        "player": "corbx",
-        "gain": 74302,
-        "currentXp": 127968046
+        "player": "goblin_layer",
+        "gain": 81436,
+        "currentXp": 34397040
       },
       {
         "player": "torax3",
@@ -1800,24 +2030,39 @@
         "currentXp": 74366091
       },
       {
+        "player": "vinicius0404",
+        "gain": 65813,
+        "currentXp": 8218795
+      },
+      {
+        "player": "daarth",
+        "gain": 64283,
+        "currentXp": 18888405
+      },
+      {
         "player": "j23t",
         "gain": 57663,
         "currentXp": 98583893
       },
       {
-        "player": "daarth",
-        "gain": 49993,
-        "currentXp": 18874115
-      },
-      {
-        "player": "sneeds",
-        "gain": 49690,
-        "currentXp": 33916845
-      },
-      {
         "player": "zeraiden",
-        "gain": 47500,
-        "currentXp": 10709544
+        "gain": 56250,
+        "currentXp": 10718294
+      },
+      {
+        "player": "iron_bug",
+        "gain": 50041,
+        "currentXp": 26946614
+      },
+      {
+        "player": "watt",
+        "gain": 47684,
+        "currentXp": 153869880
+      },
+      {
+        "player": "berton",
+        "gain": 45689,
+        "currentXp": 66441
       },
       {
         "player": "robot",
@@ -1825,41 +2070,16 @@
         "currentXp": 270732215
       },
       {
-        "player": "berton",
-        "gain": 39528,
-        "currentXp": 60280
-      },
-      {
         "player": "bunnyxoxoxo",
-        "gain": 38325,
-        "currentXp": 6286722
-      },
-      {
-        "player": "ir",
-        "gain": 33660,
-        "currentXp": 18169231
-      },
-      {
-        "player": "dizzy",
-        "gain": 25930,
-        "currentXp": 268538806
-      },
-      {
-        "player": "applecore",
-        "gain": 21926,
-        "currentXp": 1297396
-      },
-      {
-        "player": "3rd",
-        "gain": 18648,
-        "currentXp": 435388053
+        "gain": 41850,
+        "currentXp": 6290247
       }
     ],
     "1": [
       {
         "player": "lelant",
-        "gain": 444670,
-        "currentXp": 12797270
+        "gain": 532250,
+        "currentXp": 12884850
       },
       {
         "player": "1haha1",
@@ -1878,8 +2098,8 @@
       },
       {
         "player": "cybr_knight",
-        "gain": 66466,
-        "currentXp": 1591827
+        "gain": 85113,
+        "currentXp": 1610474
       },
       {
         "player": "f83",
@@ -1887,19 +2107,19 @@
         "currentXp": 18617625
       },
       {
+        "player": "cybr knight",
+        "gain": 48147,
+        "currentXp": 1610474
+      },
+      {
         "player": "oftheshire",
         "gain": 44160,
         "currentXp": 18082093
       },
       {
-        "player": "cybr knight",
-        "gain": 29500,
-        "currentXp": 1591827
-      },
-      {
         "player": "draugr",
-        "gain": 16624,
-        "currentXp": 2908409
+        "gain": 20336,
+        "currentXp": 2912121
       },
       {
         "player": "sneeds",
@@ -1907,14 +2127,14 @@
         "currentXp": 1507562
       },
       {
+        "player": "xkillatonx",
+        "gain": 4567,
+        "currentXp": 34781
+      },
+      {
         "player": "trevisan7",
         "gain": 3020,
         "currentXp": 65103
-      },
-      {
-        "player": "xkillatonx",
-        "gain": 2367,
-        "currentXp": 32581
       },
       {
         "player": "torax3",
@@ -1927,9 +2147,19 @@
         "currentXp": 25256836
       },
       {
+        "player": "berton",
+        "gain": 460,
+        "currentXp": 2600
+      },
+      {
         "player": "mucitel",
         "gain": 460,
         "currentXp": 4474
+      },
+      {
+        "player": "warlock_roc",
+        "gain": 200,
+        "currentXp": 287411
       }
     ],
     "2": [
@@ -1940,8 +2170,8 @@
       },
       {
         "player": "nazward",
-        "gain": 137120,
-        "currentXp": 3008290
+        "gain": 169900,
+        "currentXp": 3041070
       },
       {
         "player": "trevisan7",
@@ -1950,18 +2180,18 @@
       },
       {
         "player": "cybr_knight",
-        "gain": 66467,
-        "currentXp": 1389210
+        "gain": 85114,
+        "currentXp": 1407857
       },
       {
         "player": "cybr knight",
-        "gain": 29500,
-        "currentXp": 1389210
+        "gain": 48147,
+        "currentXp": 1407857
       },
       {
         "player": "draugr",
-        "gain": 16624,
-        "currentXp": 1410745
+        "gain": 20336,
+        "currentXp": 1414457
       },
       {
         "player": "ir",
@@ -1969,14 +2199,14 @@
         "currentXp": 100430
       },
       {
+        "player": "xkillatonx",
+        "gain": 4427,
+        "currentXp": 34691
+      },
+      {
         "player": "killjoy28",
         "gain": 2810,
         "currentXp": 84167
-      },
-      {
-        "player": "xkillatonx",
-        "gain": 2347,
-        "currentXp": 32611
       },
       {
         "player": "torax3",
@@ -1987,6 +2217,11 @@
         "player": "j23t",
         "gain": 1880,
         "currentXp": 3769077
+      },
+      {
+        "player": "goblin_layer",
+        "gain": 920,
+        "currentXp": 495294
       },
       {
         "player": "robot",
@@ -2022,18 +2257,18 @@
     "3": [
       {
         "player": "scroll rolls",
-        "gain": 493280,
-        "currentXp": 5603832
+        "gain": 554580,
+        "currentXp": 5665132
       },
       {
         "player": "yy",
-        "gain": 348540,
-        "currentXp": 9313222
+        "gain": 413080,
+        "currentXp": 9377762
       },
       {
         "player": "scroll_rolls",
-        "gain": 339020,
-        "currentXp": 5603832
+        "gain": 400320,
+        "currentXp": 5665132
       },
       {
         "player": "quarky",
@@ -2047,28 +2282,28 @@
       },
       {
         "player": "cybr_knight",
-        "gain": 66467,
-        "currentXp": 1250701
+        "gain": 85114,
+        "currentXp": 1269348
       },
       {
         "player": "don_the_lad",
-        "gain": 51031,
-        "currentXp": 4438283
+        "gain": 82111,
+        "currentXp": 4469363
       },
       {
         "player": "don the lad",
-        "gain": 39351,
-        "currentXp": 4438283
+        "gain": 70431,
+        "currentXp": 4469363
       },
       {
         "player": "cybr knight",
-        "gain": 29500,
-        "currentXp": 1250701
+        "gain": 48147,
+        "currentXp": 1269348
       },
       {
         "player": "draugr",
-        "gain": 16624,
-        "currentXp": 2735482
+        "gain": 20336,
+        "currentXp": 2739194
       },
       {
         "player": "iron_bug",
@@ -2077,8 +2312,13 @@
       },
       {
         "player": "xkillatonx",
-        "gain": 2406,
-        "currentXp": 32479
+        "gain": 4666,
+        "currentXp": 34739
+      },
+      {
+        "player": "zidus",
+        "gain": 3160,
+        "currentXp": 9507
       },
       {
         "player": "torax3",
@@ -2096,14 +2336,19 @@
         "currentXp": 1578793
       },
       {
+        "player": "mucitel",
+        "gain": 1528,
+        "currentXp": 4428
+      },
+      {
+        "player": "vinicius0404",
+        "gain": 820,
+        "currentXp": 397417
+      },
+      {
         "player": "robot",
         "gain": 573,
         "currentXp": 26029863
-      },
-      {
-        "player": "mucitel",
-        "gain": 524,
-        "currentXp": 3424
       },
       {
         "player": "dodgypenguin",
@@ -2124,23 +2369,23 @@
     "4": [
       {
         "player": "scroll rolls",
-        "gain": 164015,
-        "currentXp": 3016099
+        "gain": 184398,
+        "currentXp": 3036482
       },
       {
         "player": "lelant",
-        "gain": 143780,
-        "currentXp": 6141557
+        "gain": 172900,
+        "currentXp": 6170677
       },
       {
         "player": "yy",
-        "gain": 115889,
-        "currentXp": 3534729
+        "gain": 137349,
+        "currentXp": 3556189
       },
       {
         "player": "scroll_rolls",
-        "gain": 112724,
-        "currentXp": 3016099
+        "gain": 133107,
+        "currentXp": 3036482
       },
       {
         "player": "basedtray",
@@ -2149,8 +2394,13 @@
       },
       {
         "player": "cybr_knight",
-        "gain": 66301,
-        "currentXp": 1869822
+        "gain": 84901,
+        "currentXp": 1888422
+      },
+      {
+        "player": "thaw",
+        "gain": 63182,
+        "currentXp": 1494614
       },
       {
         "player": "1haha1",
@@ -2158,9 +2408,9 @@
         "currentXp": 1757782
       },
       {
-        "player": "thaw",
-        "gain": 59039,
-        "currentXp": 1490471
+        "player": "nazward",
+        "gain": 56492,
+        "currentXp": 2665415
       },
       {
         "player": "quarky",
@@ -2168,14 +2418,14 @@
         "currentXp": 13284704
       },
       {
+        "player": "cybr knight",
+        "gain": 48026,
+        "currentXp": 1888422
+      },
+      {
         "player": "x_i_i_i",
         "gain": 47747,
         "currentXp": 32148309
-      },
-      {
-        "player": "nazward",
-        "gain": 45593,
-        "currentXp": 2654516
       },
       {
         "player": "smithaxe1",
@@ -2183,34 +2433,29 @@
         "currentXp": 3290172
       },
       {
-        "player": "cybr knight",
-        "gain": 29426,
-        "currentXp": 1869822
+        "player": "don_the_lad",
+        "gain": 27302,
+        "currentXp": 3854441
+      },
+      {
+        "player": "don the lad",
+        "gain": 23419,
+        "currentXp": 3854441
       },
       {
         "player": "oftheshire",
-        "gain": 19385,
-        "currentXp": 19985601
+        "gain": 20881,
+        "currentXp": 19987097
+      },
+      {
+        "player": "draugr",
+        "gain": 20285,
+        "currentXp": 3830354
       },
       {
         "player": "f83",
         "gain": 19300,
         "currentXp": 20733955
-      },
-      {
-        "player": "don_the_lad",
-        "gain": 16968,
-        "currentXp": 3844107
-      },
-      {
-        "player": "draugr",
-        "gain": 16583,
-        "currentXp": 3826652
-      },
-      {
-        "player": "don the lad",
-        "gain": 13085,
-        "currentXp": 3844107
       },
       {
         "player": "dizzy",
@@ -2221,6 +2466,11 @@
         "player": "nikoichu",
         "gain": 5806,
         "currentXp": 284904
+      },
+      {
+        "player": "xkillatonx",
+        "gain": 4542,
+        "currentXp": 39781
       },
       {
         "player": "monkhood",
@@ -2236,11 +2486,6 @@
         "player": "sneeds",
         "gain": 2540,
         "currentXp": 2087447
-      },
-      {
-        "player": "xkillatonx",
-        "gain": 2367,
-        "currentXp": 37606
       },
       {
         "player": "trevisan7",
@@ -2263,9 +2508,24 @@
         "currentXp": 71274
       },
       {
+        "player": "zidus",
+        "gain": 1051,
+        "currentXp": 19437
+      },
+      {
+        "player": "actualnoob",
+        "gain": 958,
+        "currentXp": 188886
+      },
+      {
         "player": "drizzlius",
         "gain": 671,
         "currentXp": 1012588
+      },
+      {
+        "player": "mucitel",
+        "gain": 661,
+        "currentXp": 3880
       },
       {
         "player": "robot",
@@ -2278,14 +2538,19 @@
         "currentXp": 759438
       },
       {
-        "player": "mucitel",
-        "gain": 327,
-        "currentXp": 3546
+        "player": "berton",
+        "gain": 366,
+        "currentXp": 2929
       },
       {
-        "player": "berton",
-        "gain": 213,
-        "currentXp": 2776
+        "player": "goblin_layer",
+        "gain": 306,
+        "currentXp": 1807470
+      },
+      {
+        "player": "vinicius0404",
+        "gain": 273,
+        "currentXp": 171125
       },
       {
         "player": "bigbonesjon",
@@ -2301,13 +2566,23 @@
         "player": "tooze",
         "gain": 67,
         "currentXp": 865015
+      },
+      {
+        "player": "warlock_roc",
+        "gain": 66,
+        "currentXp": 277612
+      },
+      {
+        "player": "valky",
+        "gain": 54,
+        "currentXp": 187999
       }
     ],
     "5": [
       {
         "player": "thaw",
-        "gain": 177560,
-        "currentXp": 1559515
+        "gain": 190020,
+        "currentXp": 1571975
       },
       {
         "player": "dizzy",
@@ -2315,14 +2590,14 @@
         "currentXp": 13851650
       },
       {
+        "player": "oftheshire",
+        "gain": 18640,
+        "currentXp": 13471109
+      },
+      {
         "player": "nikoichu",
         "gain": 17390,
         "currentXp": 37623
-      },
-      {
-        "player": "oftheshire",
-        "gain": 14140,
-        "currentXp": 13466609
       },
       {
         "player": "spiriah96",
@@ -2330,9 +2605,19 @@
         "currentXp": 989568
       },
       {
+        "player": "actualnoob",
+        "gain": 2880,
+        "currentXp": 20820
+      },
+      {
         "player": "killjoy28",
         "gain": 2810,
         "currentXp": 16220
+      },
+      {
+        "player": "valky",
+        "gain": 160,
+        "currentXp": 38353
       }
     ],
     "6": [
@@ -2362,14 +2647,24 @@
         "currentXp": 250110
       },
       {
-        "player": "monkhood",
-        "gain": 720,
-        "currentXp": 9979
+        "player": "cybr knight",
+        "gain": 1125,
+        "currentXp": 197402
+      },
+      {
+        "player": "cybr_knight",
+        "gain": 1125,
+        "currentXp": 197402
       },
       {
         "player": "draugr",
-        "gain": 615,
-        "currentXp": 753563
+        "gain": 1005,
+        "currentXp": 753953
+      },
+      {
+        "player": "monkhood",
+        "gain": 720,
+        "currentXp": 9979
       },
       {
         "player": "trevisan7",
@@ -2397,6 +2692,11 @@
         "currentXp": 774866
       },
       {
+        "player": "berton",
+        "gain": 23,
+        "currentXp": 810
+      },
+      {
         "player": "mucitel",
         "gain": 4,
         "currentXp": 328
@@ -2405,8 +2705,13 @@
     "7": [
       {
         "player": "x_i_i_i",
-        "gain": 35645,
-        "currentXp": 29931742
+        "gain": 36425,
+        "currentXp": 29932522
+      },
+      {
+        "player": "sneeds",
+        "gain": 27987,
+        "currentXp": 1912412
       },
       {
         "player": "monkhood",
@@ -2435,8 +2740,8 @@
       },
       {
         "player": "thaw",
-        "gain": 5705,
-        "currentXp": 516812
+        "gain": 6180,
+        "currentXp": 517287
       },
       {
         "player": "dodgypenguin",
@@ -2449,19 +2754,24 @@
         "currentXp": 174240
       },
       {
+        "player": "iron_bug",
+        "gain": 3017,
+        "currentXp": 491767
+      },
+      {
         "player": "robot",
         "gain": 2560,
         "currentXp": 13218788
       },
       {
+        "player": "nazward",
+        "gain": 1903,
+        "currentXp": 557750
+      },
+      {
         "player": "3rd",
         "gain": 1365,
         "currentXp": 25388747
-      },
-      {
-        "player": "nazward",
-        "gain": 1253,
-        "currentXp": 557100
       },
       {
         "player": "spiriah96",
@@ -2489,14 +2799,9 @@
         "currentXp": 2363285
       },
       {
-        "player": "sneeds",
-        "gain": 627,
-        "currentXp": 1885052
-      },
-      {
-        "player": "iron_bug",
-        "gain": 525,
-        "currentXp": 489275
+        "player": "goblin_layer",
+        "gain": 610,
+        "currentXp": 1765535
       },
       {
         "player": "warlock_roc",
@@ -2510,8 +2815,28 @@
       },
       {
         "player": "draugr",
-        "gain": 390,
-        "currentXp": 2719211
+        "gain": 455,
+        "currentXp": 2719276
+      },
+      {
+        "player": "cybr_knight",
+        "gain": 385,
+        "currentXp": 728562
+      },
+      {
+        "player": "f83",
+        "gain": 335,
+        "currentXp": 6909553
+      },
+      {
+        "player": "actualnoob",
+        "gain": 278,
+        "currentXp": 102995
+      },
+      {
+        "player": "cybr knight",
+        "gain": 235,
+        "currentXp": 728562
       },
       {
         "player": "slimeysub",
@@ -2534,14 +2859,9 @@
         "currentXp": 2846887
       },
       {
-        "player": "cybr_knight",
-        "gain": 150,
-        "currentXp": 728327
-      },
-      {
-        "player": "f83",
-        "gain": 150,
-        "currentXp": 6909368
+        "player": "vinicius0404",
+        "gain": 175,
+        "currentXp": 407584
       },
       {
         "player": "applecore",
@@ -2557,13 +2877,23 @@
       },
       {
         "player": "dodgypenguin",
-        "gain": 48900,
-        "currentXp": 1270590
+        "gain": 65000,
+        "currentXp": 1286690
+      },
+      {
+        "player": "sigkalara",
+        "gain": 6885,
+        "currentXp": 2574505
       },
       {
         "player": "trevisan7",
         "gain": 4200,
         "currentXp": 156515
+      },
+      {
+        "player": "mucitel",
+        "gain": 3250,
+        "currentXp": 23330
       },
       {
         "player": "spiriah96",
@@ -2579,18 +2909,23 @@
         "player": "cohhii",
         "gain": 510,
         "currentXp": 36495
+      },
+      {
+        "player": "zidus",
+        "gain": 300,
+        "currentXp": 5860
       }
     ],
     "9": [
       {
         "player": "zeraiden",
-        "gain": 47500,
-        "currentXp": 6614317
+        "gain": 56250,
+        "currentXp": 6623067
       },
       {
         "player": "corbx",
-        "gain": 31250,
-        "currentXp": 20555292
+        "gain": 35375,
+        "currentXp": 20559417
       },
       {
         "player": "berton",
@@ -2603,14 +2938,29 @@
         "currentXp": 265437
       },
       {
+        "player": "iron_bug",
+        "gain": 3938,
+        "currentXp": 1488912
+      },
+      {
         "player": "1haha1",
         "gain": 3750,
         "currentXp": 2243248
       },
       {
+        "player": "draugr",
+        "gain": 3600,
+        "currentXp": 3797177
+      },
+      {
         "player": "trevisan7",
         "gain": 2200,
         "currentXp": 520630
+      },
+      {
+        "player": "zidus",
+        "gain": 2034,
+        "currentXp": 99670
       },
       {
         "player": "feedmadcat",
@@ -2641,6 +2991,11 @@
         "player": "ir",
         "gain": 450,
         "currentXp": 7952916
+      },
+      {
+        "player": "mucitel",
+        "gain": 100,
+        "currentXp": 3225
       },
       {
         "player": "spiriah96",
@@ -2688,13 +3043,18 @@
       },
       {
         "player": "daarth",
-        "gain": 34370,
-        "currentXp": 1578179
+        "gain": 48170,
+        "currentXp": 1591979
+      },
+      {
+        "player": "watt",
+        "gain": 47684,
+        "currentXp": 4098904
       },
       {
         "player": "dodgypenguin",
-        "gain": 26600,
-        "currentXp": 719017
+        "gain": 47300,
+        "currentXp": 739717
       },
       {
         "player": "trevisan7",
@@ -2702,43 +3062,58 @@
         "currentXp": 64475
       },
       {
+        "player": "mucitel",
+        "gain": 2980,
+        "currentXp": 15316
+      },
+      {
         "player": "j23t",
         "gain": 1800,
         "currentXp": 8775886
       },
       {
-        "player": "mucitel",
-        "gain": 750,
-        "currentXp": 13086
-      },
-      {
         "player": "cohhii",
         "gain": 370,
         "currentXp": 21908
+      },
+      {
+        "player": "zidus",
+        "gain": 200,
+        "currentXp": 600
       }
     ],
     "12": [
+      {
+        "player": "corbx",
+        "gain": 13952,
+        "currentXp": 12547464
+      },
       {
         "player": "applecore",
         "gain": 13770,
         "currentXp": 102285
       },
       {
-        "player": "corbx",
-        "gain": 12152,
-        "currentXp": 12545664
+        "player": "zidus",
+        "gain": 450,
+        "currentXp": 15250
       },
       {
         "player": "trevisan7",
         "gain": 200,
         "currentXp": 53425
+      },
+      {
+        "player": "mucitel",
+        "gain": 160,
+        "currentXp": 160
       }
     ],
     "13": [
       {
         "player": "aschien",
-        "gain": 157410,
-        "currentXp": 4038687
+        "gain": 191260,
+        "currentXp": 4072537
       },
       {
         "player": "yikkity",
@@ -2747,8 +3122,8 @@
       },
       {
         "player": "sneeds",
-        "gain": 31285,
-        "currentXp": 851619
+        "gain": 50447,
+        "currentXp": 870781
       },
       {
         "player": "robot",
@@ -2781,6 +3156,11 @@
         "currentXp": 224222
       },
       {
+        "player": "draugr",
+        "gain": 358,
+        "currentXp": 536511
+      },
+      {
         "player": "don the lad",
         "gain": 335,
         "currentXp": 687949
@@ -2801,9 +3181,9 @@
         "currentXp": 5334960
       },
       {
-        "player": "draugr",
-        "gain": 208,
-        "currentXp": 536361
+        "player": "warlock_roc",
+        "gain": 90,
+        "currentXp": 189727
       }
     ],
     "14": [
@@ -2813,14 +3193,14 @@
         "currentXp": 66992
       },
       {
+        "player": "berton",
+        "gain": 3125,
+        "currentXp": 3962
+      },
+      {
         "player": "ayesupqt",
         "gain": 1750,
         "currentXp": 14015
-      },
-      {
-        "player": "berton",
-        "gain": 1625,
-        "currentXp": 2462
       },
       {
         "player": "nikoichu",
@@ -2861,13 +3241,13 @@
       },
       {
         "player": "bigbonesjon",
-        "gain": 37050,
-        "currentXp": 54775
+        "gain": 42050,
+        "currentXp": 59775
       },
       {
         "player": "bunnyxoxoxo",
-        "gain": 36750,
-        "currentXp": 898937
+        "gain": 40250,
+        "currentXp": 902437
       },
       {
         "player": "kickbuta",
@@ -2875,24 +3255,29 @@
         "currentXp": 4511740
       },
       {
+        "player": "ayesupqt",
+        "gain": 32900,
+        "currentXp": 58387
+      },
+      {
         "player": "daarth",
         "gain": 15623,
         "currentXp": 1155564
       },
       {
-        "player": "ayesupqt",
-        "gain": 13300,
-        "currentXp": 38787
+        "player": "matoxewuz",
+        "gain": 15050,
+        "currentXp": 3020140
+      },
+      {
+        "player": "berton",
+        "gain": 13125,
+        "currentXp": 17850
       },
       {
         "player": "rhaenys",
         "gain": 9870,
         "currentXp": 22306677
-      },
-      {
-        "player": "berton",
-        "gain": 9100,
-        "currentXp": 13825
       },
       {
         "player": "cohhii",
@@ -2911,8 +3296,8 @@
       },
       {
         "player": "cybrknight",
-        "gain": 4375,
-        "currentXp": 14599135
+        "gain": 5625,
+        "currentXp": 14600385
       },
       {
         "player": "kwaai_ding",
@@ -2933,6 +3318,11 @@
         "player": "robot",
         "gain": 350,
         "currentXp": 6695045
+      },
+      {
+        "player": "warlock_roc",
+        "gain": 275,
+        "currentXp": 681135
       }
     ],
     "16": [
@@ -2943,8 +3333,8 @@
       },
       {
         "player": "f83",
-        "gain": 27244,
-        "currentXp": 1142511
+        "gain": 27506,
+        "currentXp": 1142773
       },
       {
         "player": "j23t",
@@ -2982,24 +3372,29 @@
         "currentXp": 229052
       },
       {
+        "player": "corbx",
+        "gain": 904,
+        "currentXp": 1370466
+      },
+      {
         "player": "thaw",
         "gain": 500,
         "currentXp": 74230
       },
       {
         "player": "cybr_knight",
-        "gain": 446,
-        "currentXp": 156231
+        "gain": 497,
+        "currentXp": 156282
+      },
+      {
+        "player": "cybr knight",
+        "gain": 371,
+        "currentXp": 156282
       },
       {
         "player": "torax3",
         "gain": 351,
         "currentXp": 382774
-      },
-      {
-        "player": "cybr knight",
-        "gain": 320,
-        "currentXp": 156231
       },
       {
         "player": "dodgypenguin",
@@ -3017,14 +3412,14 @@
         "currentXp": 3029674
       },
       {
+        "player": "draugr",
+        "gain": 62,
+        "currentXp": 238501
+      },
+      {
         "player": "iron_bug",
         "gain": 62,
         "currentXp": 728945
-      },
-      {
-        "player": "draugr",
-        "gain": 30,
-        "currentXp": 238469
       },
       {
         "player": "ir",
@@ -3045,15 +3440,20 @@
       },
       {
         "player": "bunnyxoxoxo",
-        "gain": 1575,
-        "currentXp": 16700
+        "gain": 1600,
+        "currentXp": 16725
+      },
+      {
+        "player": "f83",
+        "gain": 1,
+        "currentXp": 753618
       }
     ],
     "18": [
       {
         "player": "aschien",
-        "gain": 429100,
-        "currentXp": 10613327
+        "gain": 511700,
+        "currentXp": 10695927
       },
       {
         "player": "dodgypenguin",
@@ -3081,9 +3481,24 @@
         "currentXp": 46065
       },
       {
+        "player": "corbx",
+        "gain": 2150,
+        "currentXp": 2692389
+      },
+      {
+        "player": "goblin_layer",
+        "gain": 1600,
+        "currentXp": 2878062
+      },
+      {
         "player": "torax3",
         "gain": 1395,
         "currentXp": 31354022
+      },
+      {
+        "player": "applecore",
+        "gain": 1136,
+        "currentXp": 22866
       },
       {
         "player": "scroll rolls",
@@ -3123,24 +3538,24 @@
         "currentXp": 5595350
       },
       {
+        "player": "nazward",
+        "gain": 29625,
+        "currentXp": 322600
+      },
+      {
         "player": "smithaxe1",
         "gain": 22050,
         "currentXp": 909690
       },
       {
-        "player": "nazward",
-        "gain": 21075,
-        "currentXp": 314050
-      },
-      {
         "player": "draugr",
-        "gain": 12642,
-        "currentXp": 2306685
+        "gain": 15417,
+        "currentXp": 2309460
       },
       {
         "player": "oftheshire",
-        "gain": 11475,
-        "currentXp": 6336540
+        "gain": 12515,
+        "currentXp": 6337580
       },
       {
         "player": "sneeds",
@@ -3156,9 +3571,24 @@
         "player": "ir",
         "gain": 2119,
         "currentXp": 35512
+      },
+      {
+        "player": "actualnoob",
+        "gain": 675,
+        "currentXp": 19350
+      },
+      {
+        "player": "mucitel",
+        "gain": 225,
+        "currentXp": 225
       }
     ],
     "20": [
+      {
+        "player": "corbx",
+        "gain": 70405,
+        "currentXp": 11117190
+      },
       {
         "player": "don the lad",
         "gain": 21153,
@@ -3168,11 +3598,6 @@
         "player": "don_the_lad",
         "gain": 21153,
         "currentXp": 373882
-      },
-      {
-        "player": "corbx",
-        "gain": 19005,
-        "currentXp": 11065790
       },
       {
         "player": "3rd",
@@ -3230,13 +3655,18 @@
         "player": "monkhood",
         "gain": 2227,
         "currentXp": 2227
+      },
+      {
+        "player": "daarth",
+        "gain": 490,
+        "currentXp": 95702
       }
     ],
     "22": [
       {
         "player": "vinicius0404",
-        "gain": 17680,
-        "currentXp": 353462
+        "gain": 64545,
+        "currentXp": 400327
       },
       {
         "player": "robot",
@@ -3245,6 +3675,11 @@
       }
     ],
     "23": [
+      {
+        "player": "iron_bug",
+        "gain": 38100,
+        "currentXp": 223885
+      },
       {
         "player": "cohhii",
         "gain": 1035,
@@ -3258,9 +3693,14 @@
     ],
     "24": [
       {
+        "player": "goblin_layer",
+        "gain": 78000,
+        "currentXp": 1818927
+      },
+      {
         "player": "iron_bug",
-        "gain": 84,
-        "currentXp": 161736
+        "gain": 124,
+        "currentXp": 161776
       },
       {
         "player": "cohhii",
@@ -3288,18 +3728,23 @@
     "0": [
       {
         "player": "scroll rolls",
-        "gain": 658095,
-        "currentXp": 18576976
+        "gain": 739778,
+        "currentXp": 18658659
       },
       {
         "player": "lelant",
-        "gain": 588495,
-        "currentXp": 118593905
+        "gain": 705195,
+        "currentXp": 118710605
       },
       {
         "player": "aschien",
-        "gain": 586510,
-        "currentXp": 29886729
+        "gain": 702960,
+        "currentXp": 30003179
+      },
+      {
+        "player": "yy",
+        "gain": 550429,
+        "currentXp": 15272675
       },
       {
         "player": "goblinslayer",
@@ -3307,24 +3752,24 @@
         "currentXp": 158233337
       },
       {
+        "player": "scroll_rolls",
+        "gain": 534052,
+        "currentXp": 18658659
+      },
+      {
         "player": "basedtray",
         "gain": 466503,
         "currentXp": 109599580
       },
       {
-        "player": "yy",
-        "gain": 464429,
-        "currentXp": 15186675
-      },
-      {
-        "player": "scroll_rolls",
-        "gain": 452369,
-        "currentXp": 18576976
-      },
-      {
         "player": "nikoichu",
         "gain": 401734,
         "currentXp": 4406420
+      },
+      {
+        "player": "cybr_knight",
+        "gain": 342249,
+        "currentXp": 28144833
       },
       {
         "player": "1haha1",
@@ -3333,23 +3778,28 @@
       },
       {
         "player": "x_i_i_i",
-        "gain": 285141,
-        "currentXp": 312379471
-      },
-      {
-        "player": "cybr_knight",
-        "gain": 266297,
-        "currentXp": 28068881
+        "gain": 285921,
+        "currentXp": 312380251
       },
       {
         "player": "thaw",
-        "gain": 254444,
-        "currentXp": 16246161
+        "gain": 271522,
+        "currentXp": 16263239
+      },
+      {
+        "player": "nazward",
+        "gain": 258670,
+        "currentXp": 18754717
       },
       {
         "player": "quarky",
         "gain": 231628,
         "currentXp": 116911622
+      },
+      {
+        "player": "dodgypenguin",
+        "gain": 220758,
+        "currentXp": 7349978
       },
       {
         "player": "yikkity",
@@ -3362,14 +3812,14 @@
         "currentXp": 2362877
       },
       {
-        "player": "nazward",
-        "gain": 205791,
-        "currentXp": 18701838
+        "player": "cybr knight",
+        "gain": 194198,
+        "currentXp": 28144833
       },
       {
-        "player": "dodgypenguin",
-        "gain": 183958,
-        "currentXp": 7313178
+        "player": "don_the_lad",
+        "gain": 182916,
+        "currentXp": 34288787
       },
       {
         "player": "smithaxe1",
@@ -3377,14 +3827,14 @@
         "currentXp": 42399613
       },
       {
-        "player": "don_the_lad",
-        "gain": 141502,
-        "currentXp": 34247373
+        "player": "corbx",
+        "gain": 134681,
+        "currentXp": 128028425
       },
       {
-        "player": "cybr knight",
-        "gain": 118246,
-        "currentXp": 28068881
+        "player": "don the lad",
+        "gain": 125888,
+        "currentXp": 34288787
       },
       {
         "player": "downq",
@@ -3397,19 +3847,29 @@
         "currentXp": 1783126
       },
       {
-        "player": "f83",
-        "gain": 104749,
-        "currentXp": 124180534
+        "player": "bigbonesjon",
+        "gain": 107020,
+        "currentXp": 348168
       },
       {
-        "player": "bigbonesjon",
-        "gain": 102020,
-        "currentXp": 343168
+        "player": "f83",
+        "gain": 105197,
+        "currentXp": 124180982
+      },
+      {
+        "player": "draugr",
+        "gain": 102191,
+        "currentXp": 36564795
       },
       {
         "player": "oftheshire",
-        "gain": 89504,
-        "currentXp": 201921754
+        "gain": 96540,
+        "currentXp": 201928790
+      },
+      {
+        "player": "sneeds",
+        "gain": 96212,
+        "currentXp": 33963367
       },
       {
         "player": "kickbuta",
@@ -3422,19 +3882,9 @@
         "currentXp": 33359868
       },
       {
-        "player": "don the lad",
-        "gain": 84474,
-        "currentXp": 34247373
-      },
-      {
-        "player": "draugr",
-        "gain": 80341,
-        "currentXp": 36542945
-      },
-      {
-        "player": "corbx",
-        "gain": 74302,
-        "currentXp": 127968046
+        "player": "goblin_layer",
+        "gain": 81436,
+        "currentXp": 34397040
       },
       {
         "player": "torax3",
@@ -3442,24 +3892,39 @@
         "currentXp": 74366091
       },
       {
+        "player": "vinicius0404",
+        "gain": 65813,
+        "currentXp": 8218795
+      },
+      {
+        "player": "daarth",
+        "gain": 64283,
+        "currentXp": 18888405
+      },
+      {
         "player": "j23t",
         "gain": 57663,
         "currentXp": 98583893
       },
       {
-        "player": "daarth",
-        "gain": 49993,
-        "currentXp": 18874115
-      },
-      {
-        "player": "sneeds",
-        "gain": 49690,
-        "currentXp": 33916845
-      },
-      {
         "player": "zeraiden",
-        "gain": 47500,
-        "currentXp": 10709544
+        "gain": 56250,
+        "currentXp": 10718294
+      },
+      {
+        "player": "iron_bug",
+        "gain": 50041,
+        "currentXp": 26946614
+      },
+      {
+        "player": "watt",
+        "gain": 47684,
+        "currentXp": 153869880
+      },
+      {
+        "player": "berton",
+        "gain": 45689,
+        "currentXp": 66441
       },
       {
         "player": "robot",
@@ -3467,41 +3932,16 @@
         "currentXp": 270732215
       },
       {
-        "player": "berton",
-        "gain": 39528,
-        "currentXp": 60280
-      },
-      {
         "player": "bunnyxoxoxo",
-        "gain": 38325,
-        "currentXp": 6286722
-      },
-      {
-        "player": "ir",
-        "gain": 33660,
-        "currentXp": 18169231
-      },
-      {
-        "player": "dizzy",
-        "gain": 25930,
-        "currentXp": 268538806
-      },
-      {
-        "player": "applecore",
-        "gain": 21926,
-        "currentXp": 1297396
-      },
-      {
-        "player": "3rd",
-        "gain": 18648,
-        "currentXp": 435388053
+        "gain": 41850,
+        "currentXp": 6290247
       }
     ],
     "1": [
       {
         "player": "lelant",
-        "gain": 444670,
-        "currentXp": 12797270
+        "gain": 532250,
+        "currentXp": 12884850
       },
       {
         "player": "1haha1",
@@ -3520,8 +3960,8 @@
       },
       {
         "player": "cybr_knight",
-        "gain": 66466,
-        "currentXp": 1591827
+        "gain": 85113,
+        "currentXp": 1610474
       },
       {
         "player": "f83",
@@ -3529,19 +3969,19 @@
         "currentXp": 18617625
       },
       {
+        "player": "cybr knight",
+        "gain": 48147,
+        "currentXp": 1610474
+      },
+      {
         "player": "oftheshire",
         "gain": 44160,
         "currentXp": 18082093
       },
       {
-        "player": "cybr knight",
-        "gain": 29500,
-        "currentXp": 1591827
-      },
-      {
         "player": "draugr",
-        "gain": 16624,
-        "currentXp": 2908409
+        "gain": 20336,
+        "currentXp": 2912121
       },
       {
         "player": "sneeds",
@@ -3549,14 +3989,14 @@
         "currentXp": 1507562
       },
       {
+        "player": "xkillatonx",
+        "gain": 4567,
+        "currentXp": 34781
+      },
+      {
         "player": "trevisan7",
         "gain": 3020,
         "currentXp": 65103
-      },
-      {
-        "player": "xkillatonx",
-        "gain": 2367,
-        "currentXp": 32581
       },
       {
         "player": "torax3",
@@ -3569,9 +4009,19 @@
         "currentXp": 25256836
       },
       {
+        "player": "berton",
+        "gain": 460,
+        "currentXp": 2600
+      },
+      {
         "player": "mucitel",
         "gain": 460,
         "currentXp": 4474
+      },
+      {
+        "player": "warlock_roc",
+        "gain": 200,
+        "currentXp": 287411
       }
     ],
     "2": [
@@ -3582,8 +4032,8 @@
       },
       {
         "player": "nazward",
-        "gain": 137120,
-        "currentXp": 3008290
+        "gain": 169900,
+        "currentXp": 3041070
       },
       {
         "player": "trevisan7",
@@ -3592,18 +4042,18 @@
       },
       {
         "player": "cybr_knight",
-        "gain": 66467,
-        "currentXp": 1389210
+        "gain": 85114,
+        "currentXp": 1407857
       },
       {
         "player": "cybr knight",
-        "gain": 29500,
-        "currentXp": 1389210
+        "gain": 48147,
+        "currentXp": 1407857
       },
       {
         "player": "draugr",
-        "gain": 16624,
-        "currentXp": 1410745
+        "gain": 20336,
+        "currentXp": 1414457
       },
       {
         "player": "ir",
@@ -3611,14 +4061,14 @@
         "currentXp": 100430
       },
       {
+        "player": "xkillatonx",
+        "gain": 4427,
+        "currentXp": 34691
+      },
+      {
         "player": "killjoy28",
         "gain": 2810,
         "currentXp": 84167
-      },
-      {
-        "player": "xkillatonx",
-        "gain": 2347,
-        "currentXp": 32611
       },
       {
         "player": "torax3",
@@ -3629,6 +4079,11 @@
         "player": "j23t",
         "gain": 1880,
         "currentXp": 3769077
+      },
+      {
+        "player": "goblin_layer",
+        "gain": 920,
+        "currentXp": 495294
       },
       {
         "player": "robot",
@@ -3664,18 +4119,18 @@
     "3": [
       {
         "player": "scroll rolls",
-        "gain": 493280,
-        "currentXp": 5603832
+        "gain": 554580,
+        "currentXp": 5665132
       },
       {
         "player": "yy",
-        "gain": 348540,
-        "currentXp": 9313222
+        "gain": 413080,
+        "currentXp": 9377762
       },
       {
         "player": "scroll_rolls",
-        "gain": 339020,
-        "currentXp": 5603832
+        "gain": 400320,
+        "currentXp": 5665132
       },
       {
         "player": "quarky",
@@ -3689,28 +4144,28 @@
       },
       {
         "player": "cybr_knight",
-        "gain": 66467,
-        "currentXp": 1250701
+        "gain": 85114,
+        "currentXp": 1269348
       },
       {
         "player": "don_the_lad",
-        "gain": 51031,
-        "currentXp": 4438283
+        "gain": 82111,
+        "currentXp": 4469363
       },
       {
         "player": "don the lad",
-        "gain": 39351,
-        "currentXp": 4438283
+        "gain": 70431,
+        "currentXp": 4469363
       },
       {
         "player": "cybr knight",
-        "gain": 29500,
-        "currentXp": 1250701
+        "gain": 48147,
+        "currentXp": 1269348
       },
       {
         "player": "draugr",
-        "gain": 16624,
-        "currentXp": 2735482
+        "gain": 20336,
+        "currentXp": 2739194
       },
       {
         "player": "iron_bug",
@@ -3719,8 +4174,13 @@
       },
       {
         "player": "xkillatonx",
-        "gain": 2406,
-        "currentXp": 32479
+        "gain": 4666,
+        "currentXp": 34739
+      },
+      {
+        "player": "zidus",
+        "gain": 3160,
+        "currentXp": 9507
       },
       {
         "player": "torax3",
@@ -3738,14 +4198,19 @@
         "currentXp": 1578793
       },
       {
+        "player": "mucitel",
+        "gain": 1528,
+        "currentXp": 4428
+      },
+      {
+        "player": "vinicius0404",
+        "gain": 820,
+        "currentXp": 397417
+      },
+      {
         "player": "robot",
         "gain": 573,
         "currentXp": 26029863
-      },
-      {
-        "player": "mucitel",
-        "gain": 524,
-        "currentXp": 3424
       },
       {
         "player": "dodgypenguin",
@@ -3766,23 +4231,23 @@
     "4": [
       {
         "player": "scroll rolls",
-        "gain": 164015,
-        "currentXp": 3016099
+        "gain": 184398,
+        "currentXp": 3036482
       },
       {
         "player": "lelant",
-        "gain": 143780,
-        "currentXp": 6141557
+        "gain": 172900,
+        "currentXp": 6170677
       },
       {
         "player": "yy",
-        "gain": 115889,
-        "currentXp": 3534729
+        "gain": 137349,
+        "currentXp": 3556189
       },
       {
         "player": "scroll_rolls",
-        "gain": 112724,
-        "currentXp": 3016099
+        "gain": 133107,
+        "currentXp": 3036482
       },
       {
         "player": "basedtray",
@@ -3791,8 +4256,13 @@
       },
       {
         "player": "cybr_knight",
-        "gain": 66301,
-        "currentXp": 1869822
+        "gain": 84901,
+        "currentXp": 1888422
+      },
+      {
+        "player": "thaw",
+        "gain": 63182,
+        "currentXp": 1494614
       },
       {
         "player": "1haha1",
@@ -3800,9 +4270,9 @@
         "currentXp": 1757782
       },
       {
-        "player": "thaw",
-        "gain": 59039,
-        "currentXp": 1490471
+        "player": "nazward",
+        "gain": 56492,
+        "currentXp": 2665415
       },
       {
         "player": "quarky",
@@ -3810,14 +4280,14 @@
         "currentXp": 13284704
       },
       {
+        "player": "cybr knight",
+        "gain": 48026,
+        "currentXp": 1888422
+      },
+      {
         "player": "x_i_i_i",
         "gain": 47747,
         "currentXp": 32148309
-      },
-      {
-        "player": "nazward",
-        "gain": 45593,
-        "currentXp": 2654516
       },
       {
         "player": "smithaxe1",
@@ -3825,34 +4295,29 @@
         "currentXp": 3290172
       },
       {
-        "player": "cybr knight",
-        "gain": 29426,
-        "currentXp": 1869822
+        "player": "don_the_lad",
+        "gain": 27302,
+        "currentXp": 3854441
+      },
+      {
+        "player": "don the lad",
+        "gain": 23419,
+        "currentXp": 3854441
       },
       {
         "player": "oftheshire",
-        "gain": 19385,
-        "currentXp": 19985601
+        "gain": 20881,
+        "currentXp": 19987097
+      },
+      {
+        "player": "draugr",
+        "gain": 20285,
+        "currentXp": 3830354
       },
       {
         "player": "f83",
         "gain": 19300,
         "currentXp": 20733955
-      },
-      {
-        "player": "don_the_lad",
-        "gain": 16968,
-        "currentXp": 3844107
-      },
-      {
-        "player": "draugr",
-        "gain": 16583,
-        "currentXp": 3826652
-      },
-      {
-        "player": "don the lad",
-        "gain": 13085,
-        "currentXp": 3844107
       },
       {
         "player": "dizzy",
@@ -3863,6 +4328,11 @@
         "player": "nikoichu",
         "gain": 5806,
         "currentXp": 284904
+      },
+      {
+        "player": "xkillatonx",
+        "gain": 4542,
+        "currentXp": 39781
       },
       {
         "player": "monkhood",
@@ -3878,11 +4348,6 @@
         "player": "sneeds",
         "gain": 2540,
         "currentXp": 2087447
-      },
-      {
-        "player": "xkillatonx",
-        "gain": 2367,
-        "currentXp": 37606
       },
       {
         "player": "trevisan7",
@@ -3905,9 +4370,24 @@
         "currentXp": 71274
       },
       {
+        "player": "zidus",
+        "gain": 1051,
+        "currentXp": 19437
+      },
+      {
+        "player": "actualnoob",
+        "gain": 958,
+        "currentXp": 188886
+      },
+      {
         "player": "drizzlius",
         "gain": 671,
         "currentXp": 1012588
+      },
+      {
+        "player": "mucitel",
+        "gain": 661,
+        "currentXp": 3880
       },
       {
         "player": "robot",
@@ -3920,14 +4400,19 @@
         "currentXp": 759438
       },
       {
-        "player": "mucitel",
-        "gain": 327,
-        "currentXp": 3546
+        "player": "berton",
+        "gain": 366,
+        "currentXp": 2929
       },
       {
-        "player": "berton",
-        "gain": 213,
-        "currentXp": 2776
+        "player": "goblin_layer",
+        "gain": 306,
+        "currentXp": 1807470
+      },
+      {
+        "player": "vinicius0404",
+        "gain": 273,
+        "currentXp": 171125
       },
       {
         "player": "bigbonesjon",
@@ -3943,13 +4428,23 @@
         "player": "tooze",
         "gain": 67,
         "currentXp": 865015
+      },
+      {
+        "player": "warlock_roc",
+        "gain": 66,
+        "currentXp": 277612
+      },
+      {
+        "player": "valky",
+        "gain": 54,
+        "currentXp": 187999
       }
     ],
     "5": [
       {
         "player": "thaw",
-        "gain": 177560,
-        "currentXp": 1559515
+        "gain": 190020,
+        "currentXp": 1571975
       },
       {
         "player": "dizzy",
@@ -3957,14 +4452,14 @@
         "currentXp": 13851650
       },
       {
+        "player": "oftheshire",
+        "gain": 18640,
+        "currentXp": 13471109
+      },
+      {
         "player": "nikoichu",
         "gain": 17390,
         "currentXp": 37623
-      },
-      {
-        "player": "oftheshire",
-        "gain": 14140,
-        "currentXp": 13466609
       },
       {
         "player": "spiriah96",
@@ -3972,9 +4467,19 @@
         "currentXp": 989568
       },
       {
+        "player": "actualnoob",
+        "gain": 2880,
+        "currentXp": 20820
+      },
+      {
         "player": "killjoy28",
         "gain": 2810,
         "currentXp": 16220
+      },
+      {
+        "player": "valky",
+        "gain": 160,
+        "currentXp": 38353
       }
     ],
     "6": [
@@ -4004,14 +4509,24 @@
         "currentXp": 250110
       },
       {
-        "player": "monkhood",
-        "gain": 720,
-        "currentXp": 9979
+        "player": "cybr knight",
+        "gain": 1125,
+        "currentXp": 197402
+      },
+      {
+        "player": "cybr_knight",
+        "gain": 1125,
+        "currentXp": 197402
       },
       {
         "player": "draugr",
-        "gain": 615,
-        "currentXp": 753563
+        "gain": 1005,
+        "currentXp": 753953
+      },
+      {
+        "player": "monkhood",
+        "gain": 720,
+        "currentXp": 9979
       },
       {
         "player": "trevisan7",
@@ -4039,6 +4554,11 @@
         "currentXp": 774866
       },
       {
+        "player": "berton",
+        "gain": 23,
+        "currentXp": 810
+      },
+      {
         "player": "mucitel",
         "gain": 4,
         "currentXp": 328
@@ -4047,8 +4567,13 @@
     "7": [
       {
         "player": "x_i_i_i",
-        "gain": 35645,
-        "currentXp": 29931742
+        "gain": 36425,
+        "currentXp": 29932522
+      },
+      {
+        "player": "sneeds",
+        "gain": 27987,
+        "currentXp": 1912412
       },
       {
         "player": "monkhood",
@@ -4077,8 +4602,8 @@
       },
       {
         "player": "thaw",
-        "gain": 5705,
-        "currentXp": 516812
+        "gain": 6180,
+        "currentXp": 517287
       },
       {
         "player": "dodgypenguin",
@@ -4091,19 +4616,24 @@
         "currentXp": 174240
       },
       {
+        "player": "iron_bug",
+        "gain": 3017,
+        "currentXp": 491767
+      },
+      {
         "player": "robot",
         "gain": 2560,
         "currentXp": 13218788
       },
       {
+        "player": "nazward",
+        "gain": 1903,
+        "currentXp": 557750
+      },
+      {
         "player": "3rd",
         "gain": 1365,
         "currentXp": 25388747
-      },
-      {
-        "player": "nazward",
-        "gain": 1253,
-        "currentXp": 557100
       },
       {
         "player": "spiriah96",
@@ -4131,14 +4661,9 @@
         "currentXp": 2363285
       },
       {
-        "player": "sneeds",
-        "gain": 627,
-        "currentXp": 1885052
-      },
-      {
-        "player": "iron_bug",
-        "gain": 525,
-        "currentXp": 489275
+        "player": "goblin_layer",
+        "gain": 610,
+        "currentXp": 1765535
       },
       {
         "player": "warlock_roc",
@@ -4152,8 +4677,28 @@
       },
       {
         "player": "draugr",
-        "gain": 390,
-        "currentXp": 2719211
+        "gain": 455,
+        "currentXp": 2719276
+      },
+      {
+        "player": "cybr_knight",
+        "gain": 385,
+        "currentXp": 728562
+      },
+      {
+        "player": "f83",
+        "gain": 335,
+        "currentXp": 6909553
+      },
+      {
+        "player": "actualnoob",
+        "gain": 278,
+        "currentXp": 102995
+      },
+      {
+        "player": "cybr knight",
+        "gain": 235,
+        "currentXp": 728562
       },
       {
         "player": "slimeysub",
@@ -4176,14 +4721,9 @@
         "currentXp": 2846887
       },
       {
-        "player": "cybr_knight",
-        "gain": 150,
-        "currentXp": 728327
-      },
-      {
-        "player": "f83",
-        "gain": 150,
-        "currentXp": 6909368
+        "player": "vinicius0404",
+        "gain": 175,
+        "currentXp": 407584
       },
       {
         "player": "applecore",
@@ -4199,13 +4739,23 @@
       },
       {
         "player": "dodgypenguin",
-        "gain": 48900,
-        "currentXp": 1270590
+        "gain": 65000,
+        "currentXp": 1286690
+      },
+      {
+        "player": "sigkalara",
+        "gain": 6885,
+        "currentXp": 2574505
       },
       {
         "player": "trevisan7",
         "gain": 4200,
         "currentXp": 156515
+      },
+      {
+        "player": "mucitel",
+        "gain": 3250,
+        "currentXp": 23330
       },
       {
         "player": "spiriah96",
@@ -4221,18 +4771,23 @@
         "player": "cohhii",
         "gain": 510,
         "currentXp": 36495
+      },
+      {
+        "player": "zidus",
+        "gain": 300,
+        "currentXp": 5860
       }
     ],
     "9": [
       {
         "player": "zeraiden",
-        "gain": 47500,
-        "currentXp": 6614317
+        "gain": 56250,
+        "currentXp": 6623067
       },
       {
         "player": "corbx",
-        "gain": 31250,
-        "currentXp": 20555292
+        "gain": 35375,
+        "currentXp": 20559417
       },
       {
         "player": "berton",
@@ -4245,14 +4800,29 @@
         "currentXp": 265437
       },
       {
+        "player": "iron_bug",
+        "gain": 3938,
+        "currentXp": 1488912
+      },
+      {
         "player": "1haha1",
         "gain": 3750,
         "currentXp": 2243248
       },
       {
+        "player": "draugr",
+        "gain": 3600,
+        "currentXp": 3797177
+      },
+      {
         "player": "trevisan7",
         "gain": 2200,
         "currentXp": 520630
+      },
+      {
+        "player": "zidus",
+        "gain": 2034,
+        "currentXp": 99670
       },
       {
         "player": "feedmadcat",
@@ -4283,6 +4853,11 @@
         "player": "ir",
         "gain": 450,
         "currentXp": 7952916
+      },
+      {
+        "player": "mucitel",
+        "gain": 100,
+        "currentXp": 3225
       },
       {
         "player": "spiriah96",
@@ -4330,13 +4905,18 @@
       },
       {
         "player": "daarth",
-        "gain": 34370,
-        "currentXp": 1578179
+        "gain": 48170,
+        "currentXp": 1591979
+      },
+      {
+        "player": "watt",
+        "gain": 47684,
+        "currentXp": 4098904
       },
       {
         "player": "dodgypenguin",
-        "gain": 26600,
-        "currentXp": 719017
+        "gain": 47300,
+        "currentXp": 739717
       },
       {
         "player": "trevisan7",
@@ -4344,43 +4924,58 @@
         "currentXp": 64475
       },
       {
+        "player": "mucitel",
+        "gain": 2980,
+        "currentXp": 15316
+      },
+      {
         "player": "j23t",
         "gain": 1800,
         "currentXp": 8775886
       },
       {
-        "player": "mucitel",
-        "gain": 750,
-        "currentXp": 13086
-      },
-      {
         "player": "cohhii",
         "gain": 370,
         "currentXp": 21908
+      },
+      {
+        "player": "zidus",
+        "gain": 200,
+        "currentXp": 600
       }
     ],
     "12": [
+      {
+        "player": "corbx",
+        "gain": 13952,
+        "currentXp": 12547464
+      },
       {
         "player": "applecore",
         "gain": 13770,
         "currentXp": 102285
       },
       {
-        "player": "corbx",
-        "gain": 12152,
-        "currentXp": 12545664
+        "player": "zidus",
+        "gain": 450,
+        "currentXp": 15250
       },
       {
         "player": "trevisan7",
         "gain": 200,
         "currentXp": 53425
+      },
+      {
+        "player": "mucitel",
+        "gain": 160,
+        "currentXp": 160
       }
     ],
     "13": [
       {
         "player": "aschien",
-        "gain": 157410,
-        "currentXp": 4038687
+        "gain": 191260,
+        "currentXp": 4072537
       },
       {
         "player": "yikkity",
@@ -4389,8 +4984,8 @@
       },
       {
         "player": "sneeds",
-        "gain": 31285,
-        "currentXp": 851619
+        "gain": 50447,
+        "currentXp": 870781
       },
       {
         "player": "robot",
@@ -4423,6 +5018,11 @@
         "currentXp": 224222
       },
       {
+        "player": "draugr",
+        "gain": 358,
+        "currentXp": 536511
+      },
+      {
         "player": "don the lad",
         "gain": 335,
         "currentXp": 687949
@@ -4443,9 +5043,9 @@
         "currentXp": 5334960
       },
       {
-        "player": "draugr",
-        "gain": 208,
-        "currentXp": 536361
+        "player": "warlock_roc",
+        "gain": 90,
+        "currentXp": 189727
       }
     ],
     "14": [
@@ -4455,14 +5055,14 @@
         "currentXp": 66992
       },
       {
+        "player": "berton",
+        "gain": 3125,
+        "currentXp": 3962
+      },
+      {
         "player": "ayesupqt",
         "gain": 1750,
         "currentXp": 14015
-      },
-      {
-        "player": "berton",
-        "gain": 1625,
-        "currentXp": 2462
       },
       {
         "player": "nikoichu",
@@ -4503,13 +5103,13 @@
       },
       {
         "player": "bigbonesjon",
-        "gain": 37050,
-        "currentXp": 54775
+        "gain": 42050,
+        "currentXp": 59775
       },
       {
         "player": "bunnyxoxoxo",
-        "gain": 36750,
-        "currentXp": 898937
+        "gain": 40250,
+        "currentXp": 902437
       },
       {
         "player": "kickbuta",
@@ -4517,24 +5117,29 @@
         "currentXp": 4511740
       },
       {
+        "player": "ayesupqt",
+        "gain": 32900,
+        "currentXp": 58387
+      },
+      {
         "player": "daarth",
         "gain": 15623,
         "currentXp": 1155564
       },
       {
-        "player": "ayesupqt",
-        "gain": 13300,
-        "currentXp": 38787
+        "player": "matoxewuz",
+        "gain": 15050,
+        "currentXp": 3020140
+      },
+      {
+        "player": "berton",
+        "gain": 13125,
+        "currentXp": 17850
       },
       {
         "player": "rhaenys",
         "gain": 9870,
         "currentXp": 22306677
-      },
-      {
-        "player": "berton",
-        "gain": 9100,
-        "currentXp": 13825
       },
       {
         "player": "cohhii",
@@ -4553,8 +5158,8 @@
       },
       {
         "player": "cybrknight",
-        "gain": 4375,
-        "currentXp": 14599135
+        "gain": 5625,
+        "currentXp": 14600385
       },
       {
         "player": "kwaai_ding",
@@ -4575,6 +5180,11 @@
         "player": "robot",
         "gain": 350,
         "currentXp": 6695045
+      },
+      {
+        "player": "warlock_roc",
+        "gain": 275,
+        "currentXp": 681135
       }
     ],
     "16": [
@@ -4585,8 +5195,8 @@
       },
       {
         "player": "f83",
-        "gain": 27244,
-        "currentXp": 1142511
+        "gain": 27506,
+        "currentXp": 1142773
       },
       {
         "player": "j23t",
@@ -4624,24 +5234,29 @@
         "currentXp": 229052
       },
       {
+        "player": "corbx",
+        "gain": 904,
+        "currentXp": 1370466
+      },
+      {
         "player": "thaw",
         "gain": 500,
         "currentXp": 74230
       },
       {
         "player": "cybr_knight",
-        "gain": 446,
-        "currentXp": 156231
+        "gain": 497,
+        "currentXp": 156282
+      },
+      {
+        "player": "cybr knight",
+        "gain": 371,
+        "currentXp": 156282
       },
       {
         "player": "torax3",
         "gain": 351,
         "currentXp": 382774
-      },
-      {
-        "player": "cybr knight",
-        "gain": 320,
-        "currentXp": 156231
       },
       {
         "player": "dodgypenguin",
@@ -4659,14 +5274,14 @@
         "currentXp": 3029674
       },
       {
+        "player": "draugr",
+        "gain": 62,
+        "currentXp": 238501
+      },
+      {
         "player": "iron_bug",
         "gain": 62,
         "currentXp": 728945
-      },
-      {
-        "player": "draugr",
-        "gain": 30,
-        "currentXp": 238469
       },
       {
         "player": "ir",
@@ -4687,15 +5302,20 @@
       },
       {
         "player": "bunnyxoxoxo",
-        "gain": 1575,
-        "currentXp": 16700
+        "gain": 1600,
+        "currentXp": 16725
+      },
+      {
+        "player": "f83",
+        "gain": 1,
+        "currentXp": 753618
       }
     ],
     "18": [
       {
         "player": "aschien",
-        "gain": 429100,
-        "currentXp": 10613327
+        "gain": 511700,
+        "currentXp": 10695927
       },
       {
         "player": "dodgypenguin",
@@ -4723,9 +5343,24 @@
         "currentXp": 46065
       },
       {
+        "player": "corbx",
+        "gain": 2150,
+        "currentXp": 2692389
+      },
+      {
+        "player": "goblin_layer",
+        "gain": 1600,
+        "currentXp": 2878062
+      },
+      {
         "player": "torax3",
         "gain": 1395,
         "currentXp": 31354022
+      },
+      {
+        "player": "applecore",
+        "gain": 1136,
+        "currentXp": 22866
       },
       {
         "player": "scroll rolls",
@@ -4765,24 +5400,24 @@
         "currentXp": 5595350
       },
       {
+        "player": "nazward",
+        "gain": 29625,
+        "currentXp": 322600
+      },
+      {
         "player": "smithaxe1",
         "gain": 22050,
         "currentXp": 909690
       },
       {
-        "player": "nazward",
-        "gain": 21075,
-        "currentXp": 314050
-      },
-      {
         "player": "draugr",
-        "gain": 12642,
-        "currentXp": 2306685
+        "gain": 15417,
+        "currentXp": 2309460
       },
       {
         "player": "oftheshire",
-        "gain": 11475,
-        "currentXp": 6336540
+        "gain": 12515,
+        "currentXp": 6337580
       },
       {
         "player": "sneeds",
@@ -4798,9 +5433,24 @@
         "player": "ir",
         "gain": 2119,
         "currentXp": 35512
+      },
+      {
+        "player": "actualnoob",
+        "gain": 675,
+        "currentXp": 19350
+      },
+      {
+        "player": "mucitel",
+        "gain": 225,
+        "currentXp": 225
       }
     ],
     "20": [
+      {
+        "player": "corbx",
+        "gain": 70405,
+        "currentXp": 11117190
+      },
       {
         "player": "don the lad",
         "gain": 21153,
@@ -4810,11 +5460,6 @@
         "player": "don_the_lad",
         "gain": 21153,
         "currentXp": 373882
-      },
-      {
-        "player": "corbx",
-        "gain": 19005,
-        "currentXp": 11065790
       },
       {
         "player": "3rd",
@@ -4872,13 +5517,18 @@
         "player": "monkhood",
         "gain": 2227,
         "currentXp": 2227
+      },
+      {
+        "player": "daarth",
+        "gain": 490,
+        "currentXp": 95702
       }
     ],
     "22": [
       {
         "player": "vinicius0404",
-        "gain": 17680,
-        "currentXp": 353462
+        "gain": 64545,
+        "currentXp": 400327
       },
       {
         "player": "robot",
@@ -4887,6 +5537,11 @@
       }
     ],
     "23": [
+      {
+        "player": "iron_bug",
+        "gain": 38100,
+        "currentXp": 223885
+      },
       {
         "player": "cohhii",
         "gain": 1035,
@@ -4900,9 +5555,14 @@
     ],
     "24": [
       {
+        "player": "goblin_layer",
+        "gain": 78000,
+        "currentXp": 1818927
+      },
+      {
         "player": "iron_bug",
-        "gain": 84,
-        "currentXp": 161736
+        "gain": 124,
+        "currentXp": 161776
       },
       {
         "player": "cohhii",
