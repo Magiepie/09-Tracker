@@ -9,7 +9,7 @@ const playersDir=path.join(dataDir,'players');
 const API='http://api.2009scape.org:3000/hiscores/playerSkills/2/';
 const PLAYER_LIST_API='http://api.2009scape.org:3000/hiscores/playersByTotal/2';
 const ACTIVITY_API='http://api.2009scape.org:3000/hiscores/getWorldTotalAttribute/2/';
-const ACTIVITIES=['logs_chopped','fish_caught','rocks_mined'];
+const ACTIVITIES=['logs_chopped','fish_caught','rocks_mined','enemies_killed','deaths','alkharid_gate'];
 const PERIODS={day:1,week:7,month:30};
 let excludedPlayers=new Set();
 const readJson=async file=>JSON.parse(await fs.readFile(file,'utf8'));
