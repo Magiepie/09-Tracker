@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-02T20:52:38.866Z",
+  "generatedAt": "2026-08-02T20:55:44.674Z",
   "day": {
     "0": [
       {
         "player": "scroll rolls",
-        "gain": 302279,
-        "currentXp": 18221160
+        "gain": 430892,
+        "currentXp": 18349773
       },
       {
         "player": "goblinslayer",
@@ -225,8 +225,8 @@
     "3": [
       {
         "player": "scroll rolls",
-        "gain": 226720,
-        "currentXp": 5337272
+        "gain": 323240,
+        "currentXp": 5433792
       },
       {
         "player": "quarky",
@@ -267,8 +267,8 @@
     "4": [
       {
         "player": "scroll rolls",
-        "gain": 75384,
-        "currentXp": 2927468
+        "gain": 107477,
+        "currentXp": 2959561
       },
       {
         "player": "quarky",
@@ -683,8 +683,8 @@
     "0": [
       {
         "player": "scroll rolls",
-        "gain": 302279,
-        "currentXp": 18221160
+        "gain": 430892,
+        "currentXp": 18349773
       },
       {
         "player": "goblinslayer",
@@ -904,8 +904,8 @@
     "3": [
       {
         "player": "scroll rolls",
-        "gain": 226720,
-        "currentXp": 5337272
+        "gain": 323240,
+        "currentXp": 5433792
       },
       {
         "player": "quarky",
@@ -946,8 +946,8 @@
     "4": [
       {
         "player": "scroll rolls",
-        "gain": 75384,
-        "currentXp": 2927468
+        "gain": 107477,
+        "currentXp": 2959561
       },
       {
         "player": "quarky",
@@ -1362,8 +1362,8 @@
     "0": [
       {
         "player": "scroll rolls",
-        "gain": 302279,
-        "currentXp": 18221160
+        "gain": 430892,
+        "currentXp": 18349773
       },
       {
         "player": "goblinslayer",
@@ -1583,8 +1583,8 @@
     "3": [
       {
         "player": "scroll rolls",
-        "gain": 226720,
-        "currentXp": 5337272
+        "gain": 323240,
+        "currentXp": 5433792
       },
       {
         "player": "quarky",
@@ -1625,8 +1625,8 @@
     "4": [
       {
         "player": "scroll rolls",
-        "gain": 75384,
-        "currentXp": 2927468
+        "gain": 107477,
+        "currentXp": 2959561
       },
       {
         "player": "quarky",
