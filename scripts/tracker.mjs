@@ -8,6 +8,7 @@ const dataDir=path.join(root,'data');
 const playersDir=path.join(dataDir,'players');
 const API='http://api.2009scape.org:3000/hiscores/playerSkills/2/';
 const PERIODS={day:1,week:7,month:30};
+let excludedPlayers=new Set();
 const readJson=async file=>JSON.parse(await fs.readFile(file,'utf8'));
 const writeJson=async(file,data)=>fs.writeFile(file,JSON.stringify(data,null,2)+'\n');
 const slug=value=>value.trim().toLowerCase().replace(/\s+/g,'-').replace(/[^a-z0-9_-]/g,'');
@@ -34,11 +35,13 @@ function calculateRecords(shots){
   return records;
 }
 
-async function updatePlayer(player,{register=false,force=false}={}){
+async function updatePlayer(player,{register=false,force=false,cooldownMinutes=0}={}){
   if(!/^[a-zA-Z0-9 _-]{1,12}$/.test(player))throw new Error('Player name must be 1–12 letters, numbers, spaces, underscores, or hyphens.');
+  if(excludedPlayers.has(player.toLowerCase()))throw new Error(`${player}: excluded from tracking`);
   await fs.mkdir(playersDir,{recursive:true});
   const file=path.join(playersDir,`${slug(player)}.json`); let existing=null;
   try{existing=await readJson(file)}catch(error){if(error.code!=='ENOENT')throw error}
+  if(existing&&cooldownMinutes&&Date.now()-new Date(existing.lastCheckedAt||0).getTime()<cooldownMinutes*60000){console.log(`${player}: skipped by ${cooldownMinutes}-minute cooldown`);return false}
   const current=await fetchPlayer(player); const now=new Date().toISOString();
   const shot={capturedAt:now,skills:current.skills};
   const changed=force||!existing||existing.snapshots.at(-1).skills.some((s,i)=>s.xp!==shot.skills[i].xp);
@@ -46,7 +49,7 @@ async function updatePlayer(player,{register=false,force=false}={}){
     const doc=existing||{player,records:{day:0,week:0,month:0},snapshots:[]};
     doc.player=existing?.player||player; doc.info=current.info; doc.lastCheckedAt=now; doc.snapshots.push(shot); doc.records=calculateRecords(doc.snapshots);
     await writeJson(file,doc); console.log(`${player}: saved snapshot`);
-  }else console.log(`${player}: no XP change`);
+  }else{existing.lastCheckedAt=now;await writeJson(file,existing);console.log(`${player}: no XP change`)}
   if(register||!existing){const index=await readJson(path.join(dataDir,'tracked-players.json'));if(!index.players.some(p=>p.toLowerCase()===player.toLowerCase())){index.players.push(player);index.players.sort((a,b)=>a.localeCompare(b));await writeJson(path.join(dataDir,'tracked-players.json'),index)}}
   return changed;
 }
@@ -60,9 +63,14 @@ async function rebuildLeaderboard(){
 }
 
 async function main(){
+  excludedPlayers=new Set((await readJson(path.join(dataDir,'excluded-players.json'))).map(name=>name.toLowerCase()));
+  const indexFile=path.join(dataDir,'tracked-players.json');
+  const index=await readJson(indexFile);
+  const allowed=index.players.filter(player=>!excludedPlayers.has(player.toLowerCase()));
+  if(allowed.length!==index.players.length)await writeJson(indexFile,{...index,players:allowed});
   const args=process.argv.slice(2); const all=args.includes('--all'); const fromIssue=args.includes('--issue'); const named=args.indexOf('--player');
-  if(all){const index=await readJson(path.join(dataDir,'tracked-players.json'));for(const player of index.players){try{await updatePlayer(player,{force:true})}catch(error){console.error(error.message)}}}
-  else{const player=fromIssue?issuePlayer(process.env.ISSUE_BODY):args[named+1];if(!player)throw new Error('No valid player name supplied.');await updatePlayer(player,{register:true})}
+  if(all){for(const player of allowed){try{await updatePlayer(player,{force:true})}catch(error){console.error(error.message)}}}
+  else{const player=fromIssue?issuePlayer(process.env.ISSUE_BODY):args[named+1];if(!player)throw new Error('No valid player name supplied.');await updatePlayer(player,{register:true,cooldownMinutes:fromIssue?15:0})}
   await rebuildLeaderboard();
 }
 main().catch(error=>{console.error(error);process.exitCode=1});
