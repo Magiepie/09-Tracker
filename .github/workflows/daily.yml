@@ -21,7 +21,7 @@ jobs:
           node-version: 22
       - name: Update tracked players and discover new players
         env:
-          DISCOVERY_BATCH_SIZE: 100
+          DISCOVERY_BATCH_SIZE: 1
         run: node scripts/tracker.mjs --all
       - name: Save changed snapshots
         run: |
