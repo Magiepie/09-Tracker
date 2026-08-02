@@ -8,6 +8,8 @@ const dataDir=path.join(root,'data');
 const playersDir=path.join(dataDir,'players');
 const API='http://api.2009scape.org:3000/hiscores/playerSkills/2/';
 const PLAYER_LIST_API='http://api.2009scape.org:3000/hiscores/playersByTotal/2';
+const ACTIVITY_API='http://api.2009scape.org:3000/hiscores/getWorldTotalAttribute/2/';
+const ACTIVITIES=['logs_chopped','fish_caught','rocks_mined'];
 const PERIODS={day:1,week:7,month:30};
 let excludedPlayers=new Set();
 const readJson=async file=>JSON.parse(await fs.readFile(file,'utf8'));
@@ -36,6 +38,26 @@ async function fetchPlayerList(){
   const payload=await response.json();
   if(!Array.isArray(payload))throw new Error('Unexpected player-list data');
   return payload.map(row=>String(row.username||'').trim()).filter(Boolean);
+}
+
+async function updateActivities(){
+  const entries=await Promise.all(ACTIVITIES.map(async key=>{
+    const response=await fetch(`${ACTIVITY_API}${key}/`,{headers:{Accept:'application/json'},signal:AbortSignal.timeout(30000)});
+    if(!response.ok)throw new Error(`Activity ${key} returned ${response.status}`);
+    const payload=await response.json();
+    return [key,Math.floor(Number(payload.sum||0))];
+  }));
+  const file=path.join(dataDir,'activities.json');
+  let doc={generatedAt:null,snapshots:[]};
+  try{doc=await readJson(file)}catch(error){if(error.code!=='ENOENT')throw error}
+  const capturedAt=new Date().toISOString();
+  const shot={capturedAt,values:Object.fromEntries(entries)};
+  const today=capturedAt.slice(0,10);
+  if(doc.snapshots.at(-1)?.capturedAt?.slice(0,10)===today)doc.snapshots[doc.snapshots.length-1]=shot;
+  else doc.snapshots.push(shot);
+  doc.generatedAt=capturedAt;
+  await writeJson(file,doc);
+  console.log('World activities: saved daily checkpoint');
 }
 
 function calculateRecords(shots){
@@ -77,15 +99,16 @@ async function main(){
   const index=await readJson(indexFile);
   const allowed=index.players.filter(player=>!excludedPlayers.has(player.toLowerCase()));
   if(allowed.length!==index.players.length)await writeJson(indexFile,{...index,players:allowed});
-  const args=process.argv.slice(2); const all=args.includes('--all'); const fromIssue=args.includes('--issue'); const named=args.indexOf('--player');
-  if(all){
+  const args=process.argv.slice(2); const all=args.includes('--all'); const importOnly=args.includes('--import-only'); const fromIssue=args.includes('--issue'); const named=args.indexOf('--player');
+  if(all||importOnly){
     const discovered=await fetchPlayerList();
     const known=new Set(allowed.map(player=>player.toLowerCase()));
     const batchSize=Math.max(0,Number(process.env.DISCOVERY_BATCH_SIZE||100));
     const additions=discovered.filter(player=>/^[a-zA-Z0-9 _-]{1,12}$/.test(player)&&!excludedPlayers.has(player.toLowerCase())&&!known.has(player.toLowerCase())).slice(0,batchSize);
-    const dailyPlayers=[...allowed,...additions];
-    console.log(`Player list: ${discovered.length} found, ${additions.length} new players selected`);
-    for(const player of dailyPlayers){try{await updatePlayer(player,{register:true})}catch(error){console.error(error.message)}}
+    const playersToUpdate=importOnly?additions:[...allowed,...additions];
+    console.log(`Player list: ${discovered.length} found, ${additions.length} new players selected (${importOnly?'import only':'daily update'})`);
+    for(const player of playersToUpdate){try{await updatePlayer(player,{register:true})}catch(error){console.error(error.message)}}
+    if(all)await updateActivities();
   }
   else{const player=fromIssue?issuePlayer(process.env.ISSUE_BODY):args[named+1];if(!player)throw new Error('No valid player name supplied.');await updatePlayer(player,{register:true,cooldownMinutes:fromIssue?15:0})}
   await rebuildLeaderboard();
