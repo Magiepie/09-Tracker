@@ -41,23 +41,41 @@ async function fetchPlayerList(){
 }
 
 async function updateActivities(){
-  const entries=await Promise.all(ACTIVITIES.map(async key=>{
-    const response=await fetch(`${ACTIVITY_API}${key}/`,{headers:{Accept:'application/json'},signal:AbortSignal.timeout(30000)});
-    if(!response.ok)throw new Error(`Activity ${key} returned ${response.status}`);
-    const payload=await response.json();
-    return [key,Math.floor(Number(payload.sum||0))];
-  }));
   const file=path.join(dataDir,'activities.json');
   let doc={generatedAt:null,snapshots:[]};
   try{doc=await readJson(file)}catch(error){if(error.code!=='ENOENT')throw error}
+  const fetchActivity=async key=>{
+    const url=`${ACTIVITY_API}${key}/`;
+    for(let attempt=1;attempt<=3;attempt++){
+      try{
+        const response=await fetch(url,{headers:{Accept:'application/json'},signal:AbortSignal.timeout(30000)});
+        if(!response.ok){const detail=(await response.text().catch(()=>'' )).slice(0,200);throw new Error(`HTTP ${response.status}${detail?`: ${detail}`:''}`)}
+        const payload=await response.json();
+        const value=Math.floor(Number(payload.sum));
+        if(!Number.isFinite(value)||value<0)throw new Error(`invalid sum: ${payload.sum}`);
+        return [key,value];
+      }catch(error){
+        if(attempt===3)throw new Error(`${key}: ${error.message}`);
+        const delay=2000*2**(attempt-1);
+        console.warn(`Activity ${key} attempt ${attempt}/3 failed: ${error.message}; retrying in ${delay}ms`);
+        await new Promise(resolve=>setTimeout(resolve,delay));
+      }
+    }
+  };
+  const results=await Promise.allSettled(ACTIVITIES.map(fetchActivity));
+  const entries=results.filter(result=>result.status==='fulfilled').map(result=>result.value);
+  results.filter(result=>result.status==='rejected').forEach(result=>console.error(`Activity fetch failed; preserving last value: ${result.reason.message}`));
+  if(entries.length===0){console.error('World activities: every endpoint failed; checkpoint skipped');return false}
   const capturedAt=new Date().toISOString();
-  const shot={capturedAt,values:Object.fromEntries(entries)};
+  const previous=doc.snapshots.at(-1)?.values||{};
+  const shot={capturedAt,values:{...previous,...Object.fromEntries(entries)}};
   const today=capturedAt.slice(0,10);
   if(doc.snapshots.at(-1)?.capturedAt?.slice(0,10)===today)doc.snapshots[doc.snapshots.length-1]=shot;
   else doc.snapshots.push(shot);
   doc.generatedAt=capturedAt;
   await writeJson(file,doc);
-  console.log('World activities: saved daily checkpoint');
+  console.log(`World activities: saved daily checkpoint (${entries.length}/${ACTIVITIES.length} endpoints refreshed)`);
+  return true;
 }
 
 function calculateRecords(shots){
@@ -107,8 +125,8 @@ async function main(){
     const additions=discovered.filter(player=>/^[a-zA-Z0-9 _-]{1,12}$/.test(player)&&!excludedPlayers.has(player.toLowerCase())&&!known.has(player.toLowerCase())).slice(0,batchSize);
     const playersToUpdate=importOnly?additions:[...allowed,...additions];
     console.log(`Player list: ${discovered.length} found, ${additions.length} new players selected (${importOnly?'import only':'daily update'})`);
-    for(const player of playersToUpdate){try{await updatePlayer(player,{register:true})}catch(error){console.error(error.message)}}
     if(all)await updateActivities();
+    for(const player of playersToUpdate){try{await updatePlayer(player,{register:true})}catch(error){console.error(error.message)}}
   }
   else{const player=fromIssue?issuePlayer(process.env.ISSUE_BODY):args[named+1];if(!player)throw new Error('No valid player name supplied.');await updatePlayer(player,{register:true,cooldownMinutes:fromIssue?15:0})}
   await rebuildLeaderboard();
