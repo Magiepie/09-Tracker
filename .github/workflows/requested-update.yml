@@ -12,7 +12,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   update:
-    if: contains(github.event.issue.labels.*.name, 'player-update')
+    if: startsWith(github.event.issue.title, 'Update player:')
     runs-on: ubuntu-latest
     env:
       ISSUE_BODY: ${{ github.event.issue.body }}
@@ -21,8 +21,7 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version: 22
-      - id: tracker
-        run: node scripts/tracker.mjs --issue
+      - run: node scripts/tracker.mjs --issue
       - name: Save result
         run: |
           if git diff --quiet -- data; then exit 0; fi
@@ -38,7 +37,7 @@ jobs:
           gh issue comment ${{ github.event.issue.number }} --body "Player check complete. The tracker saves a new snapshot only when XP changed."
           gh issue close ${{ github.event.issue.number }}
   deploy:
-    if: contains(github.event.issue.labels.*.name, 'player-update')
+    if: startsWith(github.event.issue.title, 'Update player:')
     needs: update
     uses: ./.github/workflows/pages.yml
     permissions:
