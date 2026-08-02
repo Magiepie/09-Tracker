@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-02T20:00:00.000Z",
+  "generatedAt": "2026-08-02T22:01:21.359Z",
   "snapshots": [
     {
-      "capturedAt": "2026-08-02T20:00:00.000Z",
+      "capturedAt": "2026-08-02T22:01:21.359Z",
       "values": {
-        "logs_chopped": 13443683,
-        "fish_caught": 8092500,
-        "rocks_mined": 16113956
+        "logs_chopped": 13443701,
+        "fish_caught": 8092694,
+        "rocks_mined": 16114127
       }
     }
   ]
