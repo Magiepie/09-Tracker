@@ -1,0 +1,68 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import process from 'node:process';
+import { fileURLToPath } from 'node:url';
+
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const dataDir=path.join(root,'data');
+const playersDir=path.join(dataDir,'players');
+const API='http://api.2009scape.org:3000/hiscores/playerSkills/2/';
+const PERIODS={day:1,week:7,month:30};
+const readJson=async file=>JSON.parse(await fs.readFile(file,'utf8'));
+const writeJson=async(file,data)=>fs.writeFile(file,JSON.stringify(data,null,2)+'\n');
+const slug=value=>value.trim().toLowerCase().replace(/\s+/g,'-').replace(/[^a-z0-9_-]/g,'');
+const totalXp=s=>s.skills.reduce((n,v)=>n+v.xp,0);
+const baseline=(shots,at,days)=>{const cutoff=new Date(at).getTime()-days*86400000;return shots.filter(s=>new Date(s.capturedAt).getTime()<=cutoff).at(-1)||shots[0]};
+const gain=(shots,latest,days,skill=0)=>{const base=baseline(shots,latest.capturedAt,days);if(skill===0)return Math.max(0,totalXp(latest)-totalXp(base));return Math.max(0,latest.skills[skill-1].xp-base.skills[skill-1].xp)};
+
+function issuePlayer(body=''){
+  const match=body.match(/###\s*Player name\s*\r?\n+\s*([^\r\n]+)/i);
+  return match?.[1]?.trim();
+}
+
+async function fetchPlayer(player){
+  const response=await fetch(API+encodeURIComponent(player),{headers:{Accept:'application/json'},signal:AbortSignal.timeout(20000)});
+  if(!response.ok)throw new Error(`Hiscores returned ${response.status} for ${player}`);
+  const payload=await response.json();
+  if(!Array.isArray(payload.skills)||payload.skills.length!==24)throw new Error(`Unexpected skill data for ${player}`);
+  return {info:payload.info||{},skills:payload.skills.map(s=>({id:Number(s.id),level:Number(s.static),xp:Math.floor(Number(s.experience))})).sort((a,b)=>a.id-b.id)};
+}
+
+function calculateRecords(shots){
+  const records={day:0,week:0,month:0};
+  for(const shot of shots)for(const [name,days] of Object.entries(PERIODS))records[name]=Math.max(records[name],gain(shots,shot,days));
+  return records;
+}
+
+async function updatePlayer(player,{register=false,force=false}={}){
+  if(!/^[a-zA-Z0-9 _-]{1,12}$/.test(player))throw new Error('Player name must be 1–12 letters, numbers, spaces, underscores, or hyphens.');
+  await fs.mkdir(playersDir,{recursive:true});
+  const file=path.join(playersDir,`${slug(player)}.json`); let existing=null;
+  try{existing=await readJson(file)}catch(error){if(error.code!=='ENOENT')throw error}
+  const current=await fetchPlayer(player); const now=new Date().toISOString();
+  const shot={capturedAt:now,skills:current.skills};
+  const changed=force||!existing||existing.snapshots.at(-1).skills.some((s,i)=>s.xp!==shot.skills[i].xp);
+  if(changed){
+    const doc=existing||{player,records:{day:0,week:0,month:0},snapshots:[]};
+    doc.player=existing?.player||player; doc.info=current.info; doc.lastCheckedAt=now; doc.snapshots.push(shot); doc.records=calculateRecords(doc.snapshots);
+    await writeJson(file,doc); console.log(`${player}: saved snapshot`);
+  }else console.log(`${player}: no XP change`);
+  if(register||!existing){const index=await readJson(path.join(dataDir,'tracked-players.json'));if(!index.players.some(p=>p.toLowerCase()===player.toLowerCase())){index.players.push(player);index.players.sort((a,b)=>a.localeCompare(b));await writeJson(path.join(dataDir,'tracked-players.json'),index)}}
+  return changed;
+}
+
+async function rebuildLeaderboard(){
+  const index=await readJson(path.join(dataDir,'tracked-players.json'));const docs=[];
+  for(const player of index.players){try{docs.push(await readJson(path.join(playersDir,`${slug(player)}.json`)))}catch{console.warn(`${player}: missing data file`)}}
+  const output={generatedAt:new Date().toISOString(),day:{},week:{},month:{}};
+  for(const [period,days] of Object.entries(PERIODS))for(let skill=0;skill<=24;skill++)output[period][skill]=docs.map(doc=>{const latest=doc.snapshots.at(-1);return{player:doc.player,gain:gain(doc.snapshots,latest,days,skill),currentXp:skill===0?totalXp(latest):latest.skills[skill-1].xp}}).filter(row=>row.gain>0).sort((a,b)=>b.gain-a.gain||a.player.localeCompare(b.player)).slice(0,42);
+  await writeJson(path.join(dataDir,'top-gains.json'),output);
+}
+
+async function main(){
+  const args=process.argv.slice(2); const all=args.includes('--all'); const fromIssue=args.includes('--issue'); const named=args.indexOf('--player');
+  if(all){const index=await readJson(path.join(dataDir,'tracked-players.json'));for(const player of index.players){try{await updatePlayer(player,{force:true})}catch(error){console.error(error.message)}}}
+  else{const player=fromIssue?issuePlayer(process.env.ISSUE_BODY):args[named+1];if(!player)throw new Error('No valid player name supplied.');await updatePlayer(player,{register:true})}
+  await rebuildLeaderboard();
+}
+main().catch(error=>{console.error(error);process.exitCode=1});
