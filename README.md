@@ -16,7 +16,7 @@ Players with no XP-changing snapshot for 30 days are moved out of the daily upda
 
 The Player page builds a prefilled GitHub issue for early updates; any signed-in GitHub user can submit it without repository edit permission. The issue workflow checks the API, enforces a 15-minute per-player cooldown, stores a snapshot only if XP changed, and closes the request.
 
-For the initial bulk load, run **Import players** manually from the Actions tab. It imports only the next batch of new eligible names and does not recheck players already stored. Its default batch size is 700 and can be changed when starting the workflow.
+For the initial bulk load, run **Import players** manually from the Actions tab. It imports only the next batch of new eligible names and does not recheck players already stored. Its default batch size is 1 and can be changed when starting the workflow.
 
 ## Local preview
 
