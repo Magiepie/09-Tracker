@@ -123,8 +123,9 @@ async function updatePlayer(player,{register=false,force=false,cooldownMinutes=0
 async function rebuildLeaderboard(){
   const index=await readJson(path.join(dataDir,'tracked-players.json'));const docs=[];
   for(const player of index.players){try{docs.push(await readJson(path.join(playersDir,`${slug(player)}.json`)))}catch{console.warn(`${player}: missing data file`)}}
+  const uniqueDocs=[...new Map(docs.map(doc=>[playerKey(doc.player),doc])).values()];
   const output={generatedAt:new Date().toISOString(),day:{},week:{},month:{}};
-  for(const [period,days] of Object.entries(PERIODS))for(let skill=0;skill<=24;skill++)output[period][skill]=docs.map(doc=>{const latest=doc.snapshots.at(-1);return{player:doc.player,gain:gain(doc.snapshots,latest,days,skill),currentXp:skill===0?totalXp(latest):latest.skills[skill-1].xp}}).filter(row=>row.gain>0).sort((a,b)=>b.gain-a.gain||a.player.localeCompare(b.player)).slice(0,42);
+  for(const [period,days] of Object.entries(PERIODS))for(let skill=0;skill<=24;skill++)output[period][skill]=uniqueDocs.map(doc=>{const latest=doc.snapshots.at(-1);return{player:doc.player,gain:gain(doc.snapshots,latest,days,skill),currentXp:skill===0?totalXp(latest):latest.skills[skill-1].xp}}).filter(row=>row.gain>0).sort((a,b)=>b.gain-a.gain||a.player.localeCompare(b.player)).slice(0,42);
   await writeJson(path.join(dataDir,'top-gains.json'),output);
 }
 
