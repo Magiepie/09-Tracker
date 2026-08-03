@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T03:51:02.552Z",
+  "generatedAt": "2026-08-03T04:55:28.650Z",
   "day": {
     "0": [
       {
@@ -1526,6 +1526,11 @@
         "currentXp": 265437
       },
       {
+        "player": "mayev",
+        "gain": 4900,
+        "currentXp": 10974311
+      },
+      {
         "player": "iron_bug",
         "gain": 3938,
         "currentXp": 1488912
@@ -2631,6 +2636,11 @@
         "player": "autolycus",
         "gain": 20930,
         "currentXp": 1819981
+      },
+      {
+        "player": "mayev",
+        "gain": 18944,
+        "currentXp": 7208002
       },
       {
         "player": "iron_bug",
@@ -4428,6 +4438,11 @@
         "currentXp": 265437
       },
       {
+        "player": "mayev",
+        "gain": 4900,
+        "currentXp": 10974311
+      },
+      {
         "player": "iron_bug",
         "gain": 3938,
         "currentXp": 1488912
@@ -5533,6 +5548,11 @@
         "player": "autolycus",
         "gain": 20930,
         "currentXp": 1819981
+      },
+      {
+        "player": "mayev",
+        "gain": 18944,
+        "currentXp": 7208002
       },
       {
         "player": "iron_bug",
@@ -7330,6 +7350,11 @@
         "currentXp": 265437
       },
       {
+        "player": "mayev",
+        "gain": 4900,
+        "currentXp": 10974311
+      },
+      {
         "player": "iron_bug",
         "gain": 3938,
         "currentXp": 1488912
@@ -8435,6 +8460,11 @@
         "player": "autolycus",
         "gain": 20930,
         "currentXp": 1819981
+      },
+      {
+        "player": "mayev",
+        "gain": 18944,
+        "currentXp": 7208002
       },
       {
         "player": "iron_bug",
