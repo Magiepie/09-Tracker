@@ -1,7 +1,7 @@
 name: Daily player snapshots
 on:
   schedule:
-    - cron: '5 7 * * *'
+    - cron: '5 7 *  '
       timezone: Etc/UTC
   workflow_dispatch:
 permissions:
