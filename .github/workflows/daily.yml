@@ -1,7 +1,7 @@
 name: Daily player snapshots
 on:
   schedule:
-    - cron: '5 7 * * *'
+    - cron: '10 0 * * *'
       timezone: Etc/UTC
   workflow_dispatch:
 permissions:
@@ -31,3 +31,12 @@ jobs:
           git add data
           git commit -m "data: daily player snapshots"
           git push
+  deploy:
+    needs: update
+    uses: ./.github/workflows/pages.yml
+    with:
+      ref: main
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
