@@ -1,0 +1,140 @@
+{
+  "player": "link",
+  "records": {
+    "day": 0,
+    "week": 0,
+    "month": 0
+  },
+  "snapshots": [
+    {
+      "capturedAt": "2026-08-06T09:48:16.185Z",
+      "skills": [
+        {
+          "id": 0,
+          "level": 20,
+          "xp": 4560
+        },
+        {
+          "id": 1,
+          "level": 20,
+          "xp": 4600
+        },
+        {
+          "id": 2,
+          "level": 25,
+          "xp": 8040
+        },
+        {
+          "id": 3,
+          "level": 23,
+          "xp": 6873
+        },
+        {
+          "id": 4,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 5,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 6,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 7,
+          "level": 23,
+          "xp": 6300
+        },
+        {
+          "id": 8,
+          "level": 72,
+          "xp": 905503
+        },
+        {
+          "id": 9,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 10,
+          "level": 22,
+          "xp": 5700
+        },
+        {
+          "id": 11,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 12,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 13,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 14,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 15,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 16,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 17,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 18,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 19,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 20,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 21,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 22,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 23,
+          "level": 1,
+          "xp": 0
+        }
+      ]
+    }
+  ],
+  "info": {
+    "exp_multiplier": "10.0",
+    "iron_mode": "2"
+  },
+  "lastCheckedAt": "2026-08-06T09:48:16.185Z"
+}
