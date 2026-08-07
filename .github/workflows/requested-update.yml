@@ -34,8 +34,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh issue comment ${{ github.event.issue.number }} --body "Player check complete. The tracker saves a new snapshot only when XP changed."
-          gh issue close ${{ github.event.issue.number }}
+         gh issue close ${{ github.event.issue.number }}
   deploy:
     if: startsWith(github.event.issue.title, 'Update player:')
     needs: update
