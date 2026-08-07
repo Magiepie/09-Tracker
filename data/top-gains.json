@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T02:02:23.411Z",
+  "generatedAt": "2026-08-07T03:51:15.418Z",
   "day": {
     "0": [
       {
@@ -22990,6 +22990,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "oil tanker",
+            "gain": 2619,
+            "currentXp": 10210,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "ultor",
             "gain": 2037,
             "currentXp": 3559710,
@@ -23139,6 +23146,13 @@
             "player": "applecore",
             "gain": 13498,
             "currentXp": 1314638,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "oil tanker",
+            "gain": 2619,
+            "currentXp": 10210,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -25510,6 +25524,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "oil tanker",
+            "gain": 2562,
+            "currentXp": 4642,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "cohhii",
             "gain": 1384,
             "currentXp": 47637,
@@ -25578,6 +25599,13 @@
             "player": "redwoodchair",
             "gain": 3917,
             "currentXp": 1177951,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "oil tanker",
+            "gain": 2562,
+            "currentXp": 4642,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -28191,6 +28219,13 @@
             "currentXp": 70543,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "oil tanker",
+            "gain": 57,
+            "currentXp": 1211,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
@@ -28289,6 +28324,13 @@
             "player": "applecore",
             "gain": 58,
             "currentXp": 70543,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "oil tanker",
+            "gain": 57,
+            "currentXp": 1211,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -50274,6 +50316,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "oil tanker",
+            "gain": 2619,
+            "currentXp": 10210,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "ultor",
             "gain": 2037,
             "currentXp": 3559710,
@@ -50511,6 +50560,13 @@
             "player": "redwoodchair",
             "gain": 15799,
             "currentXp": 9073613,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "oil tanker",
+            "gain": 2619,
+            "currentXp": 10210,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -53107,6 +53163,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "oil tanker",
+            "gain": 2562,
+            "currentXp": 4642,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "cohhii",
             "gain": 1692,
             "currentXp": 47637,
@@ -53182,6 +53245,13 @@
             "player": "redwoodchair",
             "gain": 3917,
             "currentXp": 1177951,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "oil tanker",
+            "gain": 2562,
+            "currentXp": 4642,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -55921,6 +55991,13 @@
             "currentXp": 70543,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "oil tanker",
+            "gain": 57,
+            "currentXp": 1211,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
@@ -56026,6 +56103,13 @@
             "player": "applecore",
             "gain": 58,
             "currentXp": 70543,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "oil tanker",
+            "gain": 57,
+            "currentXp": 1211,
             "ironMode": 0,
             "expMultiplier": 1
           }
@@ -81270,6 +81354,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "oil tanker",
+            "gain": 2619,
+            "currentXp": 10210,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "ultor",
             "gain": 2037,
             "currentXp": 3559710,
@@ -81507,6 +81598,13 @@
             "player": "redwoodchair",
             "gain": 15799,
             "currentXp": 9073613,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "oil tanker",
+            "gain": 2619,
+            "currentXp": 10210,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -84103,6 +84201,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "oil tanker",
+            "gain": 2562,
+            "currentXp": 4642,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
             "player": "cohhii",
             "gain": 1692,
             "currentXp": 47637,
@@ -84178,6 +84283,13 @@
             "player": "redwoodchair",
             "gain": 3917,
             "currentXp": 1177951,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "oil tanker",
+            "gain": 2562,
+            "currentXp": 4642,
             "ironMode": 0,
             "expMultiplier": 1
           },
@@ -86917,6 +87029,13 @@
             "currentXp": 70543,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "oil tanker",
+            "gain": 57,
+            "currentXp": 1211,
+            "ironMode": 0,
+            "expMultiplier": 1
           }
         ],
         "account:0|xp:1": [
@@ -87022,6 +87141,13 @@
             "player": "applecore",
             "gain": 58,
             "currentXp": 70543,
+            "ironMode": 0,
+            "expMultiplier": 1
+          },
+          {
+            "player": "oil tanker",
+            "gain": 57,
+            "currentXp": 1211,
             "ironMode": 0,
             "expMultiplier": 1
           }
