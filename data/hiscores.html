@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Daily 2009scape Hiscores, filterable by account mode and XP rate.">
+  <title>2009Tracker - Hiscores</title><link rel="stylesheet" href="./styles.css"><script src="./app.js" defer></script>
+</head>
+<body data-page="hiscores">
+  <header class="masthead"><a class="brand" href="./gains.html"><span class="brand-rune">09</span><span><strong>2009Tracker</strong><small>Hiscores archive</small></span></a><form id="lookup" class="lookup"><input id="lookup-name" maxlength="12" placeholder="Lookup player" aria-label="Player name"><button>Search</button></form></header>
+  <nav class="nav"><a href="./player.html">Player</a><a href="./gains.html">Top Gains</a><a class="active" href="./hiscores.html">Hiscores</a><a href="./activity.html">Activities</a><a href="https://2009scape.org" target="_blank" rel="noreferrer">2009scape</a></nav>
+  <main class="shell gains-shell">
+    <div class="leader-heading"><div><p class="kicker">World 2 leaderboard</p><h1>Hiscores</h1><p class="muted">A daily copy of the official rankings.</p></div><div class="leader-controls"><div class="mode-filters" aria-label="Account filters"><label><span>Account type</span><select id="account-filter"><option value="all">All accounts</option><option value="0">Regular</option><option value="1">Ironman</option><option value="2">Hardcore Ironman</option><option value="3">Ultimate Ironman</option></select></label><label><span>XP rate</span><select id="xp-filter"><option value="all">All XP rates</option><option value="1">x1</option><option value="2.5">x2.5</option><option value="5">x5</option><option value="10">x10</option></select></label></div></div></div>
+    <section class="skill-picker panel"><p class="kicker">Choose a skill</p><div id="skill-picker"></div></section>
+    <p id="hiscores-loading" class="notice" hidden></p>
+    <section class="panel leaderboard"><div class="panel-title leaderboard-title"><div><p class="kicker">Daily ranking</p><h2 id="hiscores-skill">Overall</h2></div><p id="hiscores-updated" class="muted"></p></div><div class="leader-head"><span>Rank</span><span>Player</span><span>Level</span><span>XP</span></div><div id="hiscores-list"></div><div id="hiscores-empty" class="empty" hidden>No players found for these filters.</div></section>
+  </main>
+  <footer><span>Hiscores are copied from the World 2 API once daily.</span><span>Each list shows its top 100 players.</span></footer>
+</body>
+</html>
