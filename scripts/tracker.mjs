@@ -8,9 +8,11 @@ const dataDir=path.join(root,'data');
 const playersDir=path.join(dataDir,'players');
 const API='http://api.2009scape.org:3000/hiscores/playerSkills/2/';
 const PLAYER_LIST_API='http://api.2009scape.org:3000/hiscores/playersByTotal/2';
+const HISCORES_SKILL_API='http://api.2009scape.org:3000/hiscores/playersBySkill/2/';
 const ACTIVITY_API='http://api.2009scape.org:3000/hiscores/getWorldTotalAttribute/2/';
 const ACTIVITIES=['logs_chopped','fish_caught','rocks_mined','enemies_killed','deaths','alkharid_gate'];
 const PERIODS={day:1,week:7,month:30};
+const HISCORE_SKILLS=['Overall','Attack','Defence','Strength','Hitpoints','Ranged','Prayer','Magic','Cooking','Woodcutting','Fletching','Fishing','Firemaking','Crafting','Smithing','Mining','Herblore','Agility','Thieving','Slayer','Farming','Runecrafting','Hunter','Construction','Summoning'];
 let excludedPlayers=new Set();
 const readJson=async file=>JSON.parse(await fs.readFile(file,'utf8'));
 const writeJson=async(file,data)=>fs.writeFile(file,JSON.stringify(data,null,2)+'\n');
@@ -40,6 +42,46 @@ async function fetchPlayerList(){
   const payload=await response.json();
   if(!Array.isArray(payload))throw new Error('Unexpected player-list data');
   return payload.map(row=>String(row.username||'').trim()).filter(Boolean);
+}
+
+async function fetchHiscoreRows(url){
+  const response=await fetch(url,{headers:{Accept:'application/json'},signal:AbortSignal.timeout(120000)});
+  if(!response.ok)throw new Error(`Hiscores list returned ${response.status}`);
+  const payload=await response.json();
+  if(!Array.isArray(payload))throw new Error('Unexpected hiscores-list data');
+  return payload.map(row=>({player:String(row.username||'').trim(),level:Math.floor(Number(row.level)||0),xp:Math.floor(Number(row.xp)||0),ironMode:Number(row.iron_mode||0),expMultiplier:Number(row.exp_multiplier||0)})).filter(row=>row.player);
+}
+
+function segmentHiscores(rows,limit=100){
+  const segments={all:[]};
+  for(const row of rows){
+    const account=`account:${row.ironMode}`,xp=`xp:${row.expMultiplier}`,combined=`${account}|${xp}`;
+    for(const key of ['all',account,xp,combined])if((segments[key]?.length||0)<limit)(segments[key]||=[]).push(row);
+  }
+  return segments;
+}
+
+async function updateHiscores(){
+  const file=path.join(dataDir,'hiscores.json');
+  let previous={skills:{}};
+  try{previous=await readJson(file)}catch(error){if(error.code!=='ENOENT')throw error}
+  const skills={}; let refreshed=0;
+  for(let skill=0;skill<HISCORE_SKILLS.length;skill++){
+    const url=skill===0?PLAYER_LIST_API:`${HISCORES_SKILL_API}${skill-1}`;
+    try{
+      const rows=await fetchHiscoreRows(url);
+      skills[skill]={name:HISCORE_SKILLS[skill],segments:segmentHiscores(rows)};
+      refreshed++;
+      console.log(`Hiscores: ${HISCORE_SKILLS[skill]} refreshed (${rows.length} players)`);
+    }catch(error){
+      console.error(`Hiscores: ${HISCORE_SKILLS[skill]} failed; preserving previous list: ${error.message}`);
+      if(previous.skills?.[skill])skills[skill]=previous.skills[skill];
+    }
+  }
+  if(!refreshed){console.error('Hiscores: every endpoint failed; update skipped');return false}
+  await writeJson(file,{generatedAt:new Date().toISOString(),limit:100,skills});
+  console.log(`Hiscores: saved daily version (${refreshed}/${HISCORE_SKILLS.length} lists refreshed)`);
+  return true;
 }
 
 async function updateActivities(){
@@ -87,7 +129,7 @@ function calculateRecords(shots){
 }
 
 async function updatePlayer(player,{register=false,force=false,cooldownMinutes=0}={}){
-  if(!/^[a-zA-Z0-9 _-]{1,12}$/.test(player))throw new Error('Player name must be 1–12 letters, numbers, spaces, underscores, or hyphens.');
+  if(!/^[a-zA-Z0-9 _-]{1,12}$/.test(player))throw new Error('Player name must be 1-12 letters, numbers, spaces, underscores, or hyphens.');
   if(excludedPlayers.has(playerKey(player)))throw new Error(`${player}: excluded from tracking`);
   await fs.mkdir(playersDir,{recursive:true});
   const file=path.join(playersDir,`${slug(player)}.json`); let existing=null; const legacyFiles=[];
@@ -142,7 +184,8 @@ async function main(){
   excludedPlayers=new Set((await readJson(path.join(dataDir,'excluded-players.json'))).map(playerKey));
   const indexFile=path.join(dataDir,'tracked-players.json');
   const index=await readJson(indexFile);
-  const args=process.argv.slice(2); const all=args.includes('--all'); const importOnly=args.includes('--import-only'); const fromIssue=args.includes('--issue'); const named=args.indexOf('--player');
+  const args=process.argv.slice(2); const all=args.includes('--all'); const hiscoresOnly=args.includes('--hiscores-only'); const importOnly=args.includes('--import-only'); const fromIssue=args.includes('--issue'); const named=args.indexOf('--player');
+  if(hiscoresOnly){await updateHiscores();return}
   const inactiveFile=path.join(dataDir,'inactive-players.json');
   let inactive={players:[]};
   try{inactive=await readJson(inactiveFile)}catch(error){if(error.code!=='ENOENT')throw error}
