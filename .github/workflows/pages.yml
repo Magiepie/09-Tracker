@@ -2,7 +2,7 @@ name: Deploy tracker
 on:
   push:
     branches: [main]
-    paths: ['site/**','data/**','.github/workflows/pages.yml']
+    paths: ['site/**','data/**','scripts/**','.gitignore','.github/workflows/pages.yml']
   workflow_call:
     inputs:
       ref:
@@ -28,6 +28,11 @@ jobs:
       - uses: actions/checkout@v6
         with:
           ref: ${{ inputs.ref || github.sha }}
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Build current Hiscores cache
+        run: node scripts/tracker.mjs --hiscores-only
       - run: |
           mkdir -p _site
           cp -R site/. _site/
