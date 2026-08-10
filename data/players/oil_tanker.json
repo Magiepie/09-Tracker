@@ -1,9 +1,9 @@
 {
   "player": "oil tanker",
   "records": {
-    "day": 2651,
-    "week": 2651,
-    "month": 2651
+    "day": 10246,
+    "week": 12897,
+    "month": 12897
   },
   "snapshots": [
     {
@@ -380,11 +380,136 @@
           "xp": 0
         }
       ]
+    },
+    {
+      "capturedAt": "2026-08-10T02:32:53.479Z",
+      "skills": [
+        {
+          "id": 0,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 1,
+          "level": 25,
+          "xp": 8683
+        },
+        {
+          "id": 2,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 3,
+          "level": 14,
+          "xp": 2180
+        },
+        {
+          "id": 4,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 5,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 6,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 7,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 8,
+          "level": 24,
+          "xp": 7662
+        },
+        {
+          "id": 9,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 10,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 11,
+          "level": 4,
+          "xp": 320
+        },
+        {
+          "id": 12,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 13,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 14,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 15,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 16,
+          "level": 12,
+          "xp": 1643
+        },
+        {
+          "id": 17,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 18,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 19,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 20,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 21,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 22,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 23,
+          "level": 1,
+          "xp": 0
+        }
+      ]
     }
   ],
   "info": {
     "exp_multiplier": "1.0",
     "iron_mode": "0"
   },
-  "lastCheckedAt": "2026-08-09T02:29:24.476Z"
+  "lastCheckedAt": "2026-08-10T02:32:53.479Z"
 }

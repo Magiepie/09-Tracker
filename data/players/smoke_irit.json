@@ -1,9 +1,9 @@
 {
   "player": "smoke irit",
   "records": {
-    "day": 0,
-    "week": 0,
-    "month": 0
+    "day": 245700,
+    "week": 245700,
+    "month": 245700
   },
   "snapshots": [
     {
@@ -130,11 +130,136 @@
           "xp": 0
         }
       ]
+    },
+    {
+      "capturedAt": "2026-08-10T02:33:28.004Z",
+      "skills": [
+        {
+          "id": 0,
+          "level": 3,
+          "xp": 200
+        },
+        {
+          "id": 1,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 2,
+          "level": 30,
+          "xp": 13715
+        },
+        {
+          "id": 3,
+          "level": 13,
+          "xp": 2051
+        },
+        {
+          "id": 4,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 5,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 6,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 7,
+          "level": 30,
+          "xp": 14250
+        },
+        {
+          "id": 8,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 9,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 10,
+          "level": 67,
+          "xp": 575385
+        },
+        {
+          "id": 11,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 12,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 13,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 14,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 15,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 16,
+          "level": 30,
+          "xp": 13835
+        },
+        {
+          "id": 17,
+          "level": 15,
+          "xp": 2680
+        },
+        {
+          "id": 18,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 19,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 20,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 21,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 22,
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "id": 23,
+          "level": 1,
+          "xp": 0
+        }
+      ]
     }
   ],
   "info": {
     "exp_multiplier": "5.0",
     "iron_mode": "0"
   },
-  "lastCheckedAt": "2026-08-09T03:52:00.804Z"
+  "lastCheckedAt": "2026-08-10T02:33:28.004Z"
 }
