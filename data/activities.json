@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T02:23:52.956Z",
+  "generatedAt": "2026-08-12T02:40:05.426Z",
   "snapshots": [
     {
       "capturedAt": "2026-08-02T23:13:01.257Z",
@@ -109,6 +109,17 @@
         "enemies_killed": 22865237,
         "deaths": 34255,
         "alkharid_gate": 348200
+      }
+    },
+    {
+      "capturedAt": "2026-08-12T02:40:05.426Z",
+      "values": {
+        "logs_chopped": 13512427,
+        "fish_caught": 8145269,
+        "rocks_mined": 16204003,
+        "enemies_killed": 22876236,
+        "deaths": 34267,
+        "alkharid_gate": 348410
       }
     }
   ]
