@@ -1,5 +1,5 @@
 {
-  "player": "moona",
+  "player": "volatile_two",
   "records": {
     "day": 0,
     "week": 0,
@@ -7,72 +7,72 @@
   },
   "snapshots": [
     {
-      "capturedAt": "2026-08-24T02:05:39.321Z",
+      "capturedAt": "2026-09-06T04:30:25.438Z",
       "skills": [
         {
           "id": 0,
-          "level": 1,
-          "xp": 28
+          "level": 48,
+          "xp": 83242
         },
         {
           "id": 1,
-          "level": 1,
-          "xp": 0
+          "level": 41,
+          "xp": 44168
         },
         {
           "id": 2,
-          "level": 1,
-          "xp": 0
+          "level": 48,
+          "xp": 83102
         },
         {
           "id": 3,
-          "level": 10,
-          "xp": 1163
+          "level": 39,
+          "xp": 37078
         },
         {
           "id": 4,
-          "level": 1,
-          "xp": 0
+          "level": 28,
+          "xp": 11450
         },
         {
           "id": 5,
-          "level": 1,
-          "xp": 4
+          "level": 31,
+          "xp": 15242
         },
         {
           "id": 6,
-          "level": 1,
-          "xp": 0
+          "level": 47,
+          "xp": 82607
         },
         {
           "id": 7,
-          "level": 1,
-          "xp": 0
+          "level": 34,
+          "xp": 21350
         },
         {
           "id": 8,
-          "level": 27,
-          "xp": 10787
+          "level": 46,
+          "xp": 71524
         },
         {
           "id": 9,
-          "level": 1,
-          "xp": 0
+          "level": 30,
+          "xp": 14062
         },
         {
           "id": 10,
-          "level": 1,
-          "xp": 0
+          "level": 34,
+          "xp": 21912
         },
         {
           "id": 11,
-          "level": 1,
-          "xp": 0
+          "level": 22,
+          "xp": 6000
         },
         {
           "id": 12,
-          "level": 1,
-          "xp": 0
+          "level": 55,
+          "xp": 180113
         },
         {
           "id": 13,
@@ -81,8 +81,8 @@
         },
         {
           "id": 14,
-          "level": 1,
-          "xp": 0
+          "level": 81,
+          "xp": 2233575
         },
         {
           "id": 15,
@@ -91,13 +91,13 @@
         },
         {
           "id": 16,
-          "level": 1,
-          "xp": 0
+          "level": 30,
+          "xp": 14112
         },
         {
           "id": 17,
-          "level": 1,
-          "xp": 0
+          "level": 30,
+          "xp": 14062
         },
         {
           "id": 18,
@@ -133,8 +133,8 @@
     }
   ],
   "info": {
-    "exp_multiplier": "1.0",
+    "exp_multiplier": "5.0",
     "iron_mode": "0"
   },
-  "lastCheckedAt": "2026-09-06T04:30:18.474Z"
+  "lastCheckedAt": "2026-09-06T04:30:25.438Z"
 }
