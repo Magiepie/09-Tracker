@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T05:39:05.345Z",
+  "generatedAt": "2026-09-06T09:15:13.252Z",
   "day": {
     "0": [
       {
@@ -2793,6 +2793,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "yorkiepud",
+        "gain": 77000,
+        "currentXp": 1538292,
+        "ironMode": 0,
+        "expMultiplier": 5
+      },
+      {
         "player": "durrydan",
         "gain": 71325,
         "currentXp": 110950,
@@ -2952,13 +2959,6 @@
         "currentXp": 562919,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "aidan",
-        "gain": 24500,
-        "currentXp": 714574,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "10": [
@@ -2994,6 +2994,13 @@
         "player": "warlock_roc",
         "gain": 96075,
         "currentXp": 5089747,
+        "ironMode": 0,
+        "expMultiplier": 5
+      },
+      {
+        "player": "yorkiepud",
+        "gain": 93750,
+        "currentXp": 1003930,
         "ironMode": 0,
         "expMultiplier": 5
       },
@@ -3928,6 +3935,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "yorkiepud",
+        "gain": 14550,
+        "currentXp": 68250,
+        "ironMode": 0,
+        "expMultiplier": 5
+      },
+      {
         "player": "cobly",
         "gain": 13020,
         "currentXp": 371641,
@@ -4078,13 +4092,6 @@
         "player": "durrydan",
         "gain": 1956,
         "currentXp": 16856,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "verhobanjo",
-        "gain": 1345,
-        "currentXp": 196720,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -10141,6 +10148,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "yorkiepud",
+        "gain": 93750,
+        "currentXp": 1003930,
+        "ironMode": 0,
+        "expMultiplier": 5
+      },
+      {
         "player": "thaw",
         "gain": 75000,
         "currentXp": 1256793,
@@ -10242,13 +10256,6 @@
         "player": "xkillatonx",
         "gain": 33566,
         "currentXp": 60174,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "pinchy",
-        "gain": 31804,
-        "currentXp": 65922,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -34686,6 +34693,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "yorkiepud",
+            "gain": 77000,
+            "currentXp": 1538292,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "durrydan",
             "gain": 71325,
             "currentXp": 110950,
@@ -34873,13 +34887,6 @@
             "currentXp": 803045,
             "ironMode": 0,
             "expMultiplier": 5
-          },
-          {
-            "player": "hacienda",
-            "gain": 19022,
-            "currentXp": 305487,
-            "ironMode": 0,
-            "expMultiplier": 5
           }
         ],
         "xp:5": [
@@ -35000,6 +35007,13 @@
             "gain": 77927,
             "currentXp": 1991709,
             "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "yorkiepud",
+            "gain": 77000,
+            "currentXp": 1538292,
+            "ironMode": 0,
             "expMultiplier": 5
           },
           {
@@ -35169,13 +35183,6 @@
             "currentXp": 599332,
             "ironMode": 0,
             "expMultiplier": 5
-          },
-          {
-            "player": "wolfrider",
-            "gain": 23065,
-            "currentXp": 732040,
-            "ironMode": 0,
-            "expMultiplier": 5
           }
         ],
         "account:0|xp:5": [
@@ -35274,6 +35281,13 @@
             "player": "pinchy",
             "gain": 78682,
             "currentXp": 218514,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
+            "player": "yorkiepud",
+            "gain": 77000,
+            "currentXp": 1538292,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -35463,13 +35477,6 @@
             "player": "anotherboro",
             "gain": 17903,
             "currentXp": 1734376,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "guthlx",
-            "gain": 17492,
-            "currentXp": 1673504,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -35945,6 +35952,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "yorkiepud",
+            "gain": 93750,
+            "currentXp": 1003930,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "nibelsnarf",
             "gain": 90750,
             "currentXp": 1219665,
@@ -36164,6 +36178,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "yorkiepud",
+            "gain": 93750,
+            "currentXp": 1003930,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "wry",
             "gain": 89670,
             "currentXp": 3664486,
@@ -36372,6 +36393,13 @@
             "player": "warlock_roc",
             "gain": 96075,
             "currentXp": 5089747,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
+            "player": "yorkiepud",
+            "gain": 93750,
+            "currentXp": 1003930,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -38812,6 +38840,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "yorkiepud",
+            "gain": 14550,
+            "currentXp": 68250,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "cobly",
             "gain": 13020,
             "currentXp": 371641,
@@ -38978,13 +39013,6 @@
             "currentXp": 190952,
             "ironMode": 0,
             "expMultiplier": 5
-          },
-          {
-            "player": "metalfrog",
-            "gain": 1043,
-            "currentXp": 5021,
-            "ironMode": 0,
-            "expMultiplier": 2.5
           }
         ],
         "xp:5": [
@@ -39104,6 +39132,13 @@
             "player": "tanel",
             "gain": 16000,
             "currentXp": 69607,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
+            "player": "yorkiepud",
+            "gain": 14550,
+            "currentXp": 68250,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -39274,13 +39309,6 @@
             "currentXp": 9186541,
             "ironMode": 0,
             "expMultiplier": 5
-          },
-          {
-            "player": "perkeleman",
-            "gain": 1200,
-            "currentXp": 190952,
-            "ironMode": 0,
-            "expMultiplier": 5
           }
         ],
         "account:0|xp:5": [
@@ -39393,6 +39421,13 @@
             "player": "tanel",
             "gain": 16000,
             "currentXp": 69607,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
+            "player": "yorkiepud",
+            "gain": 14550,
+            "currentXp": 68250,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -39566,13 +39601,6 @@
           },
           {
             "player": "bigbendude",
-            "gain": 1000,
-            "currentXp": 1000,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "milfy",
             "gain": 1000,
             "currentXp": 1000,
             "ironMode": 0,
@@ -66472,6 +66500,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "yorkiepud",
+            "gain": 93750,
+            "currentXp": 1003930,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "whedonist",
             "gain": 67518,
             "currentXp": 4832680,
@@ -66615,13 +66650,6 @@
             "player": "geekstreek",
             "gain": 12013,
             "currentXp": 3560115,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "cobly",
-            "gain": 10500,
-            "currentXp": 1169704,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -66782,6 +66810,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "yorkiepud",
+            "gain": 93750,
+            "currentXp": 1003930,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "thaw",
             "gain": 75000,
             "currentXp": 1256793,
@@ -66913,13 +66948,6 @@
             "currentXp": 27512,
             "ironMode": 0,
             "expMultiplier": 5
-          },
-          {
-            "player": "segway",
-            "gain": 15117,
-            "currentXp": 15117,
-            "ironMode": 0,
-            "expMultiplier": 5
           }
         ],
         "account:0|xp:5": [
@@ -67046,6 +67074,13 @@
             "player": "aspie",
             "gain": 96075,
             "currentXp": 7736758,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
+            "player": "yorkiepud",
+            "gain": 93750,
+            "currentXp": 1003930,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -67207,13 +67242,6 @@
             "player": "kingduff_1",
             "gain": 5825,
             "currentXp": 27937,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "ifishfish",
-            "gain": 5000,
-            "currentXp": 26937,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -103481,9 +103509,9 @@
             "expMultiplier": 5
           },
           {
-            "player": "alan_mac",
-            "gain": 91522,
-            "currentXp": 17052638,
+            "player": "yorkiepud",
+            "gain": 93750,
+            "currentXp": 1003930,
             "ironMode": 0,
             "expMultiplier": 5
           }
