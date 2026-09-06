@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T09:15:13.252Z",
+  "generatedAt": "2026-09-06T14:42:30.779Z",
   "day": {
     "0": [
       {
@@ -199,6 +199,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "scroll rolls",
+        "gain": 781020,
+        "currentXp": 24740407,
+        "ironMode": 0,
+        "expMultiplier": 5
+      },
+      {
         "player": "mayev",
         "gain": 764103,
         "currentXp": 79228191,
@@ -286,13 +293,6 @@
         "player": "skip",
         "gain": 601840,
         "currentXp": 10578945,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "segway",
-        "gain": 579059,
-        "currentXp": 1859491,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -2667,6 +2667,13 @@
     ],
     "9": [
       {
+        "player": "scroll rolls",
+        "gain": 738120,
+        "currentXp": 2814442,
+        "ironMode": 0,
+        "expMultiplier": 5
+      },
+      {
         "player": "chonk",
         "gain": 707250,
         "currentXp": 1589713,
@@ -2705,13 +2712,6 @@
         "player": "neopets",
         "gain": 175000,
         "currentXp": 2905237,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "scroll rolls",
-        "gain": 174397,
-        "currentXp": 2250719,
         "ironMode": 0,
         "expMultiplier": 5
       },
@@ -4061,6 +4061,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "scroll rolls",
+        "gain": 3600,
+        "currentXp": 974550,
+        "ironMode": 0,
+        "expMultiplier": 5
+      },
+      {
         "player": "determined",
         "gain": 3025,
         "currentXp": 90817,
@@ -4085,13 +4092,6 @@
         "player": "meldora",
         "gain": 2062,
         "currentXp": 241683,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "durrydan",
-        "gain": 1956,
-        "currentXp": 16856,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -4646,6 +4646,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "scroll rolls",
+        "gain": 36215,
+        "currentXp": 136885,
+        "ironMode": 0,
+        "expMultiplier": 5
+      },
+      {
         "player": "urgu_xam",
         "gain": 36110,
         "currentXp": 10201140,
@@ -4679,13 +4686,6 @@
         "currentXp": 8563547,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "goblin_layer",
-        "gain": 34650,
-        "currentXp": 3606905,
-        "ironMode": 2,
-        "expMultiplier": 10
       }
     ],
     "16": [
@@ -9747,6 +9747,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "scroll rolls",
+        "gain": 744370,
+        "currentXp": 2814442,
+        "ironMode": 0,
+        "expMultiplier": 5
+      },
+      {
         "player": "popteamepic",
         "gain": 741300,
         "currentXp": 6940687,
@@ -9953,13 +9960,6 @@
         "player": "ledawolo",
         "gain": 207951,
         "currentXp": 333357,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "1haha1",
-        "gain": 200250,
-        "currentXp": 2443498,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -17212,6 +17212,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "scroll rolls",
+        "gain": 1064370,
+        "currentXp": 2814442,
+        "ironMode": 0,
+        "expMultiplier": 5
+      },
+      {
         "player": "alithy",
         "gain": 1061558,
         "currentXp": 4288843,
@@ -17355,13 +17362,6 @@
         "player": "saad",
         "gain": 598090,
         "currentXp": 1050916,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "glonk",
-        "gain": 542625,
-        "currentXp": 2044764,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -18404,8 +18404,8 @@
       },
       {
         "player": "scroll rolls",
-        "gain": 403638,
-        "currentXp": 970950,
+        "gain": 407238,
+        "currentXp": 974550,
         "ironMode": 0,
         "expMultiplier": 5
       },
@@ -22331,6 +22331,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "scroll rolls",
+            "gain": 781020,
+            "currentXp": 24740407,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "cybrknight",
             "gain": 760945,
             "currentXp": 170568880,
@@ -22432,13 +22439,6 @@
             "player": "saad",
             "gain": 536115,
             "currentXp": 4524452,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "cobly",
-            "gain": 530046,
-            "currentXp": 67313264,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -22734,6 +22734,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "scroll rolls",
+            "gain": 781020,
+            "currentXp": 24740407,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "cybrknight",
             "gain": 760945,
             "currentXp": 170568880,
@@ -22863,13 +22870,6 @@
             "player": "iverson",
             "gain": 505862,
             "currentXp": 12553974,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "glonk",
-            "gain": 502900,
-            "currentXp": 20053906,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -23023,6 +23023,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "scroll rolls",
+            "gain": 781020,
+            "currentXp": 24740407,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "cybrknight",
             "gain": 760945,
             "currentXp": 170568880,
@@ -23159,13 +23166,6 @@
             "player": "dudio",
             "gain": 488146,
             "currentXp": 627388690,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "not dead yet",
-            "gain": 486767,
-            "currentXp": 13806634,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -34595,6 +34595,13 @@
       "9": {
         "account:0": [
           {
+            "player": "scroll rolls",
+            "gain": 738120,
+            "currentXp": 2814442,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "chonk",
             "gain": 707250,
             "currentXp": 1589713,
@@ -34626,13 +34633,6 @@
             "player": "neopets",
             "gain": 175000,
             "currentXp": 2905237,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "scroll rolls",
-            "gain": 174397,
-            "currentXp": 2250719,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -34891,6 +34891,13 @@
         ],
         "xp:5": [
           {
+            "player": "scroll rolls",
+            "gain": 738120,
+            "currentXp": 2814442,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "chonk",
             "gain": 707250,
             "currentXp": 1589713,
@@ -34929,13 +34936,6 @@
             "player": "neopets",
             "gain": 175000,
             "currentXp": 2905237,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "scroll rolls",
-            "gain": 174397,
-            "currentXp": 2250719,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -35187,6 +35187,13 @@
         ],
         "account:0|xp:5": [
           {
+            "player": "scroll rolls",
+            "gain": 738120,
+            "currentXp": 2814442,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "chonk",
             "gain": 707250,
             "currentXp": 1589713,
@@ -35218,13 +35225,6 @@
             "player": "neopets",
             "gain": 175000,
             "currentXp": 2905237,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "scroll rolls",
-            "gain": 174397,
-            "currentXp": 2250719,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -38966,6 +38966,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "scroll rolls",
+            "gain": 3600,
+            "currentXp": 974550,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "determined",
             "gain": 3025,
             "currentXp": 90817,
@@ -39004,13 +39011,6 @@
             "player": "cybrknight",
             "gain": 1287,
             "currentXp": 9186541,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "perkeleman",
-            "gain": 1200,
-            "currentXp": 190952,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -39262,6 +39262,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "scroll rolls",
+            "gain": 3600,
+            "currentXp": 974550,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "determined",
             "gain": 3025,
             "currentXp": 90817,
@@ -39300,13 +39307,6 @@
             "player": "verhobanjo",
             "gain": 1345,
             "currentXp": 196720,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "cybrknight",
-            "gain": 1287,
-            "currentXp": 9186541,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -39551,6 +39551,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "scroll rolls",
+            "gain": 3600,
+            "currentXp": 974550,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "determined",
             "gain": 3025,
             "currentXp": 90817,
@@ -39596,13 +39603,6 @@
             "player": "perkeleman",
             "gain": 1200,
             "currentXp": 190952,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "bigbendude",
-            "gain": 1000,
-            "currentXp": 1000,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -40988,6 +40988,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "scroll rolls",
+            "gain": 36215,
+            "currentXp": 136885,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "urgu_xam",
             "gain": 36110,
             "currentXp": 10201140,
@@ -41040,13 +41047,6 @@
             "player": "convolution",
             "gain": 30325,
             "currentXp": 208150,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "someone",
-            "gain": 30015,
-            "currentXp": 36350077,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -41291,6 +41291,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "scroll rolls",
+            "gain": 36215,
+            "currentXp": 136885,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "urgu_xam",
             "gain": 36110,
             "currentXp": 10201140,
@@ -41336,13 +41343,6 @@
             "player": "convolution",
             "gain": 30325,
             "currentXp": 208150,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "someone",
-            "gain": 30015,
-            "currentXp": 36350077,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -41573,6 +41573,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "scroll rolls",
+            "gain": 36215,
+            "currentXp": 136885,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "urgu_xam",
             "gain": 36110,
             "currentXp": 10201140,
@@ -41632,13 +41639,6 @@
             "player": "balu",
             "gain": 29400,
             "currentXp": 220200,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "spoopy",
-            "gain": 29300,
-            "currentXp": 13983735,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -64842,6 +64842,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "scroll rolls",
+            "gain": 744370,
+            "currentXp": 2814442,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "popteamepic",
             "gain": 741300,
             "currentXp": 6940687,
@@ -65003,13 +65010,6 @@
             "expMultiplier": 5
           },
           {
-            "player": "scroll rolls",
-            "gain": 180647,
-            "currentXp": 2250719,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
             "player": "dodgypenguin",
             "gain": 176113,
             "currentXp": 1030305,
@@ -65141,6 +65141,13 @@
             "player": "spawnofron",
             "gain": 812688,
             "currentXp": 1302300,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
+            "player": "scroll rolls",
+            "gain": 744370,
+            "currentXp": 2814442,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -65334,13 +65341,6 @@
             "expMultiplier": 5
           },
           {
-            "player": "scroll rolls",
-            "gain": 180647,
-            "currentXp": 2250719,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
             "player": "dodgypenguin",
             "gain": 176113,
             "currentXp": 1030305,
@@ -65430,6 +65430,13 @@
             "player": "spawnofron",
             "gain": 812688,
             "currentXp": 1302300,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
+            "player": "scroll rolls",
+            "gain": 744370,
+            "currentXp": 2814442,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -65584,13 +65591,6 @@
             "player": "1haha1",
             "gain": 200250,
             "currentXp": 2443498,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "scroll rolls",
-            "gain": 180647,
-            "currentXp": 2250719,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -101056,6 +101056,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "scroll rolls",
+            "gain": 1064370,
+            "currentXp": 2814442,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "yikkity",
             "gain": 1047447,
             "currentXp": 6247872,
@@ -101192,13 +101199,6 @@
             "player": "slimeysub",
             "gain": 524875,
             "currentXp": 4533585,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "scroll rolls",
-            "gain": 500647,
-            "currentXp": 2250719,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -101366,6 +101366,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "scroll rolls",
+            "gain": 1064370,
+            "currentXp": 2814442,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "yikkity",
             "gain": 1047447,
             "currentXp": 6247872,
@@ -101513,13 +101520,6 @@
             "expMultiplier": 5
           },
           {
-            "player": "scroll rolls",
-            "gain": 500647,
-            "currentXp": 2250719,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
             "player": "trevisan7",
             "gain": 500263,
             "currentXp": 1018693,
@@ -101648,6 +101648,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "scroll rolls",
+            "gain": 1064370,
+            "currentXp": 2814442,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "yikkity",
             "gain": 1047447,
             "currentXp": 6247872,
@@ -101770,13 +101777,6 @@
             "player": "slimeysub",
             "gain": 524875,
             "currentXp": 4533585,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "scroll rolls",
-            "gain": 500647,
-            "currentXp": 2250719,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -107012,8 +107012,8 @@
           },
           {
             "player": "scroll rolls",
-            "gain": 403638,
-            "currentXp": 970950,
+            "gain": 407238,
+            "currentXp": 974550,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -107336,8 +107336,8 @@
           },
           {
             "player": "scroll rolls",
-            "gain": 403638,
-            "currentXp": 970950,
+            "gain": 407238,
+            "currentXp": 974550,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -107597,8 +107597,8 @@
           },
           {
             "player": "scroll rolls",
-            "gain": 403638,
-            "currentXp": 970950,
+            "gain": 407238,
+            "currentXp": 974550,
             "ironMode": 0,
             "expMultiplier": 5
           },
