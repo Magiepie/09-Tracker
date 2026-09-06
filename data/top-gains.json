@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T04:30:25.555Z",
+  "generatedAt": "2026-09-06T05:17:45.163Z",
   "day": {
     "0": [
       {
@@ -2751,6 +2751,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "tooze",
+        "gain": 98650,
+        "currentXp": 2088552,
+        "ironMode": 0,
+        "expMultiplier": 5
+      },
+      {
         "player": "2376",
         "gain": 86409,
         "currentXp": 163159,
@@ -2950,13 +2957,6 @@
         "player": "littlealien",
         "gain": 23625,
         "currentXp": 1842909,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "a_lummy_gf",
-        "gain": 23073,
-        "currentXp": 599332,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -17149,6 +17149,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "tooze",
+        "gain": 1829338,
+        "currentXp": 2088552,
+        "ironMode": 0,
+        "expMultiplier": 5
+      },
+      {
         "player": "ir",
         "gain": 1777107,
         "currentXp": 10361223,
@@ -17159,13 +17166,6 @@
         "player": "zeraiden",
         "gain": 1768000,
         "currentXp": 9497317,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "tooze",
-        "gain": 1730688,
-        "currentXp": 1989902,
         "ironMode": 0,
         "expMultiplier": 5
       },
@@ -34665,6 +34665,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze",
+            "gain": 98650,
+            "currentXp": 2088552,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
             "player": "2376",
             "gain": 86409,
             "currentXp": 163159,
@@ -34887,13 +34894,6 @@
             "currentXp": 1734376,
             "ironMode": 0,
             "expMultiplier": 5
-          },
-          {
-            "player": "guthlx",
-            "gain": 17492,
-            "currentXp": 1673504,
-            "ironMode": 0,
-            "expMultiplier": 5
           }
         ],
         "xp:5": [
@@ -34971,6 +34971,13 @@
             "player": "whedonist",
             "gain": 103875,
             "currentXp": 10904355,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze",
+            "gain": 98650,
+            "currentXp": 2088552,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -35183,13 +35190,6 @@
             "currentXp": 803045,
             "ironMode": 0,
             "expMultiplier": 5
-          },
-          {
-            "player": "hacienda",
-            "gain": 19022,
-            "currentXp": 305487,
-            "ironMode": 0,
-            "expMultiplier": 5
           }
         ],
         "account:0|xp:5": [
@@ -35253,6 +35253,13 @@
             "player": "whedonist",
             "gain": 103875,
             "currentXp": 10904355,
+            "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze",
+            "gain": 98650,
+            "currentXp": 2088552,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -35477,13 +35484,6 @@
             "player": "alilily",
             "gain": 17430,
             "currentXp": 683239,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "drakers",
-            "gain": 16562,
-            "currentXp": 13065466,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -101007,16 +101007,16 @@
             "expMultiplier": 5
           },
           {
-            "player": "zeraiden",
-            "gain": 1768000,
-            "currentXp": 9497317,
+            "player": "tooze",
+            "gain": 1829338,
+            "currentXp": 2088552,
             "ironMode": 0,
             "expMultiplier": 5
           },
           {
-            "player": "tooze",
-            "gain": 1730688,
-            "currentXp": 1989902,
+            "player": "zeraiden",
+            "gain": 1768000,
+            "currentXp": 9497317,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -101310,16 +101310,16 @@
             "expMultiplier": 5
           },
           {
-            "player": "zeraiden",
-            "gain": 1768000,
-            "currentXp": 9497317,
+            "player": "tooze",
+            "gain": 1829338,
+            "currentXp": 2088552,
             "ironMode": 0,
             "expMultiplier": 5
           },
           {
-            "player": "tooze",
-            "gain": 1730688,
-            "currentXp": 1989902,
+            "player": "zeraiden",
+            "gain": 1768000,
+            "currentXp": 9497317,
             "ironMode": 0,
             "expMultiplier": 5
           },
@@ -101599,16 +101599,16 @@
             "expMultiplier": 5
           },
           {
-            "player": "zeraiden",
-            "gain": 1768000,
-            "currentXp": 9497317,
+            "player": "tooze",
+            "gain": 1829338,
+            "currentXp": 2088552,
             "ironMode": 0,
             "expMultiplier": 5
           },
           {
-            "player": "tooze",
-            "gain": 1730688,
-            "currentXp": 1989902,
+            "player": "zeraiden",
+            "gain": 1768000,
+            "currentXp": 9497317,
             "ironMode": 0,
             "expMultiplier": 5
           },
