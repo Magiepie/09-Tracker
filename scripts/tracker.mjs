@@ -29,7 +29,7 @@ function issuePlayer(body=''){
 }
 
 async function fetchPlayer(player){
-  const response=await fetch(API+encodeURIComponent(player),{headers:{Accept:'application/json'},signal:AbortSignal.timeout(20000)});
+  const response=await fetch(API+encodeURIComponent(player.toLowerCase()),{headers:{Accept:'application/json'},signal:AbortSignal.timeout(20000)});
   if(!response.ok)throw new Error(`Hiscores returned ${response.status} for ${player}`);
   const payload=await response.json();
   if(!Array.isArray(payload.skills)||payload.skills.length!==24)throw new Error(`Unexpected skill data for ${player}`);
