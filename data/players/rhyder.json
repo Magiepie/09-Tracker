@@ -1,5 +1,5 @@
 {
-  "player": "moona",
+  "player": "rhyder",
   "records": {
     "day": 0,
     "week": 0,
@@ -7,97 +7,97 @@
   },
   "snapshots": [
     {
-      "capturedAt": "2026-08-24T02:05:39.321Z",
+      "capturedAt": "2026-09-17T04:46:58.554Z",
       "skills": [
         {
           "id": 0,
-          "level": 1,
-          "xp": 28
+          "level": 35,
+          "xp": 23298
         },
         {
           "id": 1,
-          "level": 1,
-          "xp": 0
+          "level": 24,
+          "xp": 7798
         },
         {
           "id": 2,
-          "level": 1,
-          "xp": 0
+          "level": 34,
+          "xp": 20272
         },
         {
           "id": 3,
-          "level": 10,
-          "xp": 1163
+          "level": 42,
+          "xp": 46501
         },
         {
           "id": 4,
-          "level": 1,
-          "xp": 0
+          "level": 36,
+          "xp": 25536
         },
         {
           "id": 5,
-          "level": 1,
-          "xp": 4
+          "level": 29,
+          "xp": 12476
         },
         {
           "id": 6,
-          "level": 1,
-          "xp": 0
+          "level": 37,
+          "xp": 27485
         },
         {
           "id": 7,
-          "level": 1,
-          "xp": 0
+          "level": 53,
+          "xp": 138250
         },
         {
           "id": 8,
-          "level": 27,
-          "xp": 10787
+          "level": 56,
+          "xp": 184746
         },
         {
           "id": 9,
-          "level": 1,
-          "xp": 0
+          "level": 51,
+          "xp": 114197
         },
         {
           "id": 10,
-          "level": 1,
-          "xp": 0
+          "level": 51,
+          "xp": 117372
         },
         {
           "id": 11,
-          "level": 1,
-          "xp": 0
+          "level": 20,
+          "xp": 5000
         },
         {
           "id": 12,
-          "level": 1,
-          "xp": 0
+          "level": 36,
+          "xp": 27382
         },
         {
           "id": 13,
-          "level": 1,
-          "xp": 0
+          "level": 43,
+          "xp": 53013
         },
         {
           "id": 14,
-          "level": 1,
-          "xp": 0
+          "level": 52,
+          "xp": 132493
         },
         {
           "id": 15,
-          "level": 1,
-          "xp": 0
+          "level": 6,
+          "xp": 625
         },
         {
           "id": 16,
-          "level": 1,
-          "xp": 0
+          "level": 30,
+          "xp": 13378
         },
         {
           "id": 17,
-          "level": 1,
-          "xp": 0
+          "level": 20,
+          "xp": 4480
         },
         {
           "id": 18,
@@ -126,15 +126,15 @@
         },
         {
           "id": 23,
-          "level": 1,
-          "xp": 0
+          "level": 7,
+          "xp": 714
         }
       ]
     }
   ],
   "info": {
-    "exp_multiplier": "1.0",
+    "exp_multiplier": "2.5",
     "iron_mode": "0"
   },
-  "lastCheckedAt": "2026-09-17T04:46:53.566Z"
+  "lastCheckedAt": "2026-09-17T04:46:58.554Z"
 }
