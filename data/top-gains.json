@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T16:47:56.580Z",
+  "generatedAt": "2026-09-17T16:51:52.689Z",
   "day": {
     "0": [
       {
@@ -92,6 +92,13 @@
         "currentXp": 31586438,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "dam",
+        "gain": 1171782,
+        "currentXp": 2360914,
+        "ironMode": 0,
+        "expMultiplier": 2.5
       },
       {
         "player": "watt",
@@ -288,13 +295,6 @@
         "currentXp": 139032491,
         "ironMode": 0,
         "expMultiplier": 1
-      },
-      {
-        "player": "osrsnewaccou",
-        "gain": 402187,
-        "currentXp": 7547563,
-        "ironMode": 1,
-        "expMultiplier": 5
       }
     ],
     "1": [
@@ -1665,6 +1665,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "dam",
+        "gain": 13160,
+        "currentXp": 193166,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "hawk1776",
         "gain": 13070,
         "currentXp": 34695,
@@ -1768,13 +1775,6 @@
         "currentXp": 32575511,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "vikivikx",
-        "gain": 1620,
-        "currentXp": 2047039,
-        "ironMode": 0,
-        "expMultiplier": 2.5
       }
     ],
     "6": [
@@ -2320,6 +2320,13 @@
         "expMultiplier": 1
       },
       {
+        "player": "dam",
+        "gain": 26229,
+        "currentXp": 189351,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "skip",
         "gain": 22775,
         "currentXp": 946147,
@@ -2360,13 +2367,6 @@
         "currentXp": 49600,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "goblin_layer",
-        "gain": 10400,
-        "currentXp": 1972670,
-        "ironMode": 2,
-        "expMultiplier": 10
       }
     ],
     "8": [
@@ -2425,6 +2425,13 @@
         "currentXp": 251050,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "dam",
+        "gain": 68475,
+        "currentXp": 76962,
+        "ironMode": 0,
+        "expMultiplier": 2.5
       },
       {
         "player": "iron_pixel",
@@ -2716,6 +2723,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "dam",
+        "gain": 153017,
+        "currentXp": 211762,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "gw36",
         "gain": 133875,
         "currentXp": 1212629,
@@ -2889,13 +2903,6 @@
         "currentXp": 1734376,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "alilily",
-        "gain": 17430,
-        "currentXp": 683239,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "10": [
@@ -3038,6 +3045,13 @@
         "currentXp": 54599,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "dam",
+        "gain": 26236,
+        "currentXp": 28736,
+        "ironMode": 0,
+        "expMultiplier": 2.5
       },
       {
         "player": "sneeds",
@@ -3208,6 +3222,13 @@
         "currentXp": 300985,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "dam",
+        "gain": 113400,
+        "currentXp": 119650,
+        "ironMode": 0,
+        "expMultiplier": 2.5
       },
       {
         "player": "issytia",
@@ -3420,6 +3441,13 @@
         "currentXp": 275862,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "dam",
+        "gain": 118325,
+        "currentXp": 118825,
+        "ironMode": 0,
+        "expMultiplier": 2.5
       },
       {
         "player": "figgiolly",
@@ -3669,6 +3697,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "dam",
+        "gain": 75163,
+        "currentXp": 264116,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "goblin_layer",
         "gain": 62500,
         "currentXp": 2627618,
@@ -3905,13 +3940,6 @@
         "currentXp": 16856,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "spawnofron",
-        "gain": 1608,
-        "currentXp": 179724,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "14": [
@@ -3998,6 +4026,13 @@
         "currentXp": 641042,
         "ironMode": 0,
         "expMultiplier": 1
+      },
+      {
+        "player": "dam",
+        "gain": 32018,
+        "currentXp": 32018,
+        "ironMode": 0,
+        "expMultiplier": 2.5
       },
       {
         "player": "sauveterre",
@@ -4201,13 +4236,6 @@
         "currentXp": 104750,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "urgu_xam",
-        "gain": 1125,
-        "currentXp": 2922945,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "15": [
@@ -4238,6 +4266,13 @@
         "currentXp": 335372,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "dam",
+        "gain": 139142,
+        "currentXp": 202040,
+        "ironMode": 0,
+        "expMultiplier": 2.5
       },
       {
         "player": "xixja",
@@ -4495,13 +4530,6 @@
         "player": "valkone",
         "gain": 28460,
         "currentXp": 964302,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "yikkity",
-        "gain": 28085,
-        "currentXp": 3573980,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -4881,6 +4909,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "dam",
+        "gain": 26856,
+        "currentXp": 41247,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "cobly",
         "gain": 20952,
         "currentXp": 759479,
@@ -5089,13 +5124,6 @@
         "currentXp": 834094,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "iron_bug",
-        "gain": 10,
-        "currentXp": 741453,
-        "ironMode": 1,
-        "expMultiplier": 5
       }
     ],
     "18": [
@@ -5119,6 +5147,13 @@
         "currentXp": 12345477,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "dam",
+        "gain": 302536,
+        "currentXp": 305276,
+        "ironMode": 0,
+        "expMultiplier": 2.5
       },
       {
         "player": "gokusa",
@@ -5385,13 +5420,6 @@
         "currentXp": 8983,
         "ironMode": 0,
         "expMultiplier": 2.5
-      },
-      {
-        "player": "hollowz",
-        "gain": 120,
-        "currentXp": 28480,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "19": [
@@ -5585,6 +5613,13 @@
         "expMultiplier": 1
       },
       {
+        "player": "dam",
+        "gain": 5038,
+        "currentXp": 80540,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "denvlad",
         "gain": 4810,
         "currentXp": 6985,
@@ -5769,6 +5804,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "dam",
+        "gain": 11478,
+        "currentXp": 15265,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "poor",
         "gain": 8200,
         "currentXp": 38885,
@@ -5895,6 +5937,13 @@
         "currentXp": 660450,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "dam",
+        "gain": 53165,
+        "currentXp": 53165,
+        "ironMode": 0,
+        "expMultiplier": 2.5
       },
       {
         "player": "throbert",
@@ -9122,6 +9171,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "dam",
+        "gain": 68475,
+        "currentXp": 76962,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "wolfrider",
         "gain": 50900,
         "currentXp": 155772,
@@ -9203,13 +9259,6 @@
         "gain": 26400,
         "currentXp": 4008740,
         "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "dark_circles",
-        "gain": 20775,
-        "currentXp": 195885,
-        "ironMode": 1,
         "expMultiplier": 5
       }
     ],
@@ -9481,6 +9530,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "dam",
+        "gain": 153017,
+        "currentXp": 211762,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "ovi91",
         "gain": 147624,
         "currentXp": 465322,
@@ -9498,13 +9554,6 @@
         "player": "grunin",
         "gain": 118990,
         "currentXp": 630508,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "monkhood",
-        "gain": 117313,
-        "currentXp": 5509137,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -9756,6 +9805,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "dam",
+        "gain": 26236,
+        "currentXp": 28736,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "quarky",
         "gain": 25995,
         "currentXp": 4359566,
@@ -9796,13 +9852,6 @@
         "currentXp": 14202,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "khepridoll",
-        "gain": 11018,
-        "currentXp": 342890,
-        "ironMode": 0,
-        "expMultiplier": 1
       }
     ],
     "11": [
@@ -10059,6 +10108,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "dam",
+        "gain": 113400,
+        "currentXp": 119650,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "segway",
         "gain": 107150,
         "currentXp": 135385,
@@ -10090,13 +10146,6 @@
         "player": "djentshuggah",
         "gain": 71100,
         "currentXp": 268600,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "amarok",
-        "gain": 63450,
-        "currentXp": 21583624,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -10185,6 +10234,13 @@
         "currentXp": 7745872,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "dam",
+        "gain": 118325,
+        "currentXp": 118825,
+        "ironMode": 0,
+        "expMultiplier": 2.5
       },
       {
         "player": "figgiolly",
@@ -10388,13 +10444,6 @@
         "currentXp": 7000,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "not dead yet",
-        "gain": 4725,
-        "currentXp": 1258450,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "13": [
@@ -10574,6 +10623,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "dam",
+        "gain": 75163,
+        "currentXp": 264116,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "not dead yet",
         "gain": 73875,
         "currentXp": 374946,
@@ -10682,13 +10738,6 @@
         "player": "segway",
         "gain": 48370,
         "currentXp": 49382,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "misakimiya",
-        "gain": 45525,
-        "currentXp": 90767,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -10954,6 +11003,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "dam",
+        "gain": 32018,
+        "currentXp": 32018,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "sneeds",
         "gain": 31472,
         "currentXp": 474823,
@@ -10979,13 +11035,6 @@
         "gain": 30135,
         "currentXp": 172900,
         "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "downthecrop",
-        "gain": 30067,
-        "currentXp": 1501518,
-        "ironMode": 1,
         "expMultiplier": 5
       }
     ],
@@ -11793,6 +11842,13 @@
         "expMultiplier": 2.5
       },
       {
+        "player": "dam",
+        "gain": 26856,
+        "currentXp": 41247,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "spoopy",
         "gain": 24900,
         "currentXp": 1300659,
@@ -11866,13 +11922,6 @@
         "player": "valky",
         "gain": 5035,
         "currentXp": 92936,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "denvlad",
-        "gain": 5000,
-        "currentXp": 7595,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -11968,6 +12017,13 @@
         "currentXp": 313492,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "dam",
+        "gain": 302536,
+        "currentXp": 305276,
+        "ironMode": 0,
+        "expMultiplier": 2.5
       },
       {
         "player": "upq",
@@ -12162,13 +12218,6 @@
         "player": "convolution",
         "gain": 10915,
         "currentXp": 15675,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "kickflip",
-        "gain": 10875,
-        "currentXp": 12315,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -12758,11 +12807,11 @@
         "expMultiplier": 5
       },
       {
-        "player": "femto_zetta",
-        "gain": 10301,
-        "currentXp": 10301,
+        "player": "dam",
+        "gain": 11478,
+        "currentXp": 15265,
         "ironMode": 0,
-        "expMultiplier": 5
+        "expMultiplier": 2.5
       }
     ],
     "21": [
@@ -12849,6 +12898,13 @@
         "currentXp": 486657,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "dam",
+        "gain": 53165,
+        "currentXp": 53165,
+        "ironMode": 0,
+        "expMultiplier": 2.5
       },
       {
         "player": "player_name",
@@ -13051,13 +13107,6 @@
         "gain": 11700,
         "currentXp": 381815,
         "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "jucuev",
-        "gain": 11205,
-        "currentXp": 28117,
-        "ironMode": 1,
         "expMultiplier": 5
       }
     ],
@@ -17680,6 +17729,13 @@
         "expMultiplier": 1
       },
       {
+        "player": "dam",
+        "gain": 118325,
+        "currentXp": 118825,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "shinymootank",
         "gain": 117250,
         "currentXp": 130450,
@@ -17733,13 +17789,6 @@
         "gain": 88225,
         "currentXp": 102675,
         "ironMode": 1,
-        "expMultiplier": 5
-      },
-      {
-        "player": "ledawolo",
-        "gain": 86375,
-        "currentXp": 92975,
-        "ironMode": 0,
         "expMultiplier": 5
       }
     ],
@@ -19421,6 +19470,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "dam",
+        "gain": 302536,
+        "currentXp": 305276,
+        "ironMode": 0,
+        "expMultiplier": 2.5
+      },
+      {
         "player": "nikko882",
         "gain": 278178,
         "currentXp": 286058,
@@ -19508,13 +19564,6 @@
         "player": "basedtray",
         "gain": 136709,
         "currentXp": 4803894,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "ovi91",
-        "gain": 118663,
-        "currentXp": 165335,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -21881,6 +21930,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 1171782,
+            "currentXp": 2360914,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "watt",
             "gain": 1023172,
             "currentXp": 176582736,
@@ -22101,13 +22157,6 @@
             "player": "uustalo",
             "gain": 363347,
             "currentXp": 46600401,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "basedtray",
-            "gain": 357572,
-            "currentXp": 143874063,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -22512,6 +22561,304 @@
             "expMultiplier": 10
           }
         ],
+        "xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 1171782,
+            "currentXp": 2360914,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "bishop",
+            "gain": 288136,
+            "currentXp": 289055043,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 203099,
+            "currentXp": 1419277,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "nibelsnarf",
+            "gain": 202213,
+            "currentXp": 14513822,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "potionjitsu",
+            "gain": 146598,
+            "currentXp": 53862948,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "heathen44",
+            "gain": 144115,
+            "currentXp": 1201035,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "fukncasul",
+            "gain": 96318,
+            "currentXp": 11738192,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "bugcatcher",
+            "gain": 94496,
+            "currentXp": 140241763,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "skalfate",
+            "gain": 87261,
+            "currentXp": 739893,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "shinymootank",
+            "gain": 23126,
+            "currentXp": 4399385,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "kevyn300",
+            "gain": 13807,
+            "currentXp": 74337673,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "not_ceikry",
+            "gain": 12188,
+            "currentXp": 33048314,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "1210saad",
+            "gain": 8123,
+            "currentXp": 368361,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "0xcyber_cat",
+            "gain": 8116,
+            "currentXp": 6312721,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "xiao_yukiko",
+            "gain": 6128,
+            "currentXp": 66400,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "damien377",
+            "gain": 6125,
+            "currentXp": 6034502,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "a_ghoul",
+            "gain": 2420,
+            "currentXp": 1864934,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "vikivikx",
+            "gain": 2159,
+            "currentXp": 13835297,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "hanki717",
+            "gain": 1260,
+            "currentXp": 1669751,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "valpuri",
+            "gain": 153,
+            "currentXp": 199732514,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "benji2",
+            "gain": 69,
+            "currentXp": 1025984,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
+        "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 1171782,
+            "currentXp": 2360914,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "bishop",
+            "gain": 288136,
+            "currentXp": 289055043,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 203099,
+            "currentXp": 1419277,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "nibelsnarf",
+            "gain": 202213,
+            "currentXp": 14513822,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "potionjitsu",
+            "gain": 146598,
+            "currentXp": 53862948,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "heathen44",
+            "gain": 144115,
+            "currentXp": 1201035,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "fukncasul",
+            "gain": 96318,
+            "currentXp": 11738192,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "bugcatcher",
+            "gain": 94496,
+            "currentXp": 140241763,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "skalfate",
+            "gain": 87261,
+            "currentXp": 739893,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "shinymootank",
+            "gain": 23126,
+            "currentXp": 4399385,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "kevyn300",
+            "gain": 13807,
+            "currentXp": 74337673,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "not_ceikry",
+            "gain": 12188,
+            "currentXp": 33048314,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "1210saad",
+            "gain": 8123,
+            "currentXp": 368361,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "0xcyber_cat",
+            "gain": 8116,
+            "currentXp": 6312721,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "xiao_yukiko",
+            "gain": 6128,
+            "currentXp": 66400,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "damien377",
+            "gain": 6125,
+            "currentXp": 6034502,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "a_ghoul",
+            "gain": 2420,
+            "currentXp": 1864934,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "vikivikx",
+            "gain": 2159,
+            "currentXp": 13835297,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "hanki717",
+            "gain": 1260,
+            "currentXp": 1669751,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "valpuri",
+            "gain": 153,
+            "currentXp": 199732514,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "benji2",
+            "gain": 69,
+            "currentXp": 1025984,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
         "xp:1": [
           {
             "player": "f83",
@@ -22892,290 +23239,6 @@
             "currentXp": 101532159,
             "ironMode": 0,
             "expMultiplier": 1
-          }
-        ],
-        "xp:2.5": [
-          {
-            "player": "bishop",
-            "gain": 288136,
-            "currentXp": 289055043,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "mochaman5",
-            "gain": 203099,
-            "currentXp": 1419277,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "nibelsnarf",
-            "gain": 202213,
-            "currentXp": 14513822,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "potionjitsu",
-            "gain": 146598,
-            "currentXp": 53862948,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "heathen44",
-            "gain": 144115,
-            "currentXp": 1201035,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "fukncasul",
-            "gain": 96318,
-            "currentXp": 11738192,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "bugcatcher",
-            "gain": 94496,
-            "currentXp": 140241763,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "skalfate",
-            "gain": 87261,
-            "currentXp": 739893,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "shinymootank",
-            "gain": 23126,
-            "currentXp": 4399385,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "kevyn300",
-            "gain": 13807,
-            "currentXp": 74337673,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "not_ceikry",
-            "gain": 12188,
-            "currentXp": 33048314,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "1210saad",
-            "gain": 8123,
-            "currentXp": 368361,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "0xcyber_cat",
-            "gain": 8116,
-            "currentXp": 6312721,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "xiao_yukiko",
-            "gain": 6128,
-            "currentXp": 66400,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "damien377",
-            "gain": 6125,
-            "currentXp": 6034502,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "a_ghoul",
-            "gain": 2420,
-            "currentXp": 1864934,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "vikivikx",
-            "gain": 2159,
-            "currentXp": 13835297,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "hanki717",
-            "gain": 1260,
-            "currentXp": 1669751,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "valpuri",
-            "gain": 153,
-            "currentXp": 199732514,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "benji2",
-            "gain": 69,
-            "currentXp": 1025984,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          }
-        ],
-        "account:0|xp:2.5": [
-          {
-            "player": "bishop",
-            "gain": 288136,
-            "currentXp": 289055043,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "mochaman5",
-            "gain": 203099,
-            "currentXp": 1419277,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "nibelsnarf",
-            "gain": 202213,
-            "currentXp": 14513822,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "potionjitsu",
-            "gain": 146598,
-            "currentXp": 53862948,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "heathen44",
-            "gain": 144115,
-            "currentXp": 1201035,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "fukncasul",
-            "gain": 96318,
-            "currentXp": 11738192,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "bugcatcher",
-            "gain": 94496,
-            "currentXp": 140241763,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "skalfate",
-            "gain": 87261,
-            "currentXp": 739893,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "shinymootank",
-            "gain": 23126,
-            "currentXp": 4399385,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "kevyn300",
-            "gain": 13807,
-            "currentXp": 74337673,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "not_ceikry",
-            "gain": 12188,
-            "currentXp": 33048314,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "1210saad",
-            "gain": 8123,
-            "currentXp": 368361,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "0xcyber_cat",
-            "gain": 8116,
-            "currentXp": 6312721,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "xiao_yukiko",
-            "gain": 6128,
-            "currentXp": 66400,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "damien377",
-            "gain": 6125,
-            "currentXp": 6034502,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "a_ghoul",
-            "gain": 2420,
-            "currentXp": 1864934,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "vikivikx",
-            "gain": 2159,
-            "currentXp": 13835297,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "hanki717",
-            "gain": 1260,
-            "currentXp": 1669751,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "valpuri",
-            "gain": 153,
-            "currentXp": 199732514,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "benji2",
-            "gain": 69,
-            "currentXp": 1025984,
-            "ironMode": 0,
-            "expMultiplier": 2.5
           }
         ],
         "account:1|xp:1": [
@@ -24663,6 +24726,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 1146,
+            "currentXp": 38391,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "milfy",
             "gain": 960,
             "currentXp": 6603,
@@ -24675,13 +24745,6 @@
             "currentXp": 1780,
             "ironMode": 0,
             "expMultiplier": 2.5
-          },
-          {
-            "player": "kaik",
-            "gain": 800,
-            "currentXp": 25012016,
-            "ironMode": 0,
-            "expMultiplier": 5
           }
         ],
         "xp:5": [
@@ -25414,6 +25477,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 1146,
+            "currentXp": 38391,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "xiao_yukiko",
             "gain": 834,
             "currentXp": 1780,
@@ -25447,6 +25517,13 @@
             "player": "nibelsnarf",
             "gain": 9810,
             "currentXp": 496393,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 1146,
+            "currentXp": 38391,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -26558,6 +26635,13 @@
             "currentXp": 350851,
             "ironMode": 0,
             "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 165,
+            "currentXp": 38570,
+            "ironMode": 0,
+            "expMultiplier": 2.5
           }
         ],
         "account:0|xp:2.5": [
@@ -26614,6 +26698,13 @@
             "player": "shinymootank",
             "gain": 280,
             "currentXp": 350851,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 165,
+            "currentXp": 38570,
             "ironMode": 0,
             "expMultiplier": 2.5
           }
@@ -28143,6 +28234,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 6211,
+            "currentXp": 104301,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "nibelsnarf",
             "gain": 4848,
             "currentXp": 815205,
@@ -28211,6 +28309,13 @@
             "player": "mochaman5",
             "gain": 16937,
             "currentXp": 44228,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 6211,
+            "currentXp": 104301,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -28433,6 +28538,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 13160,
+            "currentXp": 193166,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "hawk1776",
             "gain": 13070,
             "currentXp": 34695,
@@ -28576,13 +28688,6 @@
             "player": "a_lummy_gf",
             "gain": 1080,
             "currentXp": 285425,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "grunin",
-            "gain": 940,
-            "currentXp": 369046,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -29303,6 +29408,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 13160,
+            "currentXp": 193166,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "heathen44",
             "gain": 3066,
             "currentXp": 71373,
@@ -29322,6 +29434,13 @@
             "player": "bugcatcher",
             "gain": 62900,
             "currentXp": 14050734,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 13160,
+            "currentXp": 193166,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -30572,6 +30691,13 @@
             "currentXp": 5579005,
             "ironMode": 0,
             "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 22,
+            "currentXp": 87728,
+            "ironMode": 0,
+            "expMultiplier": 2.5
           }
         ],
         "account:0|xp:2.5": [
@@ -30607,6 +30733,13 @@
             "player": "bishop",
             "gain": 22,
             "currentXp": 5579005,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 22,
+            "currentXp": 87728,
             "ironMode": 0,
             "expMultiplier": 2.5
           }
@@ -30827,6 +30960,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "dam",
+            "gain": 26229,
+            "currentXp": 189351,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "skip",
             "gain": 22775,
             "currentXp": 946147,
@@ -30907,13 +31047,6 @@
             "player": "put_1000",
             "gain": 8155,
             "currentXp": 1690702,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "alan_mac",
-            "gain": 7475,
-            "currentXp": 51662090,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -31758,6 +31891,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 26229,
+            "currentXp": 189351,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "mochaman5",
             "gain": 4605,
             "currentXp": 39310,
@@ -31833,6 +31973,13 @@
             "player": "nibelsnarf",
             "gain": 72888,
             "currentXp": 523414,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 26229,
+            "currentXp": 189351,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -32071,6 +32218,13 @@
             "currentXp": 251050,
             "ironMode": 0,
             "expMultiplier": 5
+          },
+          {
+            "player": "dam",
+            "gain": 68475,
+            "currentXp": 76962,
+            "ironMode": 0,
+            "expMultiplier": 2.5
           },
           {
             "player": "miku_hatsune",
@@ -32684,6 +32838,13 @@
         ],
         "xp:2.5": [
           {
+            "player": "dam",
+            "gain": 68475,
+            "currentXp": 76962,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "skalfate",
             "gain": 11350,
             "currentXp": 76112,
@@ -32713,6 +32874,13 @@
           }
         ],
         "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 68475,
+            "currentXp": 76962,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
           {
             "player": "skalfate",
             "gain": 11350,
@@ -32835,6 +33003,13 @@
             "currentXp": 11613694,
             "ironMode": 0,
             "expMultiplier": 5
+          },
+          {
+            "player": "dam",
+            "gain": 153017,
+            "currentXp": 211762,
+            "ironMode": 0,
+            "expMultiplier": 2.5
           },
           {
             "player": "gw36",
@@ -33029,13 +33204,6 @@
             "player": "major_defend",
             "gain": 13937,
             "currentXp": 666529,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "hawk1776",
-            "gain": 13450,
-            "currentXp": 163996,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -33734,6 +33902,66 @@
             "expMultiplier": 5
           }
         ],
+        "xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 153017,
+            "currentXp": 211762,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 10176,
+            "currentXp": 168352,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "damien377",
+            "gain": 6125,
+            "currentXp": 1849453,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "heathen44",
+            "gain": 6069,
+            "currentXp": 69113,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
+        "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 153017,
+            "currentXp": 211762,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 10176,
+            "currentXp": 168352,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "damien377",
+            "gain": 6125,
+            "currentXp": 1849453,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "heathen44",
+            "gain": 6069,
+            "currentXp": 69113,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
         "account:2": [
           {
             "player": "alithy",
@@ -33968,52 +34196,6 @@
             "currentXp": 1040631,
             "ironMode": 0,
             "expMultiplier": 1
-          }
-        ],
-        "xp:2.5": [
-          {
-            "player": "mochaman5",
-            "gain": 10176,
-            "currentXp": 168352,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "damien377",
-            "gain": 6125,
-            "currentXp": 1849453,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "heathen44",
-            "gain": 6069,
-            "currentXp": 69113,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          }
-        ],
-        "account:0|xp:2.5": [
-          {
-            "player": "mochaman5",
-            "gain": 10176,
-            "currentXp": 168352,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "damien377",
-            "gain": 6125,
-            "currentXp": 1849453,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "heathen44",
-            "gain": 6069,
-            "currentXp": 69113,
-            "ironMode": 0,
-            "expMultiplier": 2.5
           }
         ],
         "account:3": [
@@ -34150,6 +34332,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 26236,
+            "currentXp": 28736,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "sneeds",
             "gain": 24705,
             "currentXp": 5563467,
@@ -34663,6 +34852,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 26236,
+            "currentXp": 28736,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "heathen44",
             "gain": 152,
             "currentXp": 36818,
@@ -34675,6 +34871,13 @@
             "player": "nibelsnarf",
             "gain": 90750,
             "currentXp": 1219665,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 26236,
+            "currentXp": 28736,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -34786,6 +34989,13 @@
             "currentXp": 300985,
             "ironMode": 0,
             "expMultiplier": 5
+          },
+          {
+            "player": "dam",
+            "gain": 113400,
+            "currentXp": 119650,
+            "ironMode": 0,
+            "expMultiplier": 2.5
           },
           {
             "player": "issytia",
@@ -35438,6 +35648,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 113400,
+            "currentXp": 119650,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "fukncasul",
             "gain": 13725,
             "currentXp": 236946,
@@ -35471,6 +35688,13 @@
             "player": "potionjitsu",
             "gain": 124075,
             "currentXp": 42236380,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 113400,
+            "currentXp": 119650,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -35585,6 +35809,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 118325,
+            "currentXp": 118825,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "figgiolly",
             "gain": 108075,
             "currentXp": 475712,
@@ -36132,6 +36363,66 @@
             "expMultiplier": 5
           }
         ],
+        "xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 118325,
+            "currentXp": 118825,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "skalfate",
+            "gain": 2700,
+            "currentXp": 10825,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "shinymootank",
+            "gain": 300,
+            "currentXp": 130450,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 225,
+            "currentXp": 15525,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
+        "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 118325,
+            "currentXp": 118825,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "skalfate",
+            "gain": 2700,
+            "currentXp": 10825,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "shinymootank",
+            "gain": 300,
+            "currentXp": 130450,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 225,
+            "currentXp": 15525,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
         "account:2": [
           {
             "player": "throbert",
@@ -36189,52 +36480,6 @@
             "currentXp": 3021843,
             "ironMode": 2,
             "expMultiplier": 1
-          }
-        ],
-        "xp:2.5": [
-          {
-            "player": "skalfate",
-            "gain": 2700,
-            "currentXp": 10825,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "shinymootank",
-            "gain": 300,
-            "currentXp": 130450,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "mochaman5",
-            "gain": 225,
-            "currentXp": 15525,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          }
-        ],
-        "account:0|xp:2.5": [
-          {
-            "player": "skalfate",
-            "gain": 2700,
-            "currentXp": 10825,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "shinymootank",
-            "gain": 300,
-            "currentXp": 130450,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "mochaman5",
-            "gain": 225,
-            "currentXp": 15525,
-            "ironMode": 0,
-            "expMultiplier": 2.5
           }
         ],
         "account:0|xp:1": [
@@ -36297,6 +36542,13 @@
             "currentXp": 355162,
             "ironMode": 0,
             "expMultiplier": 5
+          },
+          {
+            "player": "dam",
+            "gain": 75163,
+            "currentXp": 264116,
+            "ironMode": 0,
+            "expMultiplier": 2.5
           },
           {
             "player": "kennynes",
@@ -36531,13 +36783,6 @@
           },
           {
             "player": "bigbendude",
-            "gain": 1000,
-            "currentXp": 1000,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "milfy",
             "gain": 1000,
             "currentXp": 1000,
             "ironMode": 0,
@@ -37129,6 +37374,136 @@
             "expMultiplier": 5
           }
         ],
+        "xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 75163,
+            "currentXp": 264116,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "heathen44",
+            "gain": 39435,
+            "currentXp": 83710,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 10381,
+            "currentXp": 84099,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "kevyn300",
+            "gain": 9281,
+            "currentXp": 5169894,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "fukncasul",
+            "gain": 2860,
+            "currentXp": 350138,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "shinymootank",
+            "gain": 375,
+            "currentXp": 46756,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "potionjitsu",
+            "gain": 168,
+            "currentXp": 363871,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "skalfate",
+            "gain": 90,
+            "currentXp": 3958,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "0xcyber_cat",
+            "gain": 75,
+            "currentXp": 122511,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
+        "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 75163,
+            "currentXp": 264116,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "heathen44",
+            "gain": 39435,
+            "currentXp": 83710,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 10381,
+            "currentXp": 84099,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "kevyn300",
+            "gain": 9281,
+            "currentXp": 5169894,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "fukncasul",
+            "gain": 2860,
+            "currentXp": 350138,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "shinymootank",
+            "gain": 375,
+            "currentXp": 46756,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "potionjitsu",
+            "gain": 168,
+            "currentXp": 363871,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "skalfate",
+            "gain": 90,
+            "currentXp": 3958,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "0xcyber_cat",
+            "gain": 75,
+            "currentXp": 122511,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
         "account:2": [
           {
             "player": "goblin_layer",
@@ -37242,122 +37617,6 @@
             "currentXp": 8019775,
             "ironMode": 1,
             "expMultiplier": 5
-          }
-        ],
-        "xp:2.5": [
-          {
-            "player": "heathen44",
-            "gain": 39435,
-            "currentXp": 83710,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "mochaman5",
-            "gain": 10381,
-            "currentXp": 84099,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "kevyn300",
-            "gain": 9281,
-            "currentXp": 5169894,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "fukncasul",
-            "gain": 2860,
-            "currentXp": 350138,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "shinymootank",
-            "gain": 375,
-            "currentXp": 46756,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "potionjitsu",
-            "gain": 168,
-            "currentXp": 363871,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "skalfate",
-            "gain": 90,
-            "currentXp": 3958,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "0xcyber_cat",
-            "gain": 75,
-            "currentXp": 122511,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          }
-        ],
-        "account:0|xp:2.5": [
-          {
-            "player": "heathen44",
-            "gain": 39435,
-            "currentXp": 83710,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "mochaman5",
-            "gain": 10381,
-            "currentXp": 84099,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "kevyn300",
-            "gain": 9281,
-            "currentXp": 5169894,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "fukncasul",
-            "gain": 2860,
-            "currentXp": 350138,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "shinymootank",
-            "gain": 375,
-            "currentXp": 46756,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "potionjitsu",
-            "gain": 168,
-            "currentXp": 363871,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "skalfate",
-            "gain": 90,
-            "currentXp": 3958,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "0xcyber_cat",
-            "gain": 75,
-            "currentXp": 122511,
-            "ironMode": 0,
-            "expMultiplier": 2.5
           }
         ],
         "xp:1": [
@@ -37513,6 +37772,13 @@
             "currentXp": 641042,
             "ironMode": 0,
             "expMultiplier": 1
+          },
+          {
+            "player": "dam",
+            "gain": 32018,
+            "currentXp": 32018,
+            "ironMode": 0,
+            "expMultiplier": 2.5
           },
           {
             "player": "sauveterre",
@@ -38438,6 +38704,13 @@
         ],
         "xp:2.5": [
           {
+            "player": "dam",
+            "gain": 32018,
+            "currentXp": 32018,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "mochaman5",
             "gain": 23196,
             "currentXp": 126970,
@@ -38460,6 +38733,13 @@
           }
         ],
         "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 32018,
+            "currentXp": 32018,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
           {
             "player": "mochaman5",
             "gain": 23196,
@@ -38512,6 +38792,13 @@
             "currentXp": 335372,
             "ironMode": 0,
             "expMultiplier": 5
+          },
+          {
+            "player": "dam",
+            "gain": 139142,
+            "currentXp": 202040,
+            "ironMode": 0,
+            "expMultiplier": 2.5
           },
           {
             "player": "xixja",
@@ -38769,13 +39056,6 @@
             "player": "upq",
             "gain": 26995,
             "currentXp": 1932570,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "saad",
-            "gain": 25080,
-            "currentXp": 865067,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -39372,6 +39652,108 @@
             "expMultiplier": 5
           }
         ],
+        "xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 139142,
+            "currentXp": 202040,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "heathen44",
+            "gain": 94250,
+            "currentXp": 290553,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 71336,
+            "currentXp": 359623,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "not_ceikry",
+            "gain": 12188,
+            "currentXp": 733081,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "kevyn300",
+            "gain": 4225,
+            "currentXp": 3899243,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "0xcyber_cat",
+            "gain": 3125,
+            "currentXp": 2268306,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "nibelsnarf",
+            "gain": 2250,
+            "currentXp": 1010221,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
+        "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 139142,
+            "currentXp": 202040,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "heathen44",
+            "gain": 94250,
+            "currentXp": 290553,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 71336,
+            "currentXp": 359623,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "not_ceikry",
+            "gain": 12188,
+            "currentXp": 733081,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "kevyn300",
+            "gain": 4225,
+            "currentXp": 3899243,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "0xcyber_cat",
+            "gain": 3125,
+            "currentXp": 2268306,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "nibelsnarf",
+            "gain": 2250,
+            "currentXp": 1010221,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
         "account:2": [
           {
             "player": "throbert",
@@ -39457,94 +39839,6 @@
             "currentXp": 1813370,
             "ironMode": 1,
             "expMultiplier": 5
-          }
-        ],
-        "xp:2.5": [
-          {
-            "player": "heathen44",
-            "gain": 94250,
-            "currentXp": 290553,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "mochaman5",
-            "gain": 71336,
-            "currentXp": 359623,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "not_ceikry",
-            "gain": 12188,
-            "currentXp": 733081,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "kevyn300",
-            "gain": 4225,
-            "currentXp": 3899243,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "0xcyber_cat",
-            "gain": 3125,
-            "currentXp": 2268306,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "nibelsnarf",
-            "gain": 2250,
-            "currentXp": 1010221,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          }
-        ],
-        "account:0|xp:2.5": [
-          {
-            "player": "heathen44",
-            "gain": 94250,
-            "currentXp": 290553,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "mochaman5",
-            "gain": 71336,
-            "currentXp": 359623,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "not_ceikry",
-            "gain": 12188,
-            "currentXp": 733081,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "kevyn300",
-            "gain": 4225,
-            "currentXp": 3899243,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "0xcyber_cat",
-            "gain": 3125,
-            "currentXp": 2268306,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "nibelsnarf",
-            "gain": 2250,
-            "currentXp": 1010221,
-            "ironMode": 0,
-            "expMultiplier": 2.5
           }
         ],
         "xp:1": [
@@ -40949,6 +41243,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 26856,
+            "currentXp": 41247,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "cobly",
             "gain": 20952,
             "currentXp": 759479,
@@ -41162,13 +41463,6 @@
             "player": "amarok",
             "gain": 5,
             "currentXp": 17838436,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "lykos",
-            "gain": 5,
-            "currentXp": 94604,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -41704,6 +41998,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 26856,
+            "currentXp": 41247,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "potionjitsu",
             "gain": 11177,
             "currentXp": 3905982,
@@ -41744,6 +42045,13 @@
             "player": "fukncasul",
             "gain": 79280,
             "currentXp": 834785,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 26856,
+            "currentXp": 41247,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -42006,6 +42314,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 302536,
+            "currentXp": 305276,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "gokusa",
             "gain": 153030,
             "currentXp": 257132,
@@ -42270,13 +42585,6 @@
             "currentXp": 80,
             "ironMode": 0,
             "expMultiplier": 5
-          },
-          {
-            "player": "hanki717",
-            "gain": 20,
-            "currentXp": 14371,
-            "ironMode": 0,
-            "expMultiplier": 2.5
           }
         ],
         "xp:5": [
@@ -42822,6 +43130,80 @@
             "expMultiplier": 5
           }
         ],
+        "xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 302536,
+            "currentXp": 305276,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "0xcyber_cat",
+            "gain": 1656,
+            "currentXp": 229010,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "xiao_yukiko",
+            "gain": 340,
+            "currentXp": 1160,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 170,
+            "currentXp": 8983,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "hanki717",
+            "gain": 20,
+            "currentXp": 14371,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
+        "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 302536,
+            "currentXp": 305276,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "0xcyber_cat",
+            "gain": 1656,
+            "currentXp": 229010,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "xiao_yukiko",
+            "gain": 340,
+            "currentXp": 1160,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 170,
+            "currentXp": 8983,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "hanki717",
+            "gain": 20,
+            "currentXp": 14371,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
         "account:1": [
           {
             "player": "jucuev",
@@ -42898,66 +43280,6 @@
             "currentXp": 835391,
             "ironMode": 1,
             "expMultiplier": 1
-          }
-        ],
-        "xp:2.5": [
-          {
-            "player": "0xcyber_cat",
-            "gain": 1656,
-            "currentXp": 229010,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "xiao_yukiko",
-            "gain": 340,
-            "currentXp": 1160,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "mochaman5",
-            "gain": 170,
-            "currentXp": 8983,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "hanki717",
-            "gain": 20,
-            "currentXp": 14371,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          }
-        ],
-        "account:0|xp:2.5": [
-          {
-            "player": "0xcyber_cat",
-            "gain": 1656,
-            "currentXp": 229010,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "xiao_yukiko",
-            "gain": 340,
-            "currentXp": 1160,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "mochaman5",
-            "gain": 170,
-            "currentXp": 8983,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "hanki717",
-            "gain": 20,
-            "currentXp": 14371,
-            "ironMode": 0,
-            "expMultiplier": 2.5
           }
         ],
         "account:0|xp:1": [
@@ -43154,6 +43476,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "dam",
+            "gain": 5038,
+            "currentXp": 80540,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "denvlad",
             "gain": 4810,
             "currentXp": 6985,
@@ -43790,6 +44119,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 5038,
+            "currentXp": 80540,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "a_ghoul",
             "gain": 315,
             "currentXp": 14332,
@@ -43809,6 +44145,13 @@
             "player": "mochaman5",
             "gain": 5787,
             "currentXp": 8342,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 5038,
+            "currentXp": 80540,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -44124,6 +44467,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 11478,
+            "currentXp": 15265,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "poor",
             "gain": 8200,
             "currentXp": 38885,
@@ -44433,6 +44783,52 @@
             "expMultiplier": 10
           }
         ],
+        "xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 11478,
+            "currentXp": 15265,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 465,
+            "currentXp": 465,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "0xcyber_cat",
+            "gain": 90,
+            "currentXp": 157668,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
+        "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 11478,
+            "currentXp": 15265,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 465,
+            "currentXp": 465,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "0xcyber_cat",
+            "gain": 90,
+            "currentXp": 157668,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
         "xp:1": [
           {
             "player": "chaos_marcon",
@@ -44464,38 +44860,6 @@
             "ironMode": 0,
             "expMultiplier": 1
           }
-        ],
-        "xp:2.5": [
-          {
-            "player": "mochaman5",
-            "gain": 465,
-            "currentXp": 465,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "0xcyber_cat",
-            "gain": 90,
-            "currentXp": 157668,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          }
-        ],
-        "account:0|xp:2.5": [
-          {
-            "player": "mochaman5",
-            "gain": 465,
-            "currentXp": 465,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "0xcyber_cat",
-            "gain": 90,
-            "currentXp": 157668,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          }
         ]
       },
       "21": {
@@ -44513,6 +44877,13 @@
             "currentXp": 660450,
             "ironMode": 0,
             "expMultiplier": 5
+          },
+          {
+            "player": "dam",
+            "gain": 53165,
+            "currentXp": 53165,
+            "ironMode": 0,
+            "expMultiplier": 2.5
           },
           {
             "player": "whedonist",
@@ -44883,6 +45254,38 @@
             "expMultiplier": 5
           }
         ],
+        "xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 53165,
+            "currentXp": 53165,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "nibelsnarf",
+            "gain": 16875,
+            "currentXp": 93873,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
+        "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 53165,
+            "currentXp": 53165,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "nibelsnarf",
+            "gain": 16875,
+            "currentXp": 93873,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
         "account:2": [
           {
             "player": "throbert",
@@ -44908,24 +45311,6 @@
             "currentXp": 516205,
             "ironMode": 2,
             "expMultiplier": 10
-          }
-        ],
-        "xp:2.5": [
-          {
-            "player": "nibelsnarf",
-            "gain": 16875,
-            "currentXp": 93873,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          }
-        ],
-        "account:0|xp:2.5": [
-          {
-            "player": "nibelsnarf",
-            "gain": 16875,
-            "currentXp": 93873,
-            "ironMode": 0,
-            "expMultiplier": 2.5
           }
         ],
         "account:1": [
@@ -47698,6 +48083,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 1171782,
+            "currentXp": 2360914,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "potionjitsu",
             "gain": 834536,
             "currentXp": 53862948,
@@ -47836,6 +48228,13 @@
             "player": "fukncasul",
             "gain": 1193370,
             "currentXp": 11738192,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 1171782,
+            "currentXp": 2360914,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -51078,6 +51477,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 1146,
+            "currentXp": 38391,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "xiao_yukiko",
             "gain": 834,
             "currentXp": 1780,
@@ -51174,6 +51580,13 @@
             "player": "0xcyber_cat",
             "gain": 1400,
             "currentXp": 20795,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 1146,
+            "currentXp": 38391,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -52411,6 +52824,13 @@
             "currentXp": 2926706,
             "ironMode": 0,
             "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 165,
+            "currentXp": 38570,
+            "ironMode": 0,
+            "expMultiplier": 2.5
           }
         ],
         "account:0|xp:2.5": [
@@ -52481,6 +52901,13 @@
             "player": "not_ceikry",
             "gain": 614,
             "currentXp": 2926706,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 165,
+            "currentXp": 38570,
             "ironMode": 0,
             "expMultiplier": 2.5
           }
@@ -53813,6 +54240,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 6211,
+            "currentXp": 104301,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "nibelsnarf",
             "gain": 4848,
             "currentXp": 815205,
@@ -53930,6 +54364,13 @@
             "player": "benji2",
             "gain": 7404,
             "currentXp": 88475,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 6211,
+            "currentXp": 104301,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -55565,6 +56006,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 13160,
+            "currentXp": 193166,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "fukncasul",
             "gain": 12020,
             "currentXp": 498423,
@@ -55612,6 +56060,13 @@
             "player": "heathen44",
             "gain": 42196,
             "currentXp": 71373,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 13160,
+            "currentXp": 193166,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -56826,6 +57281,13 @@
             "currentXp": 86839,
             "ironMode": 0,
             "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 22,
+            "currentXp": 87728,
+            "ironMode": 0,
+            "expMultiplier": 2.5
           }
         ],
         "account:0|xp:2.5": [
@@ -56896,6 +57358,13 @@
             "player": "fukncasul",
             "gain": 38,
             "currentXp": 86839,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 22,
+            "currentXp": 87728,
             "ironMode": 0,
             "expMultiplier": 2.5
           }
@@ -58451,6 +58920,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 26229,
+            "currentXp": 189351,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "mochaman5",
             "gain": 23750,
             "currentXp": 39310,
@@ -58533,6 +59009,13 @@
             "player": "shinymootank",
             "gain": 26923,
             "currentXp": 91840,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 26229,
+            "currentXp": 189351,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -58783,6 +59266,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 68475,
+            "currentXp": 76962,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "wolfrider",
             "gain": 50900,
             "currentXp": 155772,
@@ -58898,13 +59388,6 @@
             "player": "hawk1776",
             "gain": 8375,
             "currentXp": 10475,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "valky",
-            "gain": 8050,
-            "currentXp": 57825,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -59524,6 +60007,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 68475,
+            "currentXp": 76962,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "nibelsnarf",
             "gain": 42000,
             "currentXp": 1335045,
@@ -59571,6 +60061,13 @@
             "player": "heathen44",
             "gain": 144900,
             "currentXp": 221675,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 68475,
+            "currentXp": 76962,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -59992,6 +60489,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 153017,
+            "currentXp": 211762,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "ovi91",
             "gain": 147624,
             "currentXp": 465322,
@@ -60044,13 +60548,6 @@
             "player": "blue_moon",
             "gain": 106075,
             "currentXp": 2816658,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "wolfrider",
-            "gain": 106003,
-            "currentXp": 732040,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -60786,6 +61283,13 @@
         ],
         "xp:2.5": [
           {
+            "player": "dam",
+            "gain": 153017,
+            "currentXp": 211762,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "mochaman5",
             "gain": 100293,
             "currentXp": 168352,
@@ -60829,6 +61333,13 @@
           }
         ],
         "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 153017,
+            "currentXp": 211762,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
           {
             "player": "mochaman5",
             "gain": 100293,
@@ -61356,6 +61867,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 26236,
+            "currentXp": 28736,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "quarky",
             "gain": 25995,
             "currentXp": 4359566,
@@ -61443,13 +61961,6 @@
             "player": "spawnofron",
             "gain": 3322,
             "currentXp": 530375,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "ledawolo",
-            "gain": 2050,
-            "currentXp": 2050,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -62178,6 +62689,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 26236,
+            "currentXp": 28736,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "skalfate",
             "gain": 1738,
             "currentXp": 3146,
@@ -62211,6 +62729,13 @@
             "player": "mochaman5",
             "gain": 79053,
             "currentXp": 91372,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 26236,
+            "currentXp": 28736,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -62558,6 +63083,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 113400,
+            "currentXp": 119650,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "segway",
             "gain": 107150,
             "currentXp": 135385,
@@ -62610,13 +63142,6 @@
             "player": "mistxfusion",
             "gain": 45100,
             "currentXp": 179985,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "slayhergamin",
-            "gain": 42350,
-            "currentXp": 7393270,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -63359,6 +63884,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 113400,
+            "currentXp": 119650,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "skalfate",
             "gain": 21300,
             "currentXp": 97475,
@@ -63413,6 +63945,13 @@
             "player": "kevyn300",
             "gain": 142175,
             "currentXp": 3615782,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 113400,
+            "currentXp": 119650,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -63586,6 +64125,13 @@
             "currentXp": 7745872,
             "ironMode": 0,
             "expMultiplier": 5
+          },
+          {
+            "player": "dam",
+            "gain": 118325,
+            "currentXp": 118825,
+            "ironMode": 0,
+            "expMultiplier": 2.5
           },
           {
             "player": "figgiolly",
@@ -63801,13 +64347,6 @@
             "player": "ned",
             "gain": 2138,
             "currentXp": 207325,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "misakimiya",
-            "gain": 2000,
-            "currentXp": 9000,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -64501,6 +65040,13 @@
         ],
         "xp:2.5": [
           {
+            "player": "dam",
+            "gain": 118325,
+            "currentXp": 118825,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "shinymootank",
             "gain": 105300,
             "currentXp": 130450,
@@ -64537,6 +65083,13 @@
           }
         ],
         "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 118325,
+            "currentXp": 118825,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
           {
             "player": "shinymootank",
             "gain": 105300,
@@ -64815,6 +65368,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 75163,
+            "currentXp": 264116,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "not dead yet",
             "gain": 73875,
             "currentXp": 374946,
@@ -64944,13 +65504,6 @@
             "player": "corbx",
             "gain": 42850,
             "currentXp": 3841226,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "sauveterre",
-            "gain": 40500,
-            "currentXp": 366047,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -65850,6 +66403,13 @@
         ],
         "xp:2.5": [
           {
+            "player": "dam",
+            "gain": 75163,
+            "currentXp": 264116,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "heathen44",
             "gain": 52968,
             "currentXp": 83710,
@@ -65921,6 +66481,13 @@
           }
         ],
         "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 75163,
+            "currentXp": 264116,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
           {
             "player": "heathen44",
             "gain": 52968,
@@ -66215,6 +66782,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 32018,
+            "currentXp": 32018,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "sneeds",
             "gain": 31472,
             "currentXp": 474823,
@@ -66288,13 +66862,6 @@
             "player": "wolfrider",
             "gain": 22275,
             "currentXp": 166035,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "ovi91",
-            "gain": 18632,
-            "currentXp": 126446,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -67051,6 +67618,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 32018,
+            "currentXp": 32018,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "kevyn300",
             "gain": 15750,
             "currentXp": 1422532,
@@ -67112,6 +67686,13 @@
             "player": "0xcyber_cat",
             "gain": 34757,
             "currentXp": 518523,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 32018,
+            "currentXp": 32018,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -68371,6 +68952,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 139142,
+            "currentXp": 202040,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "not_ceikry",
             "gain": 98658,
             "currentXp": 733081,
@@ -68432,6 +69020,13 @@
             "player": "heathen44",
             "gain": 163053,
             "currentXp": 290553,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 139142,
+            "currentXp": 202040,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -70285,6 +70880,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 26856,
+            "currentXp": 41247,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "spoopy",
             "gain": 24900,
             "currentXp": 1300659,
@@ -70365,13 +70967,6 @@
             "player": "starynight35",
             "gain": 4000,
             "currentXp": 1994320,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "kickflip",
-            "gain": 3858,
-            "currentXp": 50358,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -71005,6 +71600,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 26856,
+            "currentXp": 41247,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "mochaman5",
             "gain": 3422,
             "currentXp": 20893,
@@ -71073,6 +71675,13 @@
             "player": "0xcyber_cat",
             "gain": 33344,
             "currentXp": 130378,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 26856,
+            "currentXp": 41247,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -71454,6 +72063,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 302536,
+            "currentXp": 305276,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "upq",
             "gain": 255500,
             "currentXp": 2722010,
@@ -71667,13 +72283,6 @@
             "player": "denvlad",
             "gain": 4672,
             "currentXp": 7712,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "redwolf",
-            "gain": 4640,
-            "currentXp": 1368419,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -72379,6 +72988,80 @@
             "expMultiplier": 5
           }
         ],
+        "xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 302536,
+            "currentXp": 305276,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "0xcyber_cat",
+            "gain": 14525,
+            "currentXp": 229010,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 1550,
+            "currentXp": 8983,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "xiao_yukiko",
+            "gain": 340,
+            "currentXp": 1160,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "hanki717",
+            "gain": 20,
+            "currentXp": 14371,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
+        "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 302536,
+            "currentXp": 305276,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "0xcyber_cat",
+            "gain": 14525,
+            "currentXp": 229010,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "mochaman5",
+            "gain": 1550,
+            "currentXp": 8983,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "xiao_yukiko",
+            "gain": 340,
+            "currentXp": 1160,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "hanki717",
+            "gain": 20,
+            "currentXp": 14371,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          }
+        ],
         "xp:1": [
           {
             "player": "ir",
@@ -72416,66 +73099,6 @@
             "currentXp": 835391,
             "ironMode": 1,
             "expMultiplier": 1
-          }
-        ],
-        "xp:2.5": [
-          {
-            "player": "0xcyber_cat",
-            "gain": 14525,
-            "currentXp": 229010,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "mochaman5",
-            "gain": 1550,
-            "currentXp": 8983,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "xiao_yukiko",
-            "gain": 340,
-            "currentXp": 1160,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "hanki717",
-            "gain": 20,
-            "currentXp": 14371,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          }
-        ],
-        "account:0|xp:2.5": [
-          {
-            "player": "0xcyber_cat",
-            "gain": 14525,
-            "currentXp": 229010,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "mochaman5",
-            "gain": 1550,
-            "currentXp": 8983,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "xiao_yukiko",
-            "gain": 340,
-            "currentXp": 1160,
-            "ironMode": 0,
-            "expMultiplier": 2.5
-          },
-          {
-            "player": "hanki717",
-            "gain": 20,
-            "currentXp": 14371,
-            "ironMode": 0,
-            "expMultiplier": 2.5
           }
         ],
         "account:3": [
@@ -73526,6 +74149,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 5038,
+            "currentXp": 80540,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "a_ghoul",
             "gain": 315,
             "currentXp": 14332,
@@ -73552,6 +74182,13 @@
             "player": "heathen44",
             "gain": 5200,
             "currentXp": 5837,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 5038,
+            "currentXp": 80540,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -74006,6 +74643,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 11478,
+            "currentXp": 15265,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "femto_zetta",
             "gain": 10301,
             "currentXp": 10301,
@@ -74060,13 +74704,6 @@
             "currentXp": 288252,
             "ironMode": 0,
             "expMultiplier": 5
-          },
-          {
-            "player": "mucitel",
-            "gain": 3405,
-            "currentXp": 12785,
-            "ironMode": 0,
-            "expMultiplier": 1
           }
         ],
         "xp:5": [
@@ -74882,6 +75519,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 11478,
+            "currentXp": 15265,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "bishop",
             "gain": 622,
             "currentXp": 6570498,
@@ -74908,6 +75552,13 @@
             "player": "0xcyber_cat",
             "gain": 21026,
             "currentXp": 157668,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 11478,
+            "currentXp": 15265,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -75012,6 +75663,13 @@
             "currentXp": 486657,
             "ironMode": 0,
             "expMultiplier": 5
+          },
+          {
+            "player": "dam",
+            "gain": 53165,
+            "currentXp": 53165,
+            "ironMode": 0,
+            "expMultiplier": 2.5
           },
           {
             "player": "player_name",
@@ -75220,13 +75878,6 @@
             "player": "artemisia",
             "gain": 6375,
             "currentXp": 3422562,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "kickflip",
-            "gain": 6180,
-            "currentXp": 23367,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -75873,6 +76524,13 @@
         ],
         "xp:2.5": [
           {
+            "player": "dam",
+            "gain": 53165,
+            "currentXp": 53165,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "fukncasul",
             "gain": 47649,
             "currentXp": 180076,
@@ -75909,6 +76567,13 @@
           }
         ],
         "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 53165,
+            "currentXp": 53165,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
           {
             "player": "fukncasul",
             "gain": 47649,
@@ -80429,6 +81094,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 1171782,
+            "currentXp": 2360914,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "nibelsnarf",
             "gain": 970410,
             "currentXp": 14513822,
@@ -80567,6 +81239,13 @@
             "player": "0xcyber_cat",
             "gain": 1504541,
             "currentXp": 6312721,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 1171782,
+            "currentXp": 2360914,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -83685,6 +84364,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 1146,
+            "currentXp": 38391,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "xiao_yukiko",
             "gain": 834,
             "currentXp": 1780,
@@ -83788,6 +84474,13 @@
             "player": "0xcyber_cat",
             "gain": 1590,
             "currentXp": 20795,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 1146,
+            "currentXp": 38391,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -85327,6 +86020,13 @@
             "currentXp": 2926706,
             "ironMode": 0,
             "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 165,
+            "currentXp": 38570,
+            "ironMode": 0,
+            "expMultiplier": 2.5
           }
         ],
         "account:0|xp:2.5": [
@@ -85411,6 +86111,13 @@
             "player": "not_ceikry",
             "gain": 614,
             "currentXp": 2926706,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 165,
+            "currentXp": 38570,
             "ironMode": 0,
             "expMultiplier": 2.5
           }
@@ -87018,6 +87725,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 6211,
+            "currentXp": 104301,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "vikivikx",
             "gain": 2773,
             "currentXp": 1301802,
@@ -87142,6 +87856,13 @@
             "player": "nibelsnarf",
             "gain": 8209,
             "currentXp": 815205,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 6211,
+            "currentXp": 104301,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -88559,6 +89280,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 13160,
+            "currentXp": 193166,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "mochaman5",
             "gain": 9175,
             "currentXp": 16250,
@@ -88641,6 +89369,13 @@
             "player": "heathen44",
             "gain": 42196,
             "currentXp": 71373,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 13160,
+            "currentXp": 193166,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -90153,6 +90888,13 @@
             "currentXp": 295367,
             "ironMode": 0,
             "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 22,
+            "currentXp": 87728,
+            "ironMode": 0,
+            "expMultiplier": 2.5
           }
         ],
         "account:0|xp:2.5": [
@@ -90237,6 +90979,13 @@
             "player": "nibelsnarf",
             "gain": 49,
             "currentXp": 295367,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 22,
+            "currentXp": 87728,
             "ironMode": 0,
             "expMultiplier": 2.5
           }
@@ -91748,6 +92497,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 26229,
+            "currentXp": 189351,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "1210saad",
             "gain": 24240,
             "currentXp": 24305,
@@ -91844,6 +92600,13 @@
             "player": "shinymootank",
             "gain": 88840,
             "currentXp": 91840,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 26229,
+            "currentXp": 189351,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -92943,6 +93706,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 68475,
+            "currentXp": 76962,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "skalfate",
             "gain": 45387,
             "currentXp": 76112,
@@ -93011,6 +93781,13 @@
             "player": "heathen44",
             "gain": 144900,
             "currentXp": 221675,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 68475,
+            "currentXp": 76962,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -94653,6 +95430,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 153017,
+            "currentXp": 211762,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "mochaman5",
             "gain": 100293,
             "currentXp": 168352,
@@ -94742,6 +95526,13 @@
             "player": "fukncasul",
             "gain": 869575,
             "currentXp": 1343375,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 153017,
+            "currentXp": 211762,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -96065,6 +96856,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 26236,
+            "currentXp": 28736,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "shinymootank",
             "gain": 22797,
             "currentXp": 22797,
@@ -96119,6 +96917,13 @@
             "player": "mochaman5",
             "gain": 79053,
             "currentXp": 91372,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 26236,
+            "currentXp": 28736,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -97439,6 +98244,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 113400,
+            "currentXp": 119650,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "skalfate",
             "gain": 63725,
             "currentXp": 97475,
@@ -97528,6 +98340,13 @@
             "player": "heathen44",
             "gain": 145350,
             "currentXp": 221350,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 113400,
+            "currentXp": 119650,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -97987,6 +98806,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "dam",
+            "gain": 118325,
+            "currentXp": 118825,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "shinymootank",
             "gain": 117250,
             "currentXp": 130450,
@@ -98081,13 +98907,6 @@
             "player": "erwinjitsu",
             "gain": 56100,
             "currentXp": 286225,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "zevsandulf",
-            "gain": 55688,
-            "currentXp": 14687186,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -98934,6 +99753,13 @@
         ],
         "xp:2.5": [
           {
+            "player": "dam",
+            "gain": 118325,
+            "currentXp": 118825,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "shinymootank",
             "gain": 117250,
             "currentXp": 130450,
@@ -98984,6 +99810,13 @@
           }
         ],
         "account:0|xp:2.5": [
+          {
+            "player": "dam",
+            "gain": 118325,
+            "currentXp": 118825,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
           {
             "player": "shinymootank",
             "gain": 117250,
@@ -100410,6 +101243,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 75163,
+            "currentXp": 264116,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "nibelsnarf",
             "gain": 58950,
             "currentXp": 379948,
@@ -100485,6 +101325,13 @@
             "player": "fukncasul",
             "gain": 253194,
             "currentXp": 350138,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 75163,
+            "currentXp": 264116,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -101748,6 +102595,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 32018,
+            "currentXp": 32018,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "hanki717",
             "gain": 23209,
             "currentXp": 79181,
@@ -101823,6 +102677,13 @@
             "player": "mochaman5",
             "gain": 52785,
             "currentXp": 126970,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 32018,
+            "currentXp": 32018,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -103071,6 +103932,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 139142,
+            "currentXp": 202040,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "not_ceikry",
             "gain": 98658,
             "currentXp": 733081,
@@ -103160,6 +104028,13 @@
             "player": "kevyn300",
             "gain": 143265,
             "currentXp": 3899243,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 139142,
+            "currentXp": 202040,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -106273,6 +107148,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 26856,
+            "currentXp": 41247,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "hanki717",
             "gain": 22924,
             "currentXp": 74721,
@@ -106369,6 +107251,13 @@
             "player": "nibelsnarf",
             "gain": 28463,
             "currentXp": 1348942,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 26856,
+            "currentXp": 41247,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -106878,6 +107767,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "dam",
+            "gain": 302536,
+            "currentXp": 305276,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "nikko882",
             "gain": 278178,
             "currentXp": 286058,
@@ -107007,13 +107903,6 @@
             "player": "uustalo",
             "gain": 89416,
             "currentXp": 758211,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "tundramanne",
-            "gain": 82984,
-            "currentXp": 82984,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -107804,6 +108693,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 302536,
+            "currentXp": 305276,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "0xcyber_cat",
             "gain": 57343,
             "currentXp": 229010,
@@ -107865,6 +108761,13 @@
             "player": "fukncasul",
             "gain": 352670,
             "currentXp": 380707,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 302536,
+            "currentXp": 305276,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -109408,6 +110311,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 5038,
+            "currentXp": 80540,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "nibelsnarf",
             "gain": 2100,
             "currentXp": 364232,
@@ -109462,6 +110372,13 @@
             "player": "heathen44",
             "gain": 5200,
             "currentXp": 5837,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 5038,
+            "currentXp": 80540,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -110694,6 +111611,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 11478,
+            "currentXp": 15265,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "nibelsnarf",
             "gain": 2282,
             "currentXp": 406317,
@@ -110741,6 +111665,13 @@
             "player": "bishop",
             "gain": 25512,
             "currentXp": 6570498,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 11478,
+            "currentXp": 15265,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
@@ -111930,6 +112861,13 @@
             "expMultiplier": 2.5
           },
           {
+            "player": "dam",
+            "gain": 53165,
+            "currentXp": 53165,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
             "player": "mochaman5",
             "gain": 40558,
             "currentXp": 56070,
@@ -111998,6 +112936,13 @@
             "player": "shinymootank",
             "gain": 57910,
             "currentXp": 57910,
+            "ironMode": 0,
+            "expMultiplier": 2.5
+          },
+          {
+            "player": "dam",
+            "gain": 53165,
+            "currentXp": 53165,
             "ironMode": 0,
             "expMultiplier": 2.5
           },
