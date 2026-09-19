@@ -1,5 +1,5 @@
 {
-  "player": "moona",
+  "player": "darkandrew7",
   "records": {
     "day": 0,
     "week": 0,
@@ -7,97 +7,97 @@
   },
   "snapshots": [
     {
-      "capturedAt": "2026-08-24T02:05:39.321Z",
+      "capturedAt": "2026-09-19T04:32:31.953Z",
       "skills": [
         {
           "id": 0,
-          "level": 1,
-          "xp": 28
+          "level": 43,
+          "xp": 52675
         },
         {
           "id": 1,
-          "level": 1,
-          "xp": 0
+          "level": 30,
+          "xp": 14100
         },
         {
           "id": 2,
-          "level": 1,
-          "xp": 0
+          "level": 38,
+          "xp": 32980
         },
         {
           "id": 3,
-          "level": 10,
-          "xp": 1163
+          "level": 38,
+          "xp": 32606
         },
         {
           "id": 4,
-          "level": 1,
-          "xp": 0
+          "level": 32,
+          "xp": 17121
         },
         {
           "id": 5,
-          "level": 1,
-          "xp": 4
+          "level": 34,
+          "xp": 20925
         },
         {
           "id": 6,
-          "level": 1,
-          "xp": 0
+          "level": 25,
+          "xp": 8431
         },
         {
           "id": 7,
-          "level": 1,
-          "xp": 0
+          "level": 50,
+          "xp": 108200
         },
         {
           "id": 8,
-          "level": 27,
-          "xp": 10787
+          "level": 52,
+          "xp": 126483
         },
         {
           "id": 9,
-          "level": 1,
-          "xp": 0
+          "level": 42,
+          "xp": 49399
         },
         {
           "id": 10,
-          "level": 1,
-          "xp": 0
+          "level": 50,
+          "xp": 101620
         },
         {
           "id": 11,
-          "level": 1,
-          "xp": 0
+          "level": 40,
+          "xp": 40740
         },
         {
           "id": 12,
-          "level": 1,
-          "xp": 0
+          "level": 40,
+          "xp": 39366
         },
         {
           "id": 13,
-          "level": 1,
-          "xp": 0
+          "level": 47,
+          "xp": 76467
         },
         {
           "id": 14,
-          "level": 1,
-          "xp": 0
+          "level": 41,
+          "xp": 43810
         },
         {
           "id": 15,
-          "level": 1,
-          "xp": 0
+          "level": 10,
+          "xp": 1250
         },
         {
           "id": 16,
-          "level": 1,
-          "xp": 0
+          "level": 30,
+          "xp": 13407
         },
         {
           "id": 17,
-          "level": 1,
-          "xp": 0
+          "level": 41,
+          "xp": 43042
         },
         {
           "id": 18,
@@ -106,18 +106,18 @@
         },
         {
           "id": 19,
-          "level": 1,
-          "xp": 0
+          "level": 22,
+          "xp": 5837
         },
         {
           "id": 20,
           "level": 1,
-          "xp": 0
+          "xp": 50
         },
         {
           "id": 21,
-          "level": 1,
-          "xp": 0
+          "level": 34,
+          "xp": 22202
         },
         {
           "id": 22,
@@ -133,8 +133,8 @@
     }
   ],
   "info": {
-    "exp_multiplier": "1.0",
+    "exp_multiplier": "5.0",
     "iron_mode": "0"
   },
-  "lastCheckedAt": "2026-09-19T04:32:24.799Z"
+  "lastCheckedAt": "2026-09-19T04:32:31.953Z"
 }
