@@ -1,5 +1,5 @@
 {
-  "player": "alluck",
+  "player": "kaveri",
   "records": {
     "day": 0,
     "week": 0,
@@ -7,102 +7,102 @@
   },
   "snapshots": [
     {
-      "capturedAt": "2026-09-23T04:39:26.324Z",
+      "capturedAt": "2026-09-27T05:12:53.495Z",
       "skills": [
         {
           "id": 0,
-          "level": 63,
-          "xp": 371251
+          "level": 46,
+          "xp": 73230
         },
         {
           "id": 1,
-          "level": 50,
-          "xp": 110701
+          "level": 31,
+          "xp": 16130
         },
         {
           "id": 2,
-          "level": 69,
-          "xp": 715850
+          "level": 47,
+          "xp": 75991
         },
         {
           "id": 3,
-          "level": 63,
-          "xp": 374432
+          "level": 39,
+          "xp": 35780
         },
         {
           "id": 4,
-          "level": 27,
-          "xp": 9980
+          "level": 37,
+          "xp": 29178
         },
         {
           "id": 5,
-          "level": 24,
-          "xp": 7492
+          "level": 31,
+          "xp": 14837
         },
         {
           "id": 6,
-          "level": 50,
-          "xp": 103000
+          "level": 44,
+          "xp": 59242
         },
         {
           "id": 7,
-          "level": 49,
-          "xp": 97200
+          "level": 47,
+          "xp": 76365
         },
         {
           "id": 8,
-          "level": 45,
-          "xp": 66919
+          "level": 40,
+          "xp": 37804
         },
         {
           "id": 9,
-          "level": 1,
-          "xp": 0
+          "level": 21,
+          "xp": 5575
         },
         {
           "id": 10,
-          "level": 66,
-          "xp": 522250
+          "level": 45,
+          "xp": 67050
         },
         {
           "id": 11,
-          "level": 1,
-          "xp": 0
+          "level": 5,
+          "xp": 400
         },
         {
           "id": 12,
-          "level": 27,
-          "xp": 9802
+          "level": 40,
+          "xp": 37397
         },
         {
           "id": 13,
-          "level": 1,
-          "xp": 0
+          "level": 45,
+          "xp": 63830
         },
         {
           "id": 14,
-          "level": 27,
-          "xp": 10500
+          "level": 51,
+          "xp": 119022
         },
         {
           "id": 15,
-          "level": 1,
-          "xp": 0
+          "level": 21,
+          "xp": 5225
         },
         {
           "id": 16,
-          "level": 25,
-          "xp": 7980
+          "level": 32,
+          "xp": 17007
         },
         {
           "id": 17,
-          "level": 42,
-          "xp": 48335
+          "level": 22,
+          "xp": 5822
         },
         {
           "id": 18,
-          "level": 1,
-          "xp": 0
+          "level": 27,
+          "xp": 10375
         },
         {
           "id": 19,
@@ -111,8 +111,8 @@
         },
         {
           "id": 20,
-          "level": 27,
-          "xp": 10500
+          "level": 32,
+          "xp": 17595
         },
         {
           "id": 21,
@@ -134,7 +134,7 @@
   ],
   "info": {
     "exp_multiplier": "5.0",
-    "iron_mode": "1"
+    "iron_mode": "0"
   },
-  "lastCheckedAt": "2026-09-27T05:12:41.069Z"
+  "lastCheckedAt": "2026-09-27T05:12:53.495Z"
 }
