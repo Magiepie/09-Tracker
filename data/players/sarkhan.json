@@ -1,5 +1,5 @@
 {
-  "player": "UNGrossaumon",
+  "player": "sarkhan",
   "records": {
     "day": 0,
     "week": 0,
@@ -7,82 +7,82 @@
   },
   "snapshots": [
     {
-      "capturedAt": "2026-09-17T17:35:57.409Z",
+      "capturedAt": "2026-09-29T05:38:13.621Z",
       "skills": [
         {
           "id": 0,
-          "level": 21,
-          "xp": 5080
+          "level": 48,
+          "xp": 90999
         },
         {
           "id": 1,
-          "level": 10,
-          "xp": 1200
+          "level": 46,
+          "xp": 68474
         },
         {
           "id": 2,
-          "level": 17,
-          "xp": 3374
+          "level": 48,
+          "xp": 84776
         },
         {
           "id": 3,
-          "level": 18,
-          "xp": 3833
+          "level": 43,
+          "xp": 51585
         },
         {
           "id": 4,
-          "level": 1,
-          "xp": 48
+          "level": 37,
+          "xp": 28712
         },
         {
           "id": 5,
-          "level": 9,
-          "xp": 1057
+          "level": 32,
+          "xp": 17185
         },
         {
           "id": 6,
-          "level": 12,
-          "xp": 1710
+          "level": 46,
+          "xp": 70072
         },
         {
           "id": 7,
-          "level": 16,
-          "xp": 2850
+          "level": 42,
+          "xp": 50050
         },
         {
           "id": 8,
-          "level": 20,
-          "xp": 4587
+          "level": 12,
+          "xp": 1625
         },
         {
           "id": 9,
-          "level": 15,
-          "xp": 2420
+          "level": 1,
+          "xp": 0
         },
         {
           "id": 10,
-          "level": 1,
-          "xp": 20
+          "level": 40,
+          "xp": 40840
         },
         {
           "id": 11,
-          "level": 20,
-          "xp": 4540
+          "level": 14,
+          "xp": 2200
         },
         {
           "id": 12,
-          "level": 9,
-          "xp": 1000
+          "level": 44,
+          "xp": 56377
         },
         {
           "id": 13,
-          "level": 12,
-          "xp": 1670
+          "level": 27,
+          "xp": 10004
         },
         {
           "id": 14,
-          "level": 29,
-          "xp": 12222
+          "level": 47,
+          "xp": 82025
         },
         {
           "id": 15,
@@ -91,23 +91,23 @@
         },
         {
           "id": 16,
-          "level": 1,
-          "xp": 0
+          "level": 27,
+          "xp": 10060
         },
         {
           "id": 17,
-          "level": 6,
-          "xp": 640
+          "level": 32,
+          "xp": 18160
         },
         {
           "id": 18,
-          "level": 1,
-          "xp": 0
+          "level": 28,
+          "xp": 11695
         },
         {
           "id": 19,
           "level": 1,
-          "xp": 75
+          "xp": 0
         },
         {
           "id": 20,
@@ -136,5 +136,5 @@
     "exp_multiplier": "5.0",
     "iron_mode": "0"
   },
-  "lastCheckedAt": "2026-09-29T05:38:11.964Z"
+  "lastCheckedAt": "2026-09-29T05:38:13.621Z"
 }
