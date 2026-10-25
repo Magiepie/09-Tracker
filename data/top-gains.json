@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T04:32:49.616Z",
+  "generatedAt": "2026-10-25T22:07:49.735Z",
   "day": {
     "0": [
       {
@@ -544,6 +544,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "tooze_rihh",
+        "gain": 2820,
+        "currentXp": 531444,
+        "ironMode": 1,
+        "expMultiplier": 5
+      },
+      {
         "player": "skalfate",
         "gain": 2280,
         "currentXp": 32846,
@@ -584,13 +591,6 @@
         "currentXp": 202712,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "ubermensch",
-        "gain": 564,
-        "currentXp": 449602,
-        "ironMode": 0,
-        "expMultiplier": 1
       }
     ],
     "2": [
@@ -704,6 +704,13 @@
         "gain": 58380,
         "currentXp": 276062,
         "ironMode": 0,
+        "expMultiplier": 5
+      },
+      {
+        "player": "tooze_rihh",
+        "gain": 51540,
+        "currentXp": 2165987,
+        "ironMode": 1,
         "expMultiplier": 5
       },
       {
@@ -878,13 +885,6 @@
         "player": "smithaxe1",
         "gain": 260,
         "currentXp": 2590701,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "samebito",
-        "gain": 200,
-        "currentXp": 37464,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -1157,6 +1157,13 @@
         "expMultiplier": 10
       },
       {
+        "player": "tooze_rihh",
+        "gain": 2900,
+        "currentXp": 2267007,
+        "ironMode": 1,
+        "expMultiplier": 5
+      },
+      {
         "player": "fukncasul",
         "gain": 2062,
         "currentXp": 1044457,
@@ -1176,13 +1183,6 @@
         "currentXp": 18557976,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "goblinslower",
-        "gain": 1740,
-        "currentXp": 57961,
-        "ironMode": 0,
-        "expMultiplier": 1
       }
     ],
     "4": [
@@ -2271,6 +2271,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "tooze_rihh",
+        "gain": 17178,
+        "currentXp": 564725,
+        "ironMode": 1,
+        "expMultiplier": 5
+      },
+      {
         "player": "put_1000",
         "gain": 12395,
         "currentXp": 1892300,
@@ -2360,13 +2367,6 @@
         "currentXp": 3554170,
         "ironMode": 2,
         "expMultiplier": 10
-      },
-      {
-        "player": "urgu_1x",
-        "gain": 4882,
-        "currentXp": 537488,
-        "ironMode": 0,
-        "expMultiplier": 1
       }
     ],
     "8": [
@@ -3140,6 +3140,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "tooze_rihh",
+        "gain": 53900,
+        "currentXp": 3632890,
+        "ironMode": 1,
+        "expMultiplier": 5
+      },
+      {
         "player": "chem4fem",
         "gain": 48600,
         "currentXp": 464000,
@@ -3585,6 +3592,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "tooze_rihh",
+        "gain": 425,
+        "currentXp": 121755,
+        "ironMode": 1,
+        "expMultiplier": 5
+      },
+      {
         "player": "sully",
         "gain": 371,
         "currentXp": 13221365,
@@ -3646,13 +3660,6 @@
         "currentXp": 62376,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "skalfate",
-        "gain": 163,
-        "currentXp": 4280,
-        "ironMode": 0,
-        "expMultiplier": 2.5
       }
     ],
     "14": [
@@ -4873,6 +4880,13 @@
         "gain": 800,
         "currentXp": 4078328,
         "ironMode": 0,
+        "expMultiplier": 5
+      },
+      {
+        "player": "tooze_rihh",
+        "gain": 750,
+        "currentXp": 1381230,
+        "ironMode": 1,
         "expMultiplier": 5
       },
       {
@@ -6926,6 +6940,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "tooze_rihh",
+        "gain": 51540,
+        "currentXp": 2165987,
+        "ironMode": 1,
+        "expMultiplier": 5
+      },
+      {
         "player": "spawnofron",
         "gain": 43480,
         "currentXp": 1629075,
@@ -6943,13 +6964,6 @@
         "player": "urgu_1x",
         "gain": 36369,
         "currentXp": 467547,
-        "ironMode": 0,
-        "expMultiplier": 1
-      },
-      {
-        "player": "Steel",
-        "gain": 36011,
-        "currentXp": 37595,
         "ironMode": 0,
         "expMultiplier": 1
       }
@@ -9590,6 +9604,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "tooze_rihh",
+        "gain": 53900,
+        "currentXp": 3632890,
+        "ironMode": 1,
+        "expMultiplier": 5
+      },
+      {
         "player": "leonardo",
         "gain": 52350,
         "currentXp": 218365,
@@ -9609,13 +9630,6 @@
         "currentXp": 5260429,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "icyene_nihil",
-        "gain": 39050,
-        "currentXp": 4646100,
-        "ironMode": 0,
-        "expMultiplier": 1
       }
     ],
     "12": [
@@ -22280,6 +22294,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 148552,
+            "currentXp": 59823153,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "Opal",
             "gain": 112292,
             "currentXp": 168348,
@@ -22334,6 +22355,13 @@
             "player": "3rd",
             "gain": 180424,
             "currentXp": 454053022,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 148552,
+            "currentXp": 59823153,
             "ironMode": 1,
             "expMultiplier": 5
           },
@@ -22889,6 +22917,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 2820,
+            "currentXp": 531444,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "tenjin",
             "gain": 2053,
             "currentXp": 335994,
@@ -23452,6 +23487,24 @@
             "expMultiplier": 2.5
           }
         ],
+        "account:1": [
+          {
+            "player": "tooze_rihh",
+            "gain": 2820,
+            "currentXp": 531444,
+            "ironMode": 1,
+            "expMultiplier": 5
+          }
+        ],
+        "account:1|xp:5": [
+          {
+            "player": "tooze_rihh",
+            "gain": 2820,
+            "currentXp": 531444,
+            "ironMode": 1,
+            "expMultiplier": 5
+          }
+        ],
         "account:2": [
           {
             "player": "arcturus",
@@ -23867,6 +23920,13 @@
             "gain": 58380,
             "currentXp": 276062,
             "ironMode": 0,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 51540,
+            "currentXp": 2165987,
+            "ironMode": 1,
             "expMultiplier": 5
           },
           {
@@ -24505,6 +24565,13 @@
         ],
         "account:1": [
           {
+            "player": "tooze_rihh",
+            "gain": 51540,
+            "currentXp": 2165987,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "ponasbynas",
             "gain": 520,
             "currentXp": 2007228,
@@ -24520,6 +24587,13 @@
           }
         ],
         "account:1|xp:5": [
+          {
+            "player": "tooze_rihh",
+            "gain": 51540,
+            "currentXp": 2165987,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
           {
             "player": "ponasbynas",
             "gain": 520,
@@ -25040,6 +25114,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 2900,
+            "currentXp": 2267007,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "kingduff_1",
             "gain": 1940,
             "currentXp": 3048062,
@@ -25120,13 +25201,6 @@
             "player": "spoopy",
             "gain": 360,
             "currentXp": 16984715,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "blue_moon",
-            "gain": 260,
-            "currentXp": 1262032,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -25652,6 +25726,13 @@
             "currentXp": 3160552,
             "ironMode": 1,
             "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 2900,
+            "currentXp": 2267007,
+            "ironMode": 1,
+            "expMultiplier": 5
           }
         ],
         "account:1|xp:5": [
@@ -25659,6 +25740,13 @@
             "player": "ponasbynas",
             "gain": 46380,
             "currentXp": 3160552,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 2900,
+            "currentXp": 2267007,
             "ironMode": 1,
             "expMultiplier": 5
           }
@@ -26284,6 +26372,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 19039,
+            "currentXp": 2241949,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "nehkird",
             "gain": 18473,
             "currentXp": 232306,
@@ -26294,13 +26389,6 @@
             "player": "rathendor",
             "gain": 17347,
             "currentXp": 2004213,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "reignited",
-            "gain": 16540,
-            "currentXp": 1500988,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -26954,6 +27042,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 19039,
+            "currentXp": 2241949,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "bbc271",
             "gain": 31,
             "currentXp": 69993,
@@ -26966,6 +27061,13 @@
             "player": "ponasbynas",
             "gain": 41709,
             "currentXp": 3091686,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 19039,
+            "currentXp": 2241949,
             "ironMode": 1,
             "expMultiplier": 5
           }
@@ -29561,6 +29663,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 17178,
+            "currentXp": 564725,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "put_1000",
             "gain": 12395,
             "currentXp": 1892300,
@@ -29683,13 +29792,6 @@
             "player": "quarky",
             "gain": 3575,
             "currentXp": 7171393,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "death_awaits",
-            "gain": 3510,
-            "currentXp": 1058475,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -29999,6 +30101,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 17178,
+            "currentXp": 564725,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "nikoichu",
             "gain": 10025,
             "currentXp": 1171252,
@@ -30046,6 +30155,13 @@
             "player": "ponasbynas",
             "gain": 165512,
             "currentXp": 2147802,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 17178,
+            "currentXp": 564725,
             "ironMode": 1,
             "expMultiplier": 5
           },
@@ -33063,6 +33179,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 53900,
+            "currentXp": 3632890,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "chem4fem",
             "gain": 48600,
             "currentXp": 464000,
@@ -33372,6 +33495,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 53900,
+            "currentXp": 3632890,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "Opal",
             "gain": 250,
             "currentXp": 530,
@@ -33384,6 +33514,13 @@
             "player": "einz",
             "gain": 58300,
             "currentXp": 43982443,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 53900,
+            "currentXp": 3632890,
             "ironMode": 1,
             "expMultiplier": 5
           }
@@ -34237,6 +34374,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 425,
+            "currentXp": 121755,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "blue15822",
             "gain": 300,
             "currentXp": 44201,
@@ -34479,6 +34623,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "tooze_rihh",
+            "gain": 425,
+            "currentXp": 121755,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "bbc271",
             "gain": 78,
             "currentXp": 45938,
@@ -34498,6 +34649,13 @@
             "player": "nikoichu",
             "gain": 11000,
             "currentXp": 938830,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 425,
+            "currentXp": 121755,
             "ironMode": 1,
             "expMultiplier": 5
           }
@@ -38603,6 +38761,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 750,
+            "currentXp": 1381230,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "issytia",
             "gain": 605,
             "currentXp": 15887,
@@ -38932,6 +39097,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "tooze_rihh",
+            "gain": 750,
+            "currentXp": 1381230,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "bbc271",
             "gain": 32,
             "currentXp": 20240,
@@ -38985,6 +39157,15 @@
             "currentXp": 1676,
             "ironMode": 0,
             "expMultiplier": 1
+          }
+        ],
+        "account:1|xp:5": [
+          {
+            "player": "tooze_rihh",
+            "gain": 750,
+            "currentXp": 1381230,
+            "ironMode": 1,
+            "expMultiplier": 5
           }
         ]
       },
@@ -43414,6 +43595,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 148552,
+            "currentXp": 59823153,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "Opal",
             "gain": 112292,
             "currentXp": 168348,
@@ -43461,6 +43649,13 @@
             "player": "3rd",
             "gain": 188439,
             "currentXp": 454053022,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 148552,
+            "currentXp": 59823153,
             "ironMode": 1,
             "expMultiplier": 5
           },
@@ -45258,6 +45453,24 @@
             "expMultiplier": 2.5
           }
         ],
+        "account:1": [
+          {
+            "player": "tooze_rihh",
+            "gain": 2820,
+            "currentXp": 531444,
+            "ironMode": 1,
+            "expMultiplier": 5
+          }
+        ],
+        "account:1|xp:5": [
+          {
+            "player": "tooze_rihh",
+            "gain": 2820,
+            "currentXp": 531444,
+            "ironMode": 1,
+            "expMultiplier": 5
+          }
+        ],
         "account:2": [
           {
             "player": "goblin_layer",
@@ -45837,6 +46050,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 51540,
+            "currentXp": 2165987,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "spawnofron",
             "gain": 43480,
             "currentXp": 1629075,
@@ -45890,13 +46110,6 @@
             "gain": 19604,
             "currentXp": 14775239,
             "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "ponasbynas",
-            "gain": 18380,
-            "currentXp": 2007228,
-            "ironMode": 1,
             "expMultiplier": 5
           }
         ],
@@ -46491,6 +46704,45 @@
             "expMultiplier": 2.5
           }
         ],
+        "account:1": [
+          {
+            "player": "tooze_rihh",
+            "gain": 51540,
+            "currentXp": 2165987,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "ponasbynas",
+            "gain": 18380,
+            "currentXp": 2007228,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "bbc271",
+            "gain": 196,
+            "currentXp": 67531,
+            "ironMode": 1,
+            "expMultiplier": 1
+          }
+        ],
+        "account:1|xp:5": [
+          {
+            "player": "tooze_rihh",
+            "gain": 51540,
+            "currentXp": 2165987,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "ponasbynas",
+            "gain": 18380,
+            "currentXp": 2007228,
+            "ironMode": 1,
+            "expMultiplier": 5
+          }
+        ],
         "account:2": [
           {
             "player": "goblin_layer",
@@ -46537,31 +46789,6 @@
             "currentXp": 13886581,
             "ironMode": 2,
             "expMultiplier": 10
-          }
-        ],
-        "account:1": [
-          {
-            "player": "ponasbynas",
-            "gain": 18380,
-            "currentXp": 2007228,
-            "ironMode": 1,
-            "expMultiplier": 5
-          },
-          {
-            "player": "bbc271",
-            "gain": 196,
-            "currentXp": 67531,
-            "ironMode": 1,
-            "expMultiplier": 1
-          }
-        ],
-        "account:1|xp:5": [
-          {
-            "player": "ponasbynas",
-            "gain": 18380,
-            "currentXp": 2007228,
-            "ironMode": 1,
-            "expMultiplier": 5
           }
         ],
         "account:1|xp:1": [
@@ -47772,6 +47999,13 @@
             "currentXp": 3160552,
             "ironMode": 1,
             "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 2900,
+            "currentXp": 2267007,
+            "ironMode": 1,
+            "expMultiplier": 5
           }
         ],
         "account:1|xp:1": [
@@ -47788,6 +48022,13 @@
             "player": "ponasbynas",
             "gain": 80515,
             "currentXp": 3160552,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 2900,
+            "currentXp": 2267007,
             "ironMode": 1,
             "expMultiplier": 5
           }
@@ -49181,6 +49422,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 19039,
+            "currentXp": 2241949,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "nikoichu",
             "gain": 805,
             "currentXp": 1198051,
@@ -49216,6 +49464,13 @@
             "player": "ponasbynas",
             "gain": 127738,
             "currentXp": 3091686,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 19039,
+            "currentXp": 2241949,
             "ironMode": 1,
             "expMultiplier": 5
           },
@@ -52720,6 +52975,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 17178,
+            "currentXp": 564725,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "3rd",
             "gain": 8925,
             "currentXp": 25645852,
@@ -52767,6 +53029,13 @@
             "player": "nikoichu",
             "gain": 30762,
             "currentXp": 1171252,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 17178,
+            "currentXp": 564725,
             "ironMode": 1,
             "expMultiplier": 5
           },
@@ -57540,6 +57809,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 53900,
+            "currentXp": 3632890,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "leonardo",
             "gain": 52350,
             "currentXp": 218365,
@@ -57606,13 +57882,6 @@
             "player": "rathendor",
             "gain": 13925,
             "currentXp": 393117,
-            "ironMode": 0,
-            "expMultiplier": 5
-          },
-          {
-            "player": "spagalt",
-            "gain": 13925,
-            "currentXp": 11003517,
             "ironMode": 0,
             "expMultiplier": 5
           }
@@ -57998,6 +58267,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 53900,
+            "currentXp": 3632890,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "Opal",
             "gain": 250,
             "currentXp": 530,
@@ -58017,6 +58293,13 @@
             "player": "einz",
             "gain": 58300,
             "currentXp": 43982443,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 53900,
+            "currentXp": 3632890,
             "ironMode": 1,
             "expMultiplier": 5
           }
@@ -60208,6 +60491,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "tooze_rihh",
+            "gain": 425,
+            "currentXp": 121755,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "bbc271",
             "gain": 78,
             "currentXp": 45938,
@@ -60227,6 +60517,13 @@
             "player": "nikoichu",
             "gain": 33000,
             "currentXp": 938830,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 425,
+            "currentXp": 121755,
             "ironMode": 1,
             "expMultiplier": 5
           }
@@ -66539,6 +66836,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "tooze_rihh",
+            "gain": 750,
+            "currentXp": 1381230,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "bbc271",
             "gain": 32,
             "currentXp": 20240,
@@ -66551,6 +66855,13 @@
             "player": "ponasbynas",
             "gain": 138375,
             "currentXp": 17051783,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 750,
+            "currentXp": 1381230,
             "ironMode": 1,
             "expMultiplier": 5
           }
@@ -73850,6 +74161,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 148552,
+            "currentXp": 59823153,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "x_i_i_i",
             "gain": 127933,
             "currentXp": 351328976,
@@ -73897,6 +74215,13 @@
             "player": "3rd",
             "gain": 211335,
             "currentXp": 454053022,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 148552,
+            "currentXp": 59823153,
             "ironMode": 1,
             "expMultiplier": 5
           },
@@ -75875,6 +76200,13 @@
             "currentXp": 68818,
             "ironMode": 1,
             "expMultiplier": 1
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 2820,
+            "currentXp": 531444,
+            "ironMode": 1,
+            "expMultiplier": 5
           }
         ],
         "account:1|xp:1": [
@@ -75898,6 +76230,13 @@
             "player": "nikoichu",
             "gain": 72989,
             "currentXp": 1279825,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 2820,
+            "currentXp": 531444,
             "ironMode": 1,
             "expMultiplier": 5
           }
@@ -77261,6 +77600,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 51540,
+            "currentXp": 2165987,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "bbc271",
             "gain": 19986,
             "currentXp": 67531,
@@ -77296,6 +77642,13 @@
             "player": "ponasbynas",
             "gain": 376900,
             "currentXp": 2007228,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 51540,
+            "currentXp": 2165987,
             "ironMode": 1,
             "expMultiplier": 5
           },
@@ -78741,6 +79094,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "tooze_rihh",
+            "gain": 2900,
+            "currentXp": 2267007,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "3rd",
             "gain": 980,
             "currentXp": 21879695,
@@ -78760,6 +79120,13 @@
             "player": "nikoichu",
             "gain": 34482,
             "currentXp": 1198829,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 2900,
+            "currentXp": 2267007,
             "ironMode": 1,
             "expMultiplier": 5
           },
@@ -80264,6 +80631,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 19039,
+            "currentXp": 2241949,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "bbc271",
             "gain": 12649,
             "currentXp": 69993,
@@ -80297,6 +80671,13 @@
             "player": "nikoichu",
             "gain": 186640,
             "currentXp": 1198051,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 19039,
+            "currentXp": 2241949,
             "ironMode": 1,
             "expMultiplier": 5
           },
@@ -84248,6 +84629,13 @@
             "expMultiplier": 1
           },
           {
+            "player": "tooze_rihh",
+            "gain": 17178,
+            "currentXp": 564725,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "3rd",
             "gain": 11100,
             "currentXp": 25645852,
@@ -84295,6 +84683,13 @@
             "player": "nikoichu",
             "gain": 178410,
             "currentXp": 1171252,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 17178,
+            "currentXp": 564725,
             "ironMode": 1,
             "expMultiplier": 5
           },
@@ -89672,6 +90067,13 @@
             "expMultiplier": 5
           },
           {
+            "player": "tooze_rihh",
+            "gain": 53900,
+            "currentXp": 3632890,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
             "player": "Opal",
             "gain": 250,
             "currentXp": 530,
@@ -89698,6 +90100,13 @@
             "player": "einz",
             "gain": 61550,
             "currentXp": 43982443,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 53900,
+            "currentXp": 3632890,
             "ironMode": 1,
             "expMultiplier": 5
           }
@@ -92394,6 +92803,13 @@
             "currentXp": 4962,
             "ironMode": 1,
             "expMultiplier": 1
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 425,
+            "currentXp": 121755,
+            "ironMode": 1,
+            "expMultiplier": 5
           }
         ],
         "account:1|xp:5": [
@@ -92415,6 +92831,13 @@
             "player": "nikoichu",
             "gain": 190287,
             "currentXp": 938830,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 425,
+            "currentXp": 121755,
             "ironMode": 1,
             "expMultiplier": 5
           }
@@ -99516,6 +99939,13 @@
             "currentXp": 20240,
             "ironMode": 1,
             "expMultiplier": 1
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 750,
+            "currentXp": 1381230,
+            "ironMode": 1,
+            "expMultiplier": 5
           }
         ],
         "xp:1": [
@@ -99725,6 +100155,13 @@
             "player": "nikoichu",
             "gain": 13660,
             "currentXp": 182227,
+            "ironMode": 1,
+            "expMultiplier": 5
+          },
+          {
+            "player": "tooze_rihh",
+            "gain": 750,
+            "currentXp": 1381230,
             "ironMode": 1,
             "expMultiplier": 5
           }
