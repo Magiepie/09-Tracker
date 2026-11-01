@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-11-01T05:54:14.744Z",
+  "generatedAt": "2026-11-01T07:32:09.489Z",
   "day": {
     "0": [
+      {
+        "player": "robot",
+        "gain": 15531753,
+        "currentXp": 286263968,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
       {
         "player": "quarky",
         "gain": 4413091,
@@ -288,16 +295,16 @@
         "currentXp": 34798951,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "alan_mac",
-        "gain": 342164,
-        "currentXp": 539819632,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "1": [
+      {
+        "player": "robot",
+        "gain": 3066060,
+        "currentXp": 28322896,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
       {
         "player": "mike_oxlongx",
         "gain": 344740,
@@ -584,16 +591,16 @@
         "currentXp": 79983,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "aparctias",
-        "gain": 3713,
-        "currentXp": 2715403,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "2": [
+      {
+        "player": "robot",
+        "gain": 1354400,
+        "currentXp": 28317083,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
       {
         "player": "cybrknight",
         "gain": 934733,
@@ -880,16 +887,16 @@
         "currentXp": 50002,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "hans_de_tank",
-        "gain": 3400,
-        "currentXp": 13460,
-        "ironMode": 1,
-        "expMultiplier": 5
       }
     ],
     "3": [
+      {
+        "player": "robot",
+        "gain": 1243528,
+        "currentXp": 27273391,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
       {
         "player": "kaldrablaze",
         "gain": 639407,
@@ -1176,16 +1183,16 @@
         "currentXp": 2634566,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "put_1000",
-        "gain": 3500,
-        "currentXp": 4883651,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "4": [
+      {
+        "player": "robot",
+        "gain": 2504874,
+        "currentXp": 35735368,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
       {
         "player": "cybrknight",
         "gain": 344956,
@@ -1472,16 +1479,16 @@
         "currentXp": 37388824,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "chaos_marcon",
-        "gain": 33529,
-        "currentXp": 9762319,
-        "ironMode": 0,
-        "expMultiplier": 1
       }
     ],
     "5": [
+      {
+        "player": "robot",
+        "gain": 1751300,
+        "currentXp": 23064433,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
       {
         "player": "sarkhan",
         "gain": 658070,
@@ -1772,6 +1779,13 @@
     ],
     "6": [
       {
+        "player": "robot",
+        "gain": 634915,
+        "currentXp": 5401699,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
         "player": "goblin_layer",
         "gain": 135150,
         "currentXp": 1220550,
@@ -2057,13 +2071,6 @@
         "currentXp": 917563,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "albullstone",
-        "gain": 247,
-        "currentXp": 1877463,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "7": [
@@ -2073,6 +2080,13 @@
         "currentXp": 10096575,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 678640,
+        "currentXp": 13897428,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "slayerofduck",
@@ -2353,13 +2367,6 @@
         "currentXp": 2970899,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "autolycus",
-        "gain": 4025,
-        "currentXp": 2299586,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "8": [
@@ -2397,6 +2404,13 @@
         "currentXp": 2946150,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 203720,
+        "currentXp": 13753455,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "volatile_two",
@@ -2567,6 +2581,13 @@
         "currentXp": 6149682,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 325124,
+        "currentXp": 16067742,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "azrealhunter",
@@ -2833,13 +2854,6 @@
         "currentXp": 326704,
         "ironMode": 0,
         "expMultiplier": 1
-      },
-      {
-        "player": "daarth",
-        "gain": 4650,
-        "currentXp": 2058689,
-        "ironMode": 0,
-        "expMultiplier": 1
       }
     ],
     "10": [
@@ -2884,6 +2898,13 @@
         "currentXp": 1335655,
         "ironMode": 0,
         "expMultiplier": 2.5
+      },
+      {
+        "player": "robot",
+        "gain": 51961,
+        "currentXp": 3209852,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "kingkobrajfs",
@@ -2998,6 +3019,13 @@
         "currentXp": 25103001,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 246300,
+        "currentXp": 9046297,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "flatfoot",
@@ -3191,6 +3219,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "robot",
+        "gain": 11814,
+        "currentXp": 13052735,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
         "player": "khepridoll",
         "gain": 9990,
         "currentXp": 114625,
@@ -3262,6 +3297,13 @@
       }
     ],
     "13": [
+      {
+        "player": "robot",
+        "gain": 309739,
+        "currentXp": 6642399,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
       {
         "player": "aschien",
         "gain": 184275,
@@ -3559,6 +3601,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "robot",
+        "gain": 67349,
+        "currentXp": 2377195,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
         "player": "slayerofduck",
         "gain": 50212,
         "currentXp": 179666,
@@ -3700,6 +3749,13 @@
       }
     ],
     "15": [
+      {
+        "player": "robot",
+        "gain": 699650,
+        "currentXp": 7394695,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
       {
         "player": "zeph",
         "gain": 224485,
@@ -3986,13 +4042,6 @@
         "currentXp": 4237515,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "drizzlius",
-        "gain": 16200,
-        "currentXp": 2544015,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "16": [
@@ -4000,6 +4049,13 @@
         "player": "throbert",
         "gain": 788500,
         "currentXp": 3707586,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
+        "player": "robot",
+        "gain": 139716,
+        "currentXp": 2652322,
         "ironMode": 2,
         "expMultiplier": 10
       },
@@ -4282,13 +4338,6 @@
         "currentXp": 114315,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "mastermartin",
-        "gain": 75,
-        "currentXp": 1464788,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "17": [
@@ -4347,6 +4396,13 @@
         "currentXp": 3999581,
         "ironMode": 0,
         "expMultiplier": 2.5
+      },
+      {
+        "player": "robot",
+        "gain": 30720,
+        "currentXp": 2586480,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "michiga",
@@ -4578,13 +4634,6 @@
         "currentXp": 764897,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "thrumbo",
-        "gain": 5,
-        "currentXp": 2086950,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "18": [
@@ -4622,6 +4671,13 @@
         "currentXp": 3807456,
         "ironMode": 0,
         "expMultiplier": 2.5
+      },
+      {
+        "player": "robot",
+        "gain": 210080,
+        "currentXp": 13472744,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "elder_spud",
@@ -4828,6 +4884,13 @@
       }
     ],
     "19": [
+      {
+        "player": "robot",
+        "gain": 1792910,
+        "currentXp": 18536340,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
       {
         "player": "arcturus",
         "gain": 198000,
@@ -5114,16 +5177,16 @@
         "currentXp": 3190,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "warlock_roc",
-        "gain": 2700,
-        "currentXp": 200860,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "20": [
+      {
+        "player": "robot",
+        "gain": 129555,
+        "currentXp": 4593123,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
       {
         "player": "ants",
         "gain": 90780,
@@ -5365,6 +5428,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "robot",
+        "gain": 20568,
+        "currentXp": 1344996,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
         "player": "lykos",
         "gain": 19800,
         "currentXp": 104576,
@@ -5591,6 +5661,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "robot",
+        "gain": 6270,
+        "currentXp": 2107357,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
         "player": "uustalo",
         "gain": 5335,
         "currentXp": 2978670,
@@ -5763,6 +5840,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "robot",
+        "gain": 52560,
+        "currentXp": 4401218,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
         "player": "sora",
         "gain": 51800,
         "currentXp": 78747,
@@ -5933,6 +6017,13 @@
         "currentXp": 200068488,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 15531753,
+        "currentXp": 286263968,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "quarky",
@@ -6213,16 +6304,16 @@
         "currentXp": 251489911,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "kaik",
-        "gain": 2068871,
-        "currentXp": 295240901,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "1": [
+      {
+        "player": "robot",
+        "gain": 3066060,
+        "currentXp": 28322896,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
       {
         "player": "kaldrablaze",
         "gain": 1831377,
@@ -6509,13 +6600,6 @@
         "currentXp": 2631886,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "starynight35",
-        "gain": 85180,
-        "currentXp": 20088052,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "2": [
@@ -6532,6 +6616,13 @@
         "currentXp": 10693022,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 1354400,
+        "currentXp": 28317083,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "dodgypenguin",
@@ -6805,13 +6896,6 @@
         "currentXp": 1678179,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "Messina",
-        "gain": 43646,
-        "currentXp": 67984,
-        "ironMode": 0,
-        "expMultiplier": 1
       }
     ],
     "3": [
@@ -6835,6 +6919,13 @@
         "currentXp": 5735060,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 1243528,
+        "currentXp": 27273391,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "michiga",
@@ -7101,16 +7192,16 @@
         "currentXp": 71870,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "ir",
-        "gain": 68348,
-        "currentXp": 993612,
-        "ironMode": 1,
-        "expMultiplier": 1
       }
     ],
     "4": [
+      {
+        "player": "robot",
+        "gain": 2504874,
+        "currentXp": 35735368,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
       {
         "player": "dudio",
         "gain": 1882406,
@@ -7397,13 +7488,6 @@
         "currentXp": 1059909,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "volatile_two",
-        "gain": 151722,
-        "currentXp": 406869,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "5": [
@@ -7413,6 +7497,13 @@
         "currentXp": 3790589,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 1751300,
+        "currentXp": 23064433,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "sarkhan",
@@ -7693,13 +7784,6 @@
         "currentXp": 821612,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "uustalo",
-        "gain": 80120,
-        "currentXp": 1234970,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "6": [
@@ -7723,6 +7807,13 @@
         "currentXp": 7994428,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 634915,
+        "currentXp": 5401699,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "dodgypenguin",
@@ -7989,13 +8080,6 @@
         "currentXp": 41575,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "torax3",
-        "gain": 7740,
-        "currentXp": 825889,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "7": [
@@ -8012,6 +8096,13 @@
         "currentXp": 10096575,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 678640,
+        "currentXp": 13897428,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "professor",
@@ -8285,13 +8376,6 @@
         "currentXp": 59790,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "kaik",
-        "gain": 47472,
-        "currentXp": 15796547,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "8": [
@@ -8413,6 +8497,13 @@
         "currentXp": 395278,
         "ironMode": 0,
         "expMultiplier": 1
+      },
+      {
+        "player": "robot",
+        "gain": 203720,
+        "currentXp": 13753455,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "slayerofduck",
@@ -8581,13 +8672,6 @@
         "currentXp": 303850,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "raykire",
-        "gain": 12360,
-        "currentXp": 68645,
-        "ironMode": 0,
-        "expMultiplier": 1
       }
     ],
     "9": [
@@ -8702,6 +8786,13 @@
         "currentXp": 463746,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 325124,
+        "currentXp": 16067742,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "sora",
@@ -8877,13 +8968,6 @@
         "currentXp": 906804,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "glonk",
-        "gain": 49125,
-        "currentXp": 3181452,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "10": [
@@ -9005,6 +9089,13 @@
         "currentXp": 908444,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 51961,
+        "currentXp": 3209852,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "daowner",
@@ -9173,13 +9264,6 @@
         "currentXp": 1493,
         "ironMode": 1,
         "expMultiplier": 1
-      },
-      {
-        "player": "macvabey",
-        "gain": 1430,
-        "currentXp": 1073250,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "11": [
@@ -9252,6 +9336,13 @@
         "currentXp": 1942575,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 246300,
+        "currentXp": 9046297,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "jordandark2",
@@ -9469,13 +9560,6 @@
         "currentXp": 11003517,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "gandor",
-        "gain": 12600,
-        "currentXp": 325050,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "12": [
@@ -9597,6 +9681,13 @@
         "currentXp": 104925,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 11814,
+        "currentXp": 13052735,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "khepridoll",
@@ -9765,13 +9856,6 @@
         "currentXp": 337150,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "urgu_1x",
-        "gain": 250,
-        "currentXp": 105610,
-        "ironMode": 0,
-        "expMultiplier": 1
       }
     ],
     "13": [
@@ -9795,6 +9879,13 @@
         "currentXp": 8683446,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 309739,
+        "currentXp": 6642399,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "slayerofduck",
@@ -10061,13 +10152,6 @@
         "currentXp": 10412,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "sarkhan",
-        "gain": 8860,
-        "currentXp": 116209,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "14": [
@@ -10154,6 +10238,13 @@
         "currentXp": 179666,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 67349,
+        "currentXp": 2377195,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "maurdrehd",
@@ -10357,13 +10448,6 @@
         "currentXp": 4018487,
         "ironMode": 1,
         "expMultiplier": 5
-      },
-      {
-        "player": "leonardo",
-        "gain": 1100,
-        "currentXp": 69510,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "15": [
@@ -10385,6 +10469,13 @@
         "player": "goblin_layer",
         "gain": 1014670,
         "currentXp": 8810495,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
+        "player": "robot",
+        "gain": 699650,
+        "currentXp": 7394695,
         "ironMode": 2,
         "expMultiplier": 10
       },
@@ -10653,13 +10744,6 @@
         "currentXp": 361770,
         "ironMode": 1,
         "expMultiplier": 5
-      },
-      {
-        "player": "artemisia",
-        "gain": 90880,
-        "currentXp": 10074130,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "16": [
@@ -10697,6 +10781,13 @@
         "currentXp": 4373823,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 139716,
+        "currentXp": 2652322,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "bishop",
@@ -10949,13 +11040,6 @@
         "currentXp": 1019547,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "meatymango90",
-        "gain": 4085,
-        "currentXp": 14776,
-        "ironMode": 0,
-        "expMultiplier": 2.5
       }
     ],
     "17": [
@@ -11098,6 +11182,13 @@
         "currentXp": 85087,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 30720,
+        "currentXp": 2586480,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "gandor",
@@ -11245,13 +11336,6 @@
         "currentXp": 2570905,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "dudio",
-        "gain": 480,
-        "currentXp": 13058485,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "18": [
@@ -11296,6 +11380,13 @@
         "currentXp": 23433419,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 210080,
+        "currentXp": 13472744,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "meatymango90",
@@ -11541,16 +11632,16 @@
         "currentXp": 69524,
         "ironMode": 0,
         "expMultiplier": 2.5
-      },
-      {
-        "player": "09_rs",
-        "gain": 2520,
-        "currentXp": 12597376,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "19": [
+      {
+        "player": "robot",
+        "gain": 1792910,
+        "currentXp": 18536340,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
       {
         "player": "kingduff_1",
         "gain": 781210,
@@ -11837,13 +11928,6 @@
         "currentXp": 950900,
         "ironMode": 2,
         "expMultiplier": 10
-      },
-      {
-        "player": "torax3",
-        "gain": 42300,
-        "currentXp": 2035090,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "20": [
@@ -11881,6 +11965,13 @@
         "currentXp": 13670733,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 129555,
+        "currentXp": 4593123,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "smithaxe1",
@@ -12133,13 +12224,6 @@
         "currentXp": 2807951,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "velen",
-        "gain": 1750,
-        "currentXp": 24467,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "21": [
@@ -12298,6 +12382,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "robot",
+        "gain": 20568,
+        "currentXp": 1344996,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
         "player": "lykos",
         "gain": 19800,
         "currentXp": 104576,
@@ -12427,13 +12518,6 @@
         "player": "wry",
         "gain": 4700,
         "currentXp": 80275,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "spoopy",
-        "gain": 4400,
-        "currentXp": 4441100,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -12627,6 +12711,13 @@
         "currentXp": 9167,
         "ironMode": 1,
         "expMultiplier": 1
+      },
+      {
+        "player": "robot",
+        "gain": 6270,
+        "currentXp": 2107357,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "smithaxe1",
@@ -12990,6 +13081,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "robot",
+        "gain": 52560,
+        "currentXp": 4401218,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
         "player": "mac alan",
         "gain": 50881,
         "currentXp": 13307445,
@@ -13170,13 +13268,6 @@
         "currentXp": 91356,
         "ironMode": 0,
         "expMultiplier": 2.5
-      },
-      {
-        "player": "geekstreek",
-        "gain": 297,
-        "currentXp": 13267862,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ]
   },
@@ -13293,6 +13384,13 @@
         "currentXp": 79335726,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 15531753,
+        "currentXp": 286263968,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "kaik",
@@ -13468,13 +13566,6 @@
         "currentXp": 2241860972,
         "ironMode": 1,
         "expMultiplier": 5
-      },
-      {
-        "player": "fukncasul",
-        "gain": 7565443,
-        "currentXp": 20268177,
-        "ironMode": 0,
-        "expMultiplier": 2.5
       }
     ],
     "1": [
@@ -13519,6 +13610,13 @@
         "currentXp": 5352977,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 3066060,
+        "currentXp": 28322896,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "f83",
@@ -13764,13 +13862,6 @@
         "currentXp": 449710,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "michiga",
-        "gain": 342232,
-        "currentXp": 510874,
-        "ironMode": 1,
-        "expMultiplier": 5
       }
     ],
     "2": [
@@ -13857,6 +13948,13 @@
         "currentXp": 2486986,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 1354400,
+        "currentXp": 28317083,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "prevail",
@@ -14060,13 +14158,6 @@
         "currentXp": 758961,
         "ironMode": 2,
         "expMultiplier": 10
-      },
-      {
-        "player": "sora",
-        "gain": 247600,
-        "currentXp": 284940,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "3": [
@@ -14174,6 +14265,13 @@
         "currentXp": 2217642,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 1243528,
+        "currentXp": 27273391,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "michiga",
@@ -14356,13 +14454,6 @@
         "currentXp": 419846,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "gandor",
-        "gain": 375790,
-        "currentXp": 545335,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "4": [
@@ -14414,6 +14505,13 @@
         "currentXp": 17209381,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 2504874,
+        "currentXp": 35735368,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "f83",
@@ -14652,13 +14750,6 @@
         "currentXp": 1168638,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "kaveri",
-        "gain": 545653,
-        "currentXp": 581433,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "5": [
@@ -14752,6 +14843,13 @@
         "currentXp": 2189053,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 1751300,
+        "currentXp": 23064433,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "sarkhan",
@@ -14948,13 +15046,6 @@
         "currentXp": 805262,
         "ironMode": 1,
         "expMultiplier": 1
-      },
-      {
-        "player": "cobly",
-        "gain": 344455,
-        "currentXp": 2770362,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "6": [
@@ -15034,6 +15125,13 @@
         "currentXp": 1443078,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 634915,
+        "currentXp": 5401699,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "goblin_layer",
@@ -15244,13 +15342,6 @@
         "currentXp": 274565,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "volatile_two",
-        "gain": 49385,
-        "currentXp": 83501,
-        "ironMode": 0,
-        "expMultiplier": 5
       }
     ],
     "7": [
@@ -15430,6 +15521,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "robot",
+        "gain": 678640,
+        "currentXp": 13897428,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
         "player": "smithaxe1",
         "gain": 631027,
         "currentXp": 10914031,
@@ -15538,13 +15636,6 @@
         "player": "kennynes",
         "gain": 405535,
         "currentXp": 20027879,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "death_awaits",
-        "gain": 397465,
-        "currentXp": 1266612,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -17178,6 +17269,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "robot",
+        "gain": 309739,
+        "currentXp": 6642399,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
         "player": "death_awaits",
         "gain": 293602,
         "currentXp": 511174,
@@ -17314,13 +17412,6 @@
         "player": "femto_zetta",
         "gain": 123277,
         "currentXp": 135594,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "spagalt",
-        "gain": 107250,
-        "currentXp": 309349,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -17565,6 +17656,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "robot",
+        "gain": 67349,
+        "currentXp": 2377195,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
         "player": "daowner",
         "gain": 64312,
         "currentXp": 70035,
@@ -17612,13 +17710,6 @@
         "currentXp": 2471048,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "jeeeeeeeesus",
-        "gain": 47976,
-        "currentXp": 125684,
-        "ironMode": 0,
-        "expMultiplier": 2.5
       }
     ],
     "15": [
@@ -17798,6 +17889,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "robot",
+        "gain": 699650,
+        "currentXp": 7394695,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
         "player": "goblinslower",
         "gain": 694350,
         "currentXp": 1306164,
@@ -17906,13 +18004,6 @@
         "player": "simonfly2",
         "gain": 378373,
         "currentXp": 462135,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "starynight35",
-        "gain": 372195,
-        "currentXp": 14954595,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -18057,6 +18148,13 @@
         "currentXp": 354796,
         "ironMode": 0,
         "expMultiplier": 5
+      },
+      {
+        "player": "robot",
+        "gain": 139716,
+        "currentXp": 2652322,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "starynight35",
@@ -18204,13 +18302,6 @@
         "currentXp": 114315,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "urgu_1x",
-        "gain": 35478,
-        "currentXp": 93087,
-        "ironMode": 0,
-        "expMultiplier": 1
       }
     ],
     "17": [
@@ -18700,6 +18791,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "robot",
+        "gain": 210080,
+        "currentXp": 13472744,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
         "player": "meatymango90",
         "gain": 192893,
         "currentXp": 194554,
@@ -18796,13 +18894,6 @@
         "currentXp": 101517,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "kevyn300",
-        "gain": 79100,
-        "currentXp": 2069236,
-        "ironMode": 0,
-        "expMultiplier": 2.5
       }
     ],
     "19": [
@@ -18819,6 +18910,13 @@
         "currentXp": 9840944,
         "ironMode": 0,
         "expMultiplier": 1
+      },
+      {
+        "player": "robot",
+        "gain": 1792910,
+        "currentXp": 18536340,
+        "ironMode": 2,
+        "expMultiplier": 10
       },
       {
         "player": "volatile_one",
@@ -19092,13 +19190,6 @@
         "currentXp": 139240,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "spiriah96",
-        "gain": 139236,
-        "currentXp": 668076,
-        "ironMode": 0,
-        "expMultiplier": 1
       }
     ],
     "20": [
@@ -19341,6 +19432,13 @@
         "expMultiplier": 5
       },
       {
+        "player": "robot",
+        "gain": 129555,
+        "currentXp": 4593123,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
         "player": "Messina",
         "gain": 129449,
         "currentXp": 129449,
@@ -19386,13 +19484,6 @@
         "player": "quarky",
         "gain": 62440,
         "currentXp": 4462380,
-        "ironMode": 0,
-        "expMultiplier": 5
-      },
-      {
-        "player": "aparctias",
-        "gain": 60150,
-        "currentXp": 3076266,
         "ironMode": 0,
         "expMultiplier": 5
       }
@@ -20504,6 +20595,13 @@
         "expMultiplier": 10
       },
       {
+        "player": "robot",
+        "gain": 52560,
+        "currentXp": 4401218,
+        "ironMode": 2,
+        "expMultiplier": 10
+      },
+      {
         "player": "mac alan",
         "gain": 51542,
         "currentXp": 13307445,
@@ -20572,19 +20670,102 @@
         "currentXp": 13715433,
         "ironMode": 0,
         "expMultiplier": 5
-      },
-      {
-        "player": "mochaman5",
-        "gain": 25898,
-        "currentXp": 26615,
-        "ironMode": 0,
-        "expMultiplier": 2.5
       }
     ]
   },
   "segmented": {
     "day": {
       "0": {
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 15531753,
+            "currentXp": 286263968,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 1185436,
+            "currentXp": 65027764,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 844310,
+            "currentXp": 160241153,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 243000,
+            "currentXp": 23272437,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 15531753,
+            "currentXp": 286263968,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 1185436,
+            "currentXp": 65027764,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 844310,
+            "currentXp": 160241153,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 243000,
+            "currentXp": 23272437,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 15531753,
+            "currentXp": 286263968,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 1185436,
+            "currentXp": 65027764,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 844310,
+            "currentXp": 160241153,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 243000,
+            "currentXp": 23272437,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:0": [
           {
             "player": "quarky",
@@ -21473,75 +21654,6 @@
             "expMultiplier": 5
           }
         ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 1185436,
-            "currentXp": 65027764,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 844310,
-            "currentXp": 160241153,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "arcturus",
-            "gain": 243000,
-            "currentXp": 23272437,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 1185436,
-            "currentXp": 65027764,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 844310,
-            "currentXp": 160241153,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "arcturus",
-            "gain": 243000,
-            "currentXp": 23272437,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 1185436,
-            "currentXp": 65027764,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 844310,
-            "currentXp": 160241153,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "arcturus",
-            "gain": 243000,
-            "currentXp": 23272437,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
         "account:1": [
           {
             "player": "michiga",
@@ -22206,6 +22318,54 @@
         ]
       },
       "1": {
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 3066060,
+            "currentXp": 28322896,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 69720,
+            "currentXp": 1601346,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 3066060,
+            "currentXp": 28322896,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 69720,
+            "currentXp": 1601346,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 3066060,
+            "currentXp": 28322896,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 69720,
+            "currentXp": 1601346,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:0": [
           {
             "player": "mike_oxlongx",
@@ -23301,36 +23461,36 @@
             "ironMode": 0,
             "expMultiplier": 1
           }
-        ],
+        ]
+      },
+      "2": {
         "account:2": [
           {
-            "player": "goblin_layer",
-            "gain": 69720,
-            "currentXp": 1601346,
+            "player": "robot",
+            "gain": 1354400,
+            "currentXp": 28317083,
             "ironMode": 2,
             "expMultiplier": 10
           }
         ],
         "xp:10": [
           {
-            "player": "goblin_layer",
-            "gain": 69720,
-            "currentXp": 1601346,
+            "player": "robot",
+            "gain": 1354400,
+            "currentXp": 28317083,
             "ironMode": 2,
             "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
           {
-            "player": "goblin_layer",
-            "gain": 69720,
-            "currentXp": 1601346,
+            "player": "robot",
+            "gain": 1354400,
+            "currentXp": 28317083,
             "ironMode": 2,
             "expMultiplier": 10
           }
-        ]
-      },
-      "2": {
+        ],
         "account:0": [
           {
             "player": "cybrknight",
@@ -24459,6 +24619,54 @@
         ]
       },
       "3": {
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 1243528,
+            "currentXp": 27273391,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 7452,
+            "currentXp": 5566065,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 1243528,
+            "currentXp": 27273391,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 7452,
+            "currentXp": 5566065,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 1243528,
+            "currentXp": 27273391,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 7452,
+            "currentXp": 5566065,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:0": [
           {
             "player": "kaldrablaze",
@@ -25582,36 +25790,57 @@
             "ironMode": 0,
             "expMultiplier": 2.5
           }
-        ],
+        ]
+      },
+      "4": {
         "account:2": [
           {
+            "player": "robot",
+            "gain": 2504874,
+            "currentXp": 35735368,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
-            "gain": 7452,
-            "currentXp": 5566065,
+            "gain": 224575,
+            "currentXp": 3408008,
             "ironMode": 2,
             "expMultiplier": 10
           }
         ],
         "xp:10": [
           {
+            "player": "robot",
+            "gain": 2504874,
+            "currentXp": 35735368,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
-            "gain": 7452,
-            "currentXp": 5566065,
+            "gain": 224575,
+            "currentXp": 3408008,
             "ironMode": 2,
             "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
           {
+            "player": "robot",
+            "gain": 2504874,
+            "currentXp": 35735368,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
-            "gain": 7452,
-            "currentXp": 5566065,
+            "gain": 224575,
+            "currentXp": 3408008,
             "ironMode": 2,
             "expMultiplier": 10
           }
-        ]
-      },
-      "4": {
+        ],
         "account:0": [
           {
             "player": "cybrknight",
@@ -26500,33 +26729,6 @@
             "expMultiplier": 5
           }
         ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 224575,
-            "currentXp": 3408008,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 224575,
-            "currentXp": 3408008,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 224575,
-            "currentXp": 3408008,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
         "account:1": [
           {
             "player": "michiga",
@@ -26981,6 +27183,54 @@
         ]
       },
       "5": {
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 1751300,
+            "currentXp": 23064433,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 598240,
+            "currentXp": 3348450,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 1751300,
+            "currentXp": 23064433,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 598240,
+            "currentXp": 3348450,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 1751300,
+            "currentXp": 23064433,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 598240,
+            "currentXp": 3348450,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:0": [
           {
             "player": "sarkhan",
@@ -27666,33 +27916,6 @@
             "expMultiplier": 5
           }
         ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 598240,
-            "currentXp": 3348450,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 598240,
-            "currentXp": 3348450,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 598240,
-            "currentXp": 3348450,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
         "xp:1": [
           {
             "player": "draugr",
@@ -27874,6 +28097,13 @@
       "6": {
         "account:2": [
           {
+            "player": "robot",
+            "gain": 634915,
+            "currentXp": 5401699,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
             "gain": 135150,
             "currentXp": 1220550,
@@ -27883,6 +28113,13 @@
         ],
         "xp:10": [
           {
+            "player": "robot",
+            "gain": 634915,
+            "currentXp": 5401699,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
             "gain": 135150,
             "currentXp": 1220550,
@@ -27891,6 +28128,13 @@
           }
         ],
         "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 634915,
+            "currentXp": 5401699,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
           {
             "player": "goblin_layer",
             "gain": 135150,
@@ -29919,6 +30163,54 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 678640,
+            "currentXp": 13897428,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 21310,
+            "currentXp": 3683075,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 678640,
+            "currentXp": 13897428,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 21310,
+            "currentXp": 3683075,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 678640,
+            "currentXp": 13897428,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 21310,
+            "currentXp": 3683075,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:1": [
           {
             "player": "giblet",
@@ -30349,33 +30641,6 @@
             "currentXp": 1480697,
             "ironMode": 0,
             "expMultiplier": 2.5
-          }
-        ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 21310,
-            "currentXp": 3683075,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 21310,
-            "currentXp": 3683075,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 21310,
-            "currentXp": 3683075,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ],
         "account:1|xp:1": [
@@ -30859,6 +31124,33 @@
             "currentXp": 1101273,
             "ironMode": 0,
             "expMultiplier": 2.5
+          }
+        ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 203720,
+            "currentXp": 13753455,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 203720,
+            "currentXp": 13753455,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 203720,
+            "currentXp": 13753455,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "account:1": [
@@ -31852,6 +32144,33 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 325124,
+            "currentXp": 16067742,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 325124,
+            "currentXp": 16067742,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 325124,
+            "currentXp": 16067742,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:1": [
           {
             "player": "ponasbynas",
@@ -32529,6 +32848,33 @@
             "expMultiplier": 2.5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 51961,
+            "currentXp": 3209852,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 51961,
+            "currentXp": 3209852,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 51961,
+            "currentXp": 3209852,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "xp:1": [
           {
             "player": "Steel",
@@ -32974,6 +33320,33 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 246300,
+            "currentXp": 9046297,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 246300,
+            "currentXp": 9046297,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 246300,
+            "currentXp": 9046297,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "xp:2.5": [
           {
             "player": "flatfoot",
@@ -33374,6 +33747,33 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 11814,
+            "currentXp": 13052735,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 11814,
+            "currentXp": 13052735,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 11814,
+            "currentXp": 13052735,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "xp:1": [
           {
             "player": "khepridoll",
@@ -33426,6 +33826,33 @@
         ]
       },
       "13": {
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 309739,
+            "currentXp": 6642399,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 309739,
+            "currentXp": 6642399,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 309739,
+            "currentXp": 6642399,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:0": [
           {
             "player": "aschien",
@@ -34665,6 +35092,33 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 67349,
+            "currentXp": 2377195,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 67349,
+            "currentXp": 2377195,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 67349,
+            "currentXp": 2377195,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "xp:2.5": [
           {
             "player": "mochaman5",
@@ -34770,6 +35224,54 @@
         ]
       },
       "15": {
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 699650,
+            "currentXp": 7394695,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 54850,
+            "currentXp": 8810495,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 699650,
+            "currentXp": 7394695,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 54850,
+            "currentXp": 8810495,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 699650,
+            "currentXp": 7394695,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 54850,
+            "currentXp": 8810495,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:0": [
           {
             "player": "zeph",
@@ -35771,33 +36273,6 @@
             "expMultiplier": 2.5
           }
         ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 54850,
-            "currentXp": 8810495,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 54850,
-            "currentXp": 8810495,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 54850,
-            "currentXp": 8810495,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
         "xp:1": [
           {
             "player": "Opal",
@@ -35938,6 +36413,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 139716,
+            "currentXp": 2652322,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
             "gain": 52128,
             "currentXp": 460234,
@@ -35961,6 +36443,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 139716,
+            "currentXp": 2652322,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
             "gain": 52128,
             "currentXp": 460234,
@@ -35980,6 +36469,13 @@
             "player": "throbert",
             "gain": 788500,
             "currentXp": 3707586,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 139716,
+            "currentXp": 2652322,
             "ironMode": 2,
             "expMultiplier": 10
           },
@@ -37819,6 +38315,75 @@
             "expMultiplier": 1
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 30720,
+            "currentXp": 2586480,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 480,
+            "currentXp": 439315,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 10,
+            "currentXp": 965676,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 30720,
+            "currentXp": 2586480,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 480,
+            "currentXp": 439315,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 10,
+            "currentXp": 965676,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 30720,
+            "currentXp": 2586480,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 480,
+            "currentXp": 439315,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 10,
+            "currentXp": 965676,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:1": [
           {
             "player": "michiga",
@@ -37856,54 +38421,6 @@
             "currentXp": 38102,
             "ironMode": 1,
             "expMultiplier": 5
-          }
-        ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 480,
-            "currentXp": 439315,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 10,
-            "currentXp": 965676,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 480,
-            "currentXp": 439315,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 10,
-            "currentXp": 965676,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 480,
-            "currentXp": 439315,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 10,
-            "currentXp": 965676,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ],
         "account:1|xp:1": [
@@ -38508,6 +39025,54 @@
             "expMultiplier": 2.5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 210080,
+            "currentXp": 13472744,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 4333,
+            "currentXp": 4188663,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 210080,
+            "currentXp": 13472744,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 4333,
+            "currentXp": 4188663,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 210080,
+            "currentXp": 13472744,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 4333,
+            "currentXp": 4188663,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "xp:1": [
           {
             "player": "urgu_1x",
@@ -38629,38 +39194,18 @@
             "ironMode": 1,
             "expMultiplier": 5
           }
-        ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 4333,
-            "currentXp": 4188663,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 4333,
-            "currentXp": 4188663,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 4333,
-            "currentXp": 4188663,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
         ]
       },
       "19": {
         "account:2": [
           {
+            "player": "robot",
+            "gain": 1792910,
+            "currentXp": 18536340,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "arcturus",
             "gain": 198000,
             "currentXp": 5003200,
@@ -38677,6 +39222,13 @@
         ],
         "xp:10": [
           {
+            "player": "robot",
+            "gain": 1792910,
+            "currentXp": 18536340,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "arcturus",
             "gain": 198000,
             "currentXp": 5003200,
@@ -38692,6 +39244,13 @@
           }
         ],
         "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 1792910,
+            "currentXp": 18536340,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
           {
             "player": "arcturus",
             "gain": 198000,
@@ -39609,6 +40168,33 @@
         ]
       },
       "20": {
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 129555,
+            "currentXp": 4593123,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 129555,
+            "currentXp": 4593123,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 129555,
+            "currentXp": 4593123,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:0": [
           {
             "player": "ants",
@@ -40247,6 +40833,13 @@
             "currentXp": 664405,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 20568,
+            "currentXp": 1344996,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:10": [
@@ -40256,6 +40849,13 @@
             "currentXp": 664405,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 20568,
+            "currentXp": 1344996,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
@@ -40263,6 +40863,13 @@
             "player": "throbert",
             "gain": 55800,
             "currentXp": 664405,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 20568,
+            "currentXp": 1344996,
             "ironMode": 2,
             "expMultiplier": 10
           }
@@ -41218,6 +41825,54 @@
             "expMultiplier": 2.5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 6270,
+            "currentXp": 2107357,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 540,
+            "currentXp": 748740,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 6270,
+            "currentXp": 2107357,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 540,
+            "currentXp": 748740,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 6270,
+            "currentXp": 2107357,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 540,
+            "currentXp": 748740,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:1": [
           {
             "player": "bbc271",
@@ -41250,33 +41905,6 @@
             "currentXp": 3658439,
             "ironMode": 1,
             "expMultiplier": 5
-          }
-        ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 540,
-            "currentXp": 748740,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 540,
-            "currentXp": 748740,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 540,
-            "currentXp": 748740,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ]
       },
@@ -41971,6 +42599,54 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 52560,
+            "currentXp": 4401218,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 8,
+            "currentXp": 3619602,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 52560,
+            "currentXp": 4401218,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 8,
+            "currentXp": 3619602,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 52560,
+            "currentXp": 4401218,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 8,
+            "currentXp": 3619602,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:1": [
           {
             "player": "michiga",
@@ -42065,33 +42741,6 @@
             "currentXp": 91356,
             "ironMode": 0,
             "expMultiplier": 2.5
-          }
-        ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 8,
-            "currentXp": 3619602,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 8,
-            "currentXp": 3619602,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 8,
-            "currentXp": 3619602,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ]
       }
@@ -42986,6 +43635,96 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 15531753,
+            "currentXp": 286263968,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 2883622,
+            "currentXp": 65027764,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 844310,
+            "currentXp": 160241153,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 243000,
+            "currentXp": 23272437,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 15531753,
+            "currentXp": 286263968,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 2883622,
+            "currentXp": 65027764,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 844310,
+            "currentXp": 160241153,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 243000,
+            "currentXp": 23272437,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 15531753,
+            "currentXp": 286263968,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 2883622,
+            "currentXp": 65027764,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 844310,
+            "currentXp": 160241153,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 243000,
+            "currentXp": 23272437,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:1": [
           {
             "player": "michiga",
@@ -43607,75 +44346,6 @@
             "expMultiplier": 1
           }
         ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 2883622,
-            "currentXp": 65027764,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 844310,
-            "currentXp": 160241153,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "arcturus",
-            "gain": 243000,
-            "currentXp": 23272437,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 2883622,
-            "currentXp": 65027764,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 844310,
-            "currentXp": 160241153,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "arcturus",
-            "gain": 243000,
-            "currentXp": 23272437,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 2883622,
-            "currentXp": 65027764,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 844310,
-            "currentXp": 160241153,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "arcturus",
-            "gain": 243000,
-            "currentXp": 23272437,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
         "account:1|xp:1": [
           {
             "player": "ir",
@@ -43719,6 +44389,54 @@
         ]
       },
       "1": {
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 3066060,
+            "currentXp": 28322896,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 158005,
+            "currentXp": 1601346,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 3066060,
+            "currentXp": 28322896,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 158005,
+            "currentXp": 1601346,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 3066060,
+            "currentXp": 28322896,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 158005,
+            "currentXp": 1601346,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:0": [
           {
             "player": "kaldrablaze",
@@ -44912,33 +45630,6 @@
             "ironMode": 1,
             "expMultiplier": 5
           }
-        ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 158005,
-            "currentXp": 1601346,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 158005,
-            "currentXp": 1601346,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 158005,
-            "currentXp": 1601346,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
         ]
       },
       "2": {
@@ -45828,6 +46519,33 @@
             "currentXp": 147670,
             "ironMode": 0,
             "expMultiplier": 5
+          }
+        ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 1354400,
+            "currentXp": 28317083,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 1354400,
+            "currentXp": 28317083,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 1354400,
+            "currentXp": 28317083,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:1": [
@@ -47021,6 +47739,54 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 1243528,
+            "currentXp": 27273391,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 11470,
+            "currentXp": 5566065,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 1243528,
+            "currentXp": 27273391,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 11470,
+            "currentXp": 5566065,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 1243528,
+            "currentXp": 27273391,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 11470,
+            "currentXp": 5566065,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:1": [
           {
             "player": "michiga",
@@ -47405,36 +48171,57 @@
             "ironMode": 1,
             "expMultiplier": 1
           }
-        ],
+        ]
+      },
+      "4": {
         "account:2": [
           {
+            "player": "robot",
+            "gain": 2504874,
+            "currentXp": 35735368,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
-            "gain": 11470,
-            "currentXp": 5566065,
+            "gain": 301366,
+            "currentXp": 3408008,
             "ironMode": 2,
             "expMultiplier": 10
           }
         ],
         "xp:10": [
           {
+            "player": "robot",
+            "gain": 2504874,
+            "currentXp": 35735368,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
-            "gain": 11470,
-            "currentXp": 5566065,
+            "gain": 301366,
+            "currentXp": 3408008,
             "ironMode": 2,
             "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
           {
+            "player": "robot",
+            "gain": 2504874,
+            "currentXp": 35735368,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
-            "gain": 11470,
-            "currentXp": 5566065,
+            "gain": 301366,
+            "currentXp": 3408008,
             "ironMode": 2,
             "expMultiplier": 10
           }
-        ]
-      },
-      "4": {
+        ],
         "account:0": [
           {
             "player": "dudio",
@@ -48832,33 +49619,6 @@
             "expMultiplier": 2.5
           }
         ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 301366,
-            "currentXp": 3408008,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 301366,
-            "currentXp": 3408008,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 301366,
-            "currentXp": 3408008,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
         "account:1|xp:1": [
           {
             "player": "ir",
@@ -49785,6 +50545,13 @@
         ],
         "account:2": [
           {
+            "player": "robot",
+            "gain": 1751300,
+            "currentXp": 23064433,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
             "gain": 736888,
             "currentXp": 3348450,
@@ -49794,6 +50561,13 @@
         ],
         "xp:10": [
           {
+            "player": "robot",
+            "gain": 1751300,
+            "currentXp": 23064433,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
             "gain": 736888,
             "currentXp": 3348450,
@@ -49802,6 +50576,13 @@
           }
         ],
         "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 1751300,
+            "currentXp": 23064433,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
           {
             "player": "goblin_layer",
             "gain": 736888,
@@ -50956,6 +51737,54 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 634915,
+            "currentXp": 5401699,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 136635,
+            "currentXp": 1220550,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 634915,
+            "currentXp": 5401699,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 136635,
+            "currentXp": 1220550,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 634915,
+            "currentXp": 5401699,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 136635,
+            "currentXp": 1220550,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "xp:1": [
           {
             "player": "goblinslower",
@@ -51175,33 +52004,6 @@
             "currentXp": 71077,
             "ironMode": 0,
             "expMultiplier": 1
-          }
-        ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 136635,
-            "currentXp": 1220550,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 136635,
-            "currentXp": 1220550,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 136635,
-            "currentXp": 1220550,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ],
         "xp:2.5": [
@@ -52290,6 +53092,54 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 678640,
+            "currentXp": 13897428,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 128905,
+            "currentXp": 3683075,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 678640,
+            "currentXp": 13897428,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 128905,
+            "currentXp": 3683075,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 678640,
+            "currentXp": 13897428,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 128905,
+            "currentXp": 3683075,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "xp:2.5": [
           {
             "player": "flatfoot",
@@ -52520,33 +53370,6 @@
             "currentXp": 34221507,
             "ironMode": 1,
             "expMultiplier": 5
-          }
-        ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 128905,
-            "currentXp": 3683075,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 128905,
-            "currentXp": 3683075,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 128905,
-            "currentXp": 3683075,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ],
         "xp:1": [
@@ -53979,6 +54802,33 @@
             "expMultiplier": 1
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 203720,
+            "currentXp": 13753455,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 203720,
+            "currentXp": 13753455,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 203720,
+            "currentXp": 13753455,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:3": [
           {
             "player": "schmoo",
@@ -55244,6 +56094,54 @@
             "expMultiplier": 1
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 325124,
+            "currentXp": 16067742,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 2000,
+            "currentXp": 3626734,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 325124,
+            "currentXp": 16067742,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 2000,
+            "currentXp": 3626734,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 325124,
+            "currentXp": 16067742,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 2000,
+            "currentXp": 3626734,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:1|xp:1": [
           {
             "player": "Opal",
@@ -55265,33 +56163,6 @@
             "currentXp": 106377,
             "ironMode": 1,
             "expMultiplier": 1
-          }
-        ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 2000,
-            "currentXp": 3626734,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 2000,
-            "currentXp": 3626734,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 2000,
-            "currentXp": 3626734,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ]
       },
@@ -56296,6 +57167,13 @@
         ],
         "account:2": [
           {
+            "player": "robot",
+            "gain": 51961,
+            "currentXp": 3209852,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
             "gain": 2332,
             "currentXp": 2585549,
@@ -56305,6 +57183,13 @@
         ],
         "xp:10": [
           {
+            "player": "robot",
+            "gain": 51961,
+            "currentXp": 3209852,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
             "gain": 2332,
             "currentXp": 2585549,
@@ -56313,6 +57198,13 @@
           }
         ],
         "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 51961,
+            "currentXp": 3209852,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
           {
             "player": "goblin_layer",
             "gain": 2332,
@@ -57345,6 +58237,33 @@
             "currentXp": 158400,
             "ironMode": 0,
             "expMultiplier": 2.5
+          }
+        ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 246300,
+            "currentXp": 9046297,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 246300,
+            "currentXp": 9046297,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 246300,
+            "currentXp": 9046297,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:1": [
@@ -58450,6 +59369,33 @@
             "ironMode": 0,
             "expMultiplier": 2.5
           }
+        ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 11814,
+            "currentXp": 13052735,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 11814,
+            "currentXp": 13052735,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 11814,
+            "currentXp": 13052735,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
         ]
       },
       "13": {
@@ -59341,6 +60287,54 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 309739,
+            "currentXp": 6642399,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 22960,
+            "currentXp": 3806178,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 309739,
+            "currentXp": 6642399,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 22960,
+            "currentXp": 3806178,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 309739,
+            "currentXp": 6642399,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 22960,
+            "currentXp": 3806178,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "xp:1": [
           {
             "player": "urgu_1x",
@@ -59620,33 +60614,6 @@
             "currentXp": 364046,
             "ironMode": 0,
             "expMultiplier": 2.5
-          }
-        ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 22960,
-            "currentXp": 3806178,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 22960,
-            "currentXp": 3806178,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 22960,
-            "currentXp": 3806178,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ],
         "account:1": [
@@ -60636,6 +61603,54 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 67349,
+            "currentXp": 2377195,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 14523,
+            "currentXp": 1404253,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 67349,
+            "currentXp": 2377195,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 14523,
+            "currentXp": 1404253,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 67349,
+            "currentXp": 2377195,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 14523,
+            "currentXp": 1404253,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:1": [
           {
             "player": "giblet",
@@ -60858,33 +61873,6 @@
             "currentXp": 901203,
             "ironMode": 0,
             "expMultiplier": 1
-          }
-        ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 14523,
-            "currentXp": 1404253,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 14523,
-            "currentXp": 1404253,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 14523,
-            "currentXp": 1404253,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ]
       },
@@ -61784,6 +62772,13 @@
             "currentXp": 8810495,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 699650,
+            "currentXp": 7394695,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:10": [
@@ -61793,6 +62788,13 @@
             "currentXp": 8810495,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 699650,
+            "currentXp": 7394695,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
@@ -61800,6 +62802,13 @@
             "player": "goblin_layer",
             "gain": 1014670,
             "currentXp": 8810495,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 699650,
+            "currentXp": 7394695,
             "ironMode": 2,
             "expMultiplier": 10
           }
@@ -62190,6 +63199,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 139716,
+            "currentXp": 2652322,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
             "gain": 59203,
             "currentXp": 460234,
@@ -62213,6 +63229,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 139716,
+            "currentXp": 2652322,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
             "gain": 59203,
             "currentXp": 460234,
@@ -62232,6 +63255,13 @@
             "player": "throbert",
             "gain": 788500,
             "currentXp": 3707586,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 139716,
+            "currentXp": 2652322,
             "ironMode": 2,
             "expMultiplier": 10
           },
@@ -64458,6 +65488,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 30720,
+            "currentXp": 2586480,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "throbert",
             "gain": 10,
             "currentXp": 965676,
@@ -64474,6 +65511,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 30720,
+            "currentXp": 2586480,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "throbert",
             "gain": 10,
             "currentXp": 965676,
@@ -64486,6 +65530,13 @@
             "player": "goblin_layer",
             "gain": 53950,
             "currentXp": 439315,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 30720,
+            "currentXp": 2586480,
             "ironMode": 2,
             "expMultiplier": 10
           },
@@ -65597,6 +66648,54 @@
             "expMultiplier": 2.5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 210080,
+            "currentXp": 13472744,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 20419,
+            "currentXp": 4188663,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 210080,
+            "currentXp": 13472744,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 20419,
+            "currentXp": 4188663,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 210080,
+            "currentXp": 13472744,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 20419,
+            "currentXp": 4188663,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "xp:1": [
           {
             "player": "Messina",
@@ -65809,36 +66908,78 @@
             "ironMode": 1,
             "expMultiplier": 5
           }
-        ],
+        ]
+      },
+      "19": {
         "account:2": [
           {
+            "player": "robot",
+            "gain": 1792910,
+            "currentXp": 18536340,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 198000,
+            "currentXp": 5003200,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
-            "gain": 20419,
-            "currentXp": 4188663,
+            "gain": 46650,
+            "currentXp": 950900,
             "ironMode": 2,
             "expMultiplier": 10
           }
         ],
         "xp:10": [
           {
+            "player": "robot",
+            "gain": 1792910,
+            "currentXp": 18536340,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 198000,
+            "currentXp": 5003200,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
-            "gain": 20419,
-            "currentXp": 4188663,
+            "gain": 46650,
+            "currentXp": 950900,
             "ironMode": 2,
             "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
           {
+            "player": "robot",
+            "gain": 1792910,
+            "currentXp": 18536340,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 198000,
+            "currentXp": 5003200,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
-            "gain": 20419,
-            "currentXp": 4188663,
+            "gain": 46650,
+            "currentXp": 950900,
             "ironMode": 2,
             "expMultiplier": 10
           }
-        ]
-      },
-      "19": {
+        ],
         "account:0": [
           {
             "player": "kingduff_1",
@@ -66862,54 +68003,6 @@
             "currentXp": 4482238,
             "ironMode": 0,
             "expMultiplier": 1
-          }
-        ],
-        "account:2": [
-          {
-            "player": "arcturus",
-            "gain": 198000,
-            "currentXp": 5003200,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "goblin_layer",
-            "gain": 46650,
-            "currentXp": 950900,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "arcturus",
-            "gain": 198000,
-            "currentXp": 5003200,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "goblin_layer",
-            "gain": 46650,
-            "currentXp": 950900,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "arcturus",
-            "gain": 198000,
-            "currentXp": 5003200,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "goblin_layer",
-            "gain": 46650,
-            "currentXp": 950900,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ],
         "xp:2.5": [
@@ -67956,6 +69049,54 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 129555,
+            "currentXp": 4593123,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 1800,
+            "currentXp": 1402538,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 129555,
+            "currentXp": 4593123,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 1800,
+            "currentXp": 1402538,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 129555,
+            "currentXp": 4593123,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 1800,
+            "currentXp": 1402538,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "xp:1": [
           {
             "player": "chaos_marcon",
@@ -68104,33 +69245,6 @@
             "currentXp": 331,
             "ironMode": 0,
             "expMultiplier": 2.5
-          }
-        ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 1800,
-            "currentXp": 1402538,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 1800,
-            "currentXp": 1402538,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 1800,
-            "currentXp": 1402538,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ]
       },
@@ -69034,6 +70148,13 @@
             "currentXp": 473110,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 20568,
+            "currentXp": 1344996,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:10": [
@@ -69050,6 +70171,13 @@
             "currentXp": 473110,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 20568,
+            "currentXp": 1344996,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
@@ -69064,6 +70192,13 @@
             "player": "goblin_layer",
             "gain": 40850,
             "currentXp": 473110,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 20568,
+            "currentXp": 1344996,
             "ironMode": 2,
             "expMultiplier": 10
           }
@@ -70062,6 +71197,13 @@
             "currentXp": 748740,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 6270,
+            "currentXp": 2107357,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:10": [
@@ -70071,6 +71213,13 @@
             "currentXp": 748740,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 6270,
+            "currentXp": 2107357,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
@@ -70078,6 +71227,13 @@
             "player": "goblin_layer",
             "gain": 7630,
             "currentXp": 748740,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 6270,
+            "currentXp": 2107357,
             "ironMode": 2,
             "expMultiplier": 10
           }
@@ -71403,6 +72559,13 @@
             "currentXp": 3619602,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 52560,
+            "currentXp": 4401218,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:10": [
@@ -71412,6 +72575,13 @@
             "currentXp": 3619602,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 52560,
+            "currentXp": 4401218,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
@@ -71419,6 +72589,13 @@
             "player": "goblin_layer",
             "gain": 123366,
             "currentXp": 3619602,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 52560,
+            "currentXp": 4401218,
             "ironMode": 2,
             "expMultiplier": 10
           }
@@ -72555,6 +73732,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 15531753,
+            "currentXp": 286263968,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "throbert",
             "gain": 11142404,
             "currentXp": 160241153,
@@ -72578,6 +73762,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 15531753,
+            "currentXp": 286263968,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "throbert",
             "gain": 11142404,
             "currentXp": 160241153,
@@ -72597,6 +73788,13 @@
             "player": "goblin_layer",
             "gain": 27724257,
             "currentXp": 65027764,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 15531753,
+            "currentXp": 286263968,
             "ironMode": 2,
             "expMultiplier": 10
           },
@@ -74167,6 +75365,96 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 3066060,
+            "currentXp": 28322896,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 860900,
+            "currentXp": 1601346,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 69760,
+            "currentXp": 737884,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 160,
+            "currentXp": 664524,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 3066060,
+            "currentXp": 28322896,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 860900,
+            "currentXp": 1601346,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 69760,
+            "currentXp": 737884,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 160,
+            "currentXp": 664524,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 3066060,
+            "currentXp": 28322896,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 860900,
+            "currentXp": 1601346,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 69760,
+            "currentXp": 737884,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 160,
+            "currentXp": 664524,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "xp:1": [
           {
             "player": "f83",
@@ -74544,75 +75832,6 @@
             "currentXp": 33476,
             "ironMode": 0,
             "expMultiplier": 2.5
-          }
-        ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 860900,
-            "currentXp": 1601346,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 69760,
-            "currentXp": 737884,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "arcturus",
-            "gain": 160,
-            "currentXp": 664524,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 860900,
-            "currentXp": 1601346,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 69760,
-            "currentXp": 737884,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "arcturus",
-            "gain": 160,
-            "currentXp": 664524,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 860900,
-            "currentXp": 1601346,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 69760,
-            "currentXp": 737884,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "arcturus",
-            "gain": 160,
-            "currentXp": 664524,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ],
         "account:1": [
@@ -75862,6 +77081,75 @@
             "expMultiplier": 1
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 1354400,
+            "currentXp": 28317083,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 249887,
+            "currentXp": 758961,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 234190,
+            "currentXp": 13886581,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 1354400,
+            "currentXp": 28317083,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 249887,
+            "currentXp": 758961,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 234190,
+            "currentXp": 13886581,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 1354400,
+            "currentXp": 28317083,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 249887,
+            "currentXp": 758961,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 234190,
+            "currentXp": 13886581,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "xp:2.5": [
           {
             "player": "meatymango90",
@@ -76108,54 +77396,6 @@
             "currentXp": 67531,
             "ironMode": 1,
             "expMultiplier": 1
-          }
-        ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 249887,
-            "currentXp": 758961,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 234190,
-            "currentXp": 13886581,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 249887,
-            "currentXp": 758961,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 234190,
-            "currentXp": 13886581,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 249887,
-            "currentXp": 758961,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 234190,
-            "currentXp": 13886581,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ],
         "account:3": [
@@ -77440,6 +78680,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 1243528,
+            "currentXp": 27273391,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "throbert",
             "gain": 220360,
             "currentXp": 750804,
@@ -77463,6 +78710,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 1243528,
+            "currentXp": 27273391,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "throbert",
             "gain": 220360,
             "currentXp": 750804,
@@ -77482,6 +78736,13 @@
             "player": "goblin_layer",
             "gain": 1610867,
             "currentXp": 5566065,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 1243528,
+            "currentXp": 27273391,
             "ironMode": 2,
             "expMultiplier": 10
           },
@@ -78526,6 +79787,96 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 2504874,
+            "currentXp": 35735368,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 1557799,
+            "currentXp": 3408008,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 174333,
+            "currentXp": 13556532,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 1226,
+            "currentXp": 399800,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 2504874,
+            "currentXp": 35735368,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 1557799,
+            "currentXp": 3408008,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 174333,
+            "currentXp": 13556532,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 1226,
+            "currentXp": 399800,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 2504874,
+            "currentXp": 35735368,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 1557799,
+            "currentXp": 3408008,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 174333,
+            "currentXp": 13556532,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 1226,
+            "currentXp": 399800,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "xp:1": [
           {
             "player": "f83",
@@ -78815,75 +80166,6 @@
             "currentXp": 92812,
             "ironMode": 0,
             "expMultiplier": 1
-          }
-        ],
-        "account:2": [
-          {
-            "player": "goblin_layer",
-            "gain": 1557799,
-            "currentXp": 3408008,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 174333,
-            "currentXp": 13556532,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "arcturus",
-            "gain": 1226,
-            "currentXp": 399800,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 1557799,
-            "currentXp": 3408008,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 174333,
-            "currentXp": 13556532,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "arcturus",
-            "gain": 1226,
-            "currentXp": 399800,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "goblin_layer",
-            "gain": 1557799,
-            "currentXp": 3408008,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 174333,
-            "currentXp": 13556532,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "arcturus",
-            "gain": 1226,
-            "currentXp": 399800,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ],
         "xp:2.5": [
@@ -80105,6 +81387,13 @@
             "currentXp": 3348450,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 1751300,
+            "currentXp": 23064433,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:10": [
@@ -80114,6 +81403,13 @@
             "currentXp": 3348450,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 1751300,
+            "currentXp": 23064433,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
@@ -80121,6 +81417,13 @@
             "player": "goblin_layer",
             "gain": 1797373,
             "currentXp": 3348450,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 1751300,
+            "currentXp": 23064433,
             "ironMode": 2,
             "expMultiplier": 10
           }
@@ -81406,6 +82709,13 @@
         ],
         "account:2": [
           {
+            "player": "robot",
+            "gain": 634915,
+            "currentXp": 5401699,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
             "gain": 587455,
             "currentXp": 1220550,
@@ -81429,6 +82739,13 @@
         ],
         "xp:10": [
           {
+            "player": "robot",
+            "gain": 634915,
+            "currentXp": 5401699,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
             "gain": 587455,
             "currentXp": 1220550,
@@ -81451,6 +82768,13 @@
           }
         ],
         "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 634915,
+            "currentXp": 5401699,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
           {
             "player": "goblin_layer",
             "gain": 587455,
@@ -82929,6 +84253,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 678640,
+            "currentXp": 13897428,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "arcturus",
             "gain": 93500,
             "currentXp": 781065,
@@ -82952,6 +84283,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 678640,
+            "currentXp": 13897428,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "arcturus",
             "gain": 93500,
             "currentXp": 781065,
@@ -82971,6 +84309,13 @@
             "player": "goblin_layer",
             "gain": 1668785,
             "currentXp": 3683075,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 678640,
+            "currentXp": 13897428,
             "ironMode": 2,
             "expMultiplier": 10
           },
@@ -84580,6 +85925,13 @@
             "currentXp": 3918975,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 203720,
+            "currentXp": 13753455,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:10": [
@@ -84596,6 +85948,13 @@
             "currentXp": 3918975,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 203720,
+            "currentXp": 13753455,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
@@ -84610,6 +85969,13 @@
             "player": "goblin_layer",
             "gain": 1966050,
             "currentXp": 3918975,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 203720,
+            "currentXp": 13753455,
             "ironMode": 2,
             "expMultiplier": 10
           }
@@ -86074,6 +87440,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 325124,
+            "currentXp": 16067742,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "throbert",
             "gain": 262750,
             "currentXp": 4132932,
@@ -86097,6 +87470,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 325124,
+            "currentXp": 16067742,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "throbert",
             "gain": 262750,
             "currentXp": 4132932,
@@ -86116,6 +87496,13 @@
             "player": "arcturus",
             "gain": 1369250,
             "currentXp": 2528522,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 325124,
+            "currentXp": 16067742,
             "ironMode": 2,
             "expMultiplier": 10
           },
@@ -87349,6 +88736,13 @@
             "currentXp": 2200667,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 51961,
+            "currentXp": 3209852,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:10": [
@@ -87372,6 +88766,13 @@
             "currentXp": 2200667,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 51961,
+            "currentXp": 3209852,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
@@ -87393,6 +88794,13 @@
             "player": "throbert",
             "gain": 209000,
             "currentXp": 2200667,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 51961,
+            "currentXp": 3209852,
             "ironMode": 2,
             "expMultiplier": 10
           }
@@ -88764,6 +90172,13 @@
             "currentXp": 835308,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 246300,
+            "currentXp": 9046297,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:10": [
@@ -88787,6 +90202,13 @@
             "currentXp": 835308,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 246300,
+            "currentXp": 9046297,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
@@ -88808,6 +90230,13 @@
             "player": "arcturus",
             "gain": 405214,
             "currentXp": 835308,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 246300,
+            "currentXp": 9046297,
             "ironMode": 2,
             "expMultiplier": 10
           }
@@ -90111,6 +91540,13 @@
             "currentXp": 566950,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 11814,
+            "currentXp": 13052735,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:10": [
@@ -90134,6 +91570,13 @@
             "currentXp": 566950,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 11814,
+            "currentXp": 13052735,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
@@ -90155,6 +91598,13 @@
             "player": "goblin_layer",
             "gain": 17775,
             "currentXp": 566950,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 11814,
+            "currentXp": 13052735,
             "ironMode": 2,
             "expMultiplier": 10
           }
@@ -91373,6 +92823,13 @@
             "currentXp": 2101136,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 309739,
+            "currentXp": 6642399,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:10": [
@@ -91396,6 +92853,13 @@
             "currentXp": 2101136,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 309739,
+            "currentXp": 6642399,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
@@ -91417,6 +92881,13 @@
             "player": "arcturus",
             "gain": 454690,
             "currentXp": 2101136,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 309739,
+            "currentXp": 6642399,
             "ironMode": 2,
             "expMultiplier": 10
           }
@@ -93030,6 +94501,96 @@
             "expMultiplier": 5
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 67349,
+            "currentXp": 2377195,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 37654,
+            "currentXp": 298361,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 17925,
+            "currentXp": 1617768,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 15035,
+            "currentXp": 1404253,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 67349,
+            "currentXp": 2377195,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 37654,
+            "currentXp": 298361,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 17925,
+            "currentXp": 1617768,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 15035,
+            "currentXp": 1404253,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 67349,
+            "currentXp": 2377195,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 37654,
+            "currentXp": 298361,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "throbert",
+            "gain": 17925,
+            "currentXp": 1617768,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 15035,
+            "currentXp": 1404253,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "xp:1": [
           {
             "player": "ir",
@@ -93209,75 +94770,6 @@
             "currentXp": 14927,
             "ironMode": 0,
             "expMultiplier": 1
-          }
-        ],
-        "account:2": [
-          {
-            "player": "arcturus",
-            "gain": 37654,
-            "currentXp": 298361,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 17925,
-            "currentXp": 1617768,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "goblin_layer",
-            "gain": 15035,
-            "currentXp": 1404253,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "arcturus",
-            "gain": 37654,
-            "currentXp": 298361,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 17925,
-            "currentXp": 1617768,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "goblin_layer",
-            "gain": 15035,
-            "currentXp": 1404253,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "arcturus",
-            "gain": 37654,
-            "currentXp": 298361,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "throbert",
-            "gain": 17925,
-            "currentXp": 1617768,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "goblin_layer",
-            "gain": 15035,
-            "currentXp": 1404253,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ],
         "account:3": [
@@ -94197,6 +95689,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 699650,
+            "currentXp": 7394695,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "throbert",
             "gain": 293845,
             "currentXp": 3399100,
@@ -94220,6 +95719,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 699650,
+            "currentXp": 7394695,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "throbert",
             "gain": 293845,
             "currentXp": 3399100,
@@ -94239,6 +95745,13 @@
             "player": "goblin_layer",
             "gain": 4572190,
             "currentXp": 8810495,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 699650,
+            "currentXp": 7394695,
             "ironMode": 2,
             "expMultiplier": 10
           },
@@ -95671,6 +97184,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 139716,
+            "currentXp": 2652322,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "arcturus",
             "gain": 54605,
             "currentXp": 239420,
@@ -95694,6 +97214,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 139716,
+            "currentXp": 2652322,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "arcturus",
             "gain": 54605,
             "currentXp": 239420,
@@ -95713,6 +97240,13 @@
             "player": "goblin_layer",
             "gain": 152637,
             "currentXp": 460234,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 139716,
+            "currentXp": 2652322,
             "ironMode": 2,
             "expMultiplier": 10
           },
@@ -97321,6 +98855,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 30720,
+            "currentXp": 2586480,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "arcturus",
             "gain": 200,
             "currentXp": 1584084,
@@ -97344,6 +98885,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 30720,
+            "currentXp": 2586480,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "arcturus",
             "gain": 200,
             "currentXp": 1584084,
@@ -97363,6 +98911,13 @@
             "player": "goblin_layer",
             "gain": 148530,
             "currentXp": 439315,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 30720,
+            "currentXp": 2586480,
             "ironMode": 2,
             "expMultiplier": 10
           },
@@ -98572,6 +100127,13 @@
             "currentXp": 2004087,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 210080,
+            "currentXp": 13472744,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:10": [
@@ -98595,6 +100157,13 @@
             "currentXp": 2004087,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 210080,
+            "currentXp": 13472744,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
@@ -98616,6 +100185,13 @@
             "player": "arcturus",
             "gain": 389900,
             "currentXp": 2004087,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 210080,
+            "currentXp": 13472744,
             "ironMode": 2,
             "expMultiplier": 10
           }
@@ -99817,6 +101393,75 @@
             "expMultiplier": 1
           }
         ],
+        "account:2": [
+          {
+            "player": "robot",
+            "gain": 1792910,
+            "currentXp": 18536340,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 1068000,
+            "currentXp": 5003200,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 602050,
+            "currentXp": 950900,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "xp:10": [
+          {
+            "player": "robot",
+            "gain": 1792910,
+            "currentXp": 18536340,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 1068000,
+            "currentXp": 5003200,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 602050,
+            "currentXp": 950900,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
+        "account:2|xp:10": [
+          {
+            "player": "robot",
+            "gain": 1792910,
+            "currentXp": 18536340,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "arcturus",
+            "gain": 1068000,
+            "currentXp": 5003200,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "goblin_layer",
+            "gain": 602050,
+            "currentXp": 950900,
+            "ironMode": 2,
+            "expMultiplier": 10
+          }
+        ],
         "account:0|xp:5": [
           {
             "player": "volatile_one",
@@ -100111,54 +101756,6 @@
             "currentXp": 299610,
             "ironMode": 0,
             "expMultiplier": 5
-          }
-        ],
-        "account:2": [
-          {
-            "player": "arcturus",
-            "gain": 1068000,
-            "currentXp": 5003200,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "goblin_layer",
-            "gain": 602050,
-            "currentXp": 950900,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "xp:10": [
-          {
-            "player": "arcturus",
-            "gain": 1068000,
-            "currentXp": 5003200,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "goblin_layer",
-            "gain": 602050,
-            "currentXp": 950900,
-            "ironMode": 2,
-            "expMultiplier": 10
-          }
-        ],
-        "account:2|xp:10": [
-          {
-            "player": "arcturus",
-            "gain": 1068000,
-            "currentXp": 5003200,
-            "ironMode": 2,
-            "expMultiplier": 10
-          },
-          {
-            "player": "goblin_layer",
-            "gain": 602050,
-            "currentXp": 950900,
-            "ironMode": 2,
-            "expMultiplier": 10
           }
         ],
         "xp:2.5": [
@@ -101256,6 +102853,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 129555,
+            "currentXp": 4593123,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
             "gain": 11990,
             "currentXp": 1402538,
@@ -101279,6 +102883,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 129555,
+            "currentXp": 4593123,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "goblin_layer",
             "gain": 11990,
             "currentXp": 1402538,
@@ -101298,6 +102909,13 @@
             "player": "arcturus",
             "gain": 547595,
             "currentXp": 1328585,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 129555,
+            "currentXp": 4593123,
             "ironMode": 2,
             "expMultiplier": 10
           },
@@ -102641,6 +104259,13 @@
             "currentXp": 473110,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 20568,
+            "currentXp": 1344996,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:10": [
@@ -102664,6 +104289,13 @@
             "currentXp": 473110,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 20568,
+            "currentXp": 1344996,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
@@ -102685,6 +104317,13 @@
             "player": "goblin_layer",
             "gain": 44840,
             "currentXp": 473110,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 20568,
+            "currentXp": 1344996,
             "ironMode": 2,
             "expMultiplier": 10
           }
@@ -103725,6 +105364,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 6270,
+            "currentXp": 2107357,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "throbert",
             "gain": 290,
             "currentXp": 1007234,
@@ -103748,6 +105394,13 @@
             "expMultiplier": 10
           },
           {
+            "player": "robot",
+            "gain": 6270,
+            "currentXp": 2107357,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
             "player": "throbert",
             "gain": 290,
             "currentXp": 1007234,
@@ -103767,6 +105420,13 @@
             "player": "goblin_layer",
             "gain": 422690,
             "currentXp": 748740,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 6270,
+            "currentXp": 2107357,
             "ironMode": 2,
             "expMultiplier": 10
           },
@@ -106097,6 +107757,13 @@
             "currentXp": 245185,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 52560,
+            "currentXp": 4401218,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "xp:10": [
@@ -106113,6 +107780,13 @@
             "currentXp": 245185,
             "ironMode": 2,
             "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 52560,
+            "currentXp": 4401218,
+            "ironMode": 2,
+            "expMultiplier": 10
           }
         ],
         "account:2|xp:10": [
@@ -106127,6 +107801,13 @@
             "player": "arcturus",
             "gain": 54000,
             "currentXp": 245185,
+            "ironMode": 2,
+            "expMultiplier": 10
+          },
+          {
+            "player": "robot",
+            "gain": 52560,
+            "currentXp": 4401218,
             "ironMode": 2,
             "expMultiplier": 10
           }
